@@ -117,6 +117,4 @@ Esta visión reúne información: no recomienda comprar ni vender, no promete ga
 
 ---
 
-*Una sola investigación: no crea entregas futuras ni seguimiento automático.*
-
 © 2026 Osmancito
