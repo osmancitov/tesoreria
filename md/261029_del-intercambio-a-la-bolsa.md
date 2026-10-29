@@ -105,4 +105,4 @@ Los ejemplos de grano, sillas y panadería son inventados para explicar relacion
 
 © 2026 Osmancito
 
-[El hilo del dinero, en Tesorería](../tesoreria.html#el-hilo-del-dinero)
+[volver](../tesoreria.html)
