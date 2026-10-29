@@ -6,7 +6,13 @@ Tesorería es la oficina o despacho del tesorero, y el tesorero es la persona en
 
 Esta sala guarda estudios del dinero y de los activos. Un **activo** es un producto que se compra y se vende en un mercado. Cada informe reúne lo que dicen las fuentes abiertas, declara lo que no pudo comprobar y no recomienda comprar ni vender: informa, no aconseja operar.
 
-## Entradas
+## El hilo del dinero
+
+Un curso para empezar sin conocimientos previos: del intercambio y el dinero a las empresas, las acciones y la bolsa; desde esa base, la inversión y los criptoactivos. Cada entrega explica lo que necesita antes de usarlo. El recorrido queda reunido aquí a medida que se publica, sin calendario automático.
+
+1. [Del intercambio a la bolsa](md/261029_del-intercambio-a-la-bolsa.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261029_del-intercambio-a-la-bolsa.html): Dinero, ahorro, inversión, empresa, acción y mercado, con ejemplos sencillos.
+
+## Estudios de activos
 
 - [BNB: precio y acontecimientos](md/261029_bnb-precio-y-acontecimientos.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261029_bnb-precio-y-acontecimientos.html): Qué muestran las fuentes abiertas sobre BNB, su precio y sus acontecimientos, y qué falta comprobar.
 - [PEPE: visión de mercado](md/261028_pepe-vision-de-mercado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261028_pepe-vision-de-mercado.html): Primera prueba de Investigación de Activos: qué muestran las fuentes abiertas sobre el token de la rana, y qué no se pudo comprobar.
