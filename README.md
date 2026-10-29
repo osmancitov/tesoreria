@@ -8,4 +8,5 @@ Esta sala guarda estudios del dinero y de los activos. Un **activo** es un produ
 
 ## Entradas
 
+- [BNB: precio y acontecimientos](md/261029_bnb-precio-y-acontecimientos.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261029_bnb-precio-y-acontecimientos.html): Qué muestran las fuentes abiertas sobre BNB, su precio y sus acontecimientos, y qué falta comprobar.
 - [PEPE: visión de mercado](md/261028_pepe-vision-de-mercado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261028_pepe-vision-de-mercado.html): Primera prueba de Investigación de Activos: qué muestran las fuentes abiertas sobre el token de la rana, y qué no se pudo comprobar.
