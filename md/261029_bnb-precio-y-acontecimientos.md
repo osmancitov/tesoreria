@@ -4,19 +4,19 @@
 
 [![Un herrero echa monedas doradas a un horno junto a un puerto nocturno; en el mar, una hilera de faros encendidos entre la bruma, al estilo de Turner](../img/261029_bnb-precio-y-acontecimientos.jpg)](../img/261029_bnb-precio-y-acontecimientos.jpg)
 
-Visión estructurada de BNB, reunida de fuentes públicas el 29 de octubre de 2026, con corte a las 10:06 a.m. UTC-4 salvo que se indique otra hora. Une el precio con los acontecimientos fechados de octubre y separa lo comprobado de lo que solo coincide en el tiempo. Cada afirmación lleva su fuente; lo no comprobado se declara. Las letras A, B y C de la gráfica señalan acontecimientos, no causas demostradas. Esta visión informa: no recomienda comprar ni vender, y no predice precios.
+Octubre reúne tres historias alrededor de BNB: una quema de monedas, una ceremonia en Nasdaq y una actualización de la red. La gráfica permite situarlas junto al precio y leerlas en el contexto del mercado. Las fuentes y cotizaciones de este artículo se consultaron esta mañana.
 
 ## 1. El activo y su contexto
 
-BNB es la moneda usada para pagar operaciones en BNB Chain, una red que registra transacciones y ejecuta programas. También tiene usos dentro de Binance, como descuentos en comisiones. Moneda, red y empresa están relacionadas, pero no son lo mismo: tener BNB no equivale a tener una acción de Binance ni da derecho por sí solo a sus beneficios. *(fuentes: [BNB Chain, funciones de BNB](https://www.bnbchain.org/en/what-is-bnb); [Edge, antecedente sobre derechos del tenedor (2022)](https://edge.app/blog/company-news/edge-adds-support-for-bnb/))*
+BNB es la moneda usada para pagar operaciones en BNB Chain, una red que registra transacciones y ejecuta programas. También tiene usos dentro de Binance, como descuentos en comisiones. Moneda, red y empresa están relacionadas, pero no son lo mismo: tener BNB no equivale a tener una acción de Binance ni da derecho por sí solo a sus beneficios.
 
-Su precio depende de lo que los participantes estén dispuestos a pagar por esos usos y por sus expectativas. La cuestión útil no es solo qué anuncia el proyecto, sino si lo anunciado termina generando uso y demanda por la moneda. Esta es una interpretación económica, no una predicción.
+Su precio depende de lo que los participantes estén dispuestos a pagar por esos usos y por sus expectativas. La cuestión útil es si lo que anuncia el proyecto termina generando uso y demanda por la moneda.
 
 ## 2. El comportamiento del precio
 
-![Cierres diarios de BNB/USD del 1 al 28 de octubre de 2026, con las letras A en el 19, B en el 26 y C en el 28. Las letras ubican acontecimientos, no causas.](../img/261029_bnb-precio-y-acontecimientos-grafica.png)
+![Cierres diarios de BNB en dólares del 1 al 28 de octubre, con las letras A en el 19, B en el 26 y C en el 28.](../img/261029_bnb-precio-y-acontecimientos-grafica.png)
 
-Fuente de la gráfica y de las cifras: [Yahoo Finance, BNB-USD](https://finance.yahoo.com/quote/BNB-USD/history/), consultada el 29 de octubre hacia las 10:06 a.m. UTC-4. Son observaciones diarias unidas para mostrar la secuencia, no la trayectoria dentro de cada día. Los días se conservan como los muestra la tabla del proveedor; no son cierres de medianoche UTC-4. La gráfica no incluye la cotización parcial del 29.
+La gráfica une los cierres diarios publicados por Yahoo Finance. Las letras señalan los acontecimientos que se cuentan a continuación; por sí sola, su coincidencia con un movimiento del precio no establece una causa. La lectura parcial de hoy queda fuera de la gráfica.
 
 | Fecha | Cierre (USD) |
 | --- | --- |
@@ -26,72 +26,81 @@ Fuente de la gráfica y de las cifras: [Yahoo Finance, BNB-USD](https://finance.
 | 19 de octubre | 730,96 |
 | 28 de octubre | 758,67 |
 
-Del 7 al 8 de octubre el precio pasó de 772,30 a 735,13 USD: una caída diaria del 4,81%, calculada sobre esos cierres. No quedó comprobado un motivo específico para atribuirle esa caída. Del cierre del 19 al del 28 pasó de 730,96 a 758,67 USD: una recuperación del 3,79%.
+Del 7 al 8, el precio cayó cerca del 5%, sin un motivo específico comprobado. Desde el cierre del 19 hasta el de ayer recuperó casi un 4%.
 
-**La lectura parcial del 29.** Yahoo mostraba 742,17 USD a las 9:49:13 a.m. UTC-4 del 29 de octubre. No es el cierre del día. Frente al cierre del 28 de esa tabla, representa -2,17%. Es una referencia agregada, no un precio garantizado de compra o venta en una casa de cambio. Los porcentajes de otros encabezados pueden usar otras bases y no deben mezclarse con esta comparación. *(fuentes: [Yahoo Finance, historial BNB-USD](https://finance.yahoo.com/quote/BNB-USD/history/))*
+Esta mañana rondaba los 740 dólares, algo más de un 2% por debajo del cierre anterior. Es una cotización parcial, no el cierre de hoy. Los datos exactos para calcular están al final.
 
-### A. 19 de octubre: una quema no es dinero que entra
+### A. 19 de octubre: la quema de monedas
 
-La BNB Foundation anunció la retirada definitiva de 1.646.196,44 BNB, valorados entonces en unos 1.197 millones de dólares. Declaró una oferta restante de 131.512.085 BNB a esa fecha. El programa calcula las retiradas periódicas con el precio y los bloques producidos, con el objetivo de reducir gradualmente la oferta a 100 millones. *(fuentes: [BNB Foundation, quema del 19 de octubre](https://www.bnbchain.org/en/blog/37th-bnb-burn))*
+La BNB Foundation anunció la retirada definitiva de unos 1,6 millones de monedas, valoradas entonces en unos 1200 millones de dólares. Quedaron alrededor de 130 millones de BNB. El programa calcula las retiradas periódicas con el precio y los bloques producidos, con el objetivo de reducir gradualmente la oferta a 100 millones.
 
-**La cifra en dólares describe el valor de las monedas retiradas. No significa que compradores hayan metido esa cantidad de dinero nuevo al mercado.**
+La cifra en dólares expresa el valor de las monedas retiradas, no dinero nuevo que haya entrado al mercado. La quema reduce la oferta; la respuesta del precio depende también de la demanda y de cuánto se hubiera anticipado el anuncio.
 
-La quema cambia la oferta; no fabrica demanda. Que el precio subiera entre el 19 y el 28 no demuestra que esa subida se deba a la quema. Un hecho anunciado y esperado también puede estar incorporado en el precio antes de ocurrir. Esta última es una explicación posible, no un efecto medido aquí.
+### B. 26 de octubre: una campana en Nasdaq
 
-### B. 26 de octubre: una campana no es una nueva compra
+The Block cubrió la ceremonia de BNB Standard, una empresa que mantiene BNB en su tesorería, en Nasdaq. También recogió declaraciones de Changpeng Zhao, fundador de Binance, sobre pagos e inteligencia artificial.
 
-The Block cubrió la ceremonia de BNB Standard (una empresa que declara BNB en su tesorería) en Nasdaq y declaraciones de Changpeng Zhao, fundador de Binance, sobre pagos e inteligencia artificial. Es una historia de visibilidad institucional y proyectos futuros. La propia empresa declara 515.544 BNB al 31 de julio, la misma cantidad que al cierre de abril. Esos datos no prueban una compra nueva el 26 de octubre. *(fuentes: [The Block, BNB Standard, pagos e IA](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790); [BNB Standard, tesorería y capital](https://www.bnbstandard.com/investors/treasury-capital))*
-
-Una empresa puede hablar más de un activo sin estar comprándolo ahora. Zhao dijo que convertir BNB Chain en una red principal para inteligencia artificial todavía estaba por hacerse. La aspiración no debe contarse como adopción realizada. *(fuentes: [The Block, BNB Standard, pagos e IA](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790))*
+Es una historia de visibilidad institucional y proyectos futuros. La empresa declaraba unas 520 mil monedas al cierre de julio, la misma cantidad que al cierre de abril: esas cifras no documentan una compra nueva durante la ceremonia. Zhao habló de convertir BNB Chain en una red principal para inteligencia artificial, una aspiración que todavía estaba por realizarse.
 
 ### C. 28 y 29 de octubre: dos escalas distintas
 
-En la escala del mercado, CoinDesk documentó un rebote general el 28, con BNB cerca de 760, y debilidad de las criptomonedas el 29 junto a caídas de tecnológicas y cautela tras la decisión de la Reserva Federal estadounidense de mantener las tasas. Eso ofrece contexto compartido; no permite asignar cuánto de cada movimiento de BNB causó cada noticia. *(fuentes: [CoinDesk, mercado del 28 de octubre](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision); [CoinDesk, mercado del 29 de octubre](https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump))*
+En la escala del mercado, CoinDesk documentó un rebote general ayer, con BNB cerca de 760 dólares. Hoy registró debilidad de las criptomonedas junto a caídas de tecnológicas y cautela tras la decisión de la Reserva Federal estadounidense de mantener las tasas.
 
-En la escala del proyecto, Jenner, la actualización siguiente de la red, llegó a la red de pruebas, donde se ensayan los cambios antes de usarlos en la red principal. Las notas de versión programaban la activación para el 28 de octubre a las 10:30 p.m. UTC-4; CoinCentral informó el 29 que estaba activa. No se encontró una fecha exacta confirmada de activación en la red principal. *(fuentes: [BNB Chain, notas de versión Jenner](https://www.bnbchain.org/en/releases); [CoinCentral, análisis y anuncio de pruebas](https://coincentral.com/bnb-price-holds-above-750-as-jenner-upgrade-goes-live-on-testnet/))*
+En la escala del proyecto, Jenner, la siguiente actualización de la red, llegó a la red de pruebas, donde se ensayan los cambios antes de usarlos en la red principal. Las notas de versión fijaban la activación para anoche y CoinCentral informó hoy que ya estaba activa. La fecha de paso a la red principal seguía sin confirmarse.
 
-Una de sus funciones reserva el 5% de la capacidad de procesamiento de cada bloque para pagos elegibles: es como reservar un carril para cierta clase de tráfico. No garantiza la inclusión de cada pago ni hace gratis las operaciones. También incorpora la base para un nuevo formato de monedas con controles de transferencias, cuya disponibilidad requiere pasos separados. *(fuentes: [BNB Chain, guía de Jenner](https://www.bnbchain.org/en/blog/jenner-hardfork-changes-upgrade-guide))*
+Una de sus funciones reserva el 5% de la capacidad de procesamiento de cada bloque para pagos elegibles: es como reservar un carril para cierta clase de tráfico, sin hacer gratis las operaciones ni garantizar la inclusión de cada pago. También incorpora la base para un nuevo formato de monedas con controles de transferencias, cuya disponibilidad requiere pasos separados.
 
-**Una mejora técnica amplía lo que la red puede hacer. La demanda real aparece solo si alguien la usa. No son el mismo acontecimiento.**
-
-Una discrepancia de fechas, a la vista: la guía de Jenner del 22 de octubre menciona el día 28; las notas específicas de versión fijan el 29 a las 2:30 a.m. UTC, equivalente al 28 a las 10:30 p.m. UTC-4. Aquí se usa ese horario concreto. Ninguna de esas fechas convierte la prueba en un lanzamiento de la red principal.
+Son nuevas capacidades técnicas. Su efecto económico dependerá del uso que reciban.
 
 ## 3. La actividad registrada
 
-La fotografía del tercer trimestre es mixta. TokenPost y CryptoBriefing reportaron 1.510 millones de transacciones, un 7,5% más que en el trimestre anterior; ingresos de red de 54,2 millones de dólares, un 54% más; y 2,10 millones de direcciones activas diarias, un 14% menos. CryptoBriefing atribuye las cifras al informe trimestral de Blockworks. Son datos publicados sobre el trimestre, no una medición en vivo ni una auditoría propia de las carteras. *(fuentes: [TokenPost, actividad del tercer trimestre](https://www.tokenpost.com/news/investing/39433); [CryptoBriefing, lectura del informe de Blockworks](https://cryptobriefing.com/bnb-chain-q3-transactions-tokenized-equities/))*
+La fotografía del tercer trimestre es mixta. Según TokenPost y CryptoBriefing, la red procesó unos 1500 millones de transacciones, un 7,5% más que en el trimestre anterior. Los ingresos de red rondaron los 54 millones de dólares, un 54% más, mientras las direcciones activas diarias bajaron un 14%, hasta unos 2,1 millones. CryptoBriefing atribuye las cifras al informe trimestral de Blockworks.
 
-Una dirección es un identificador que puede recibir o mover monedas; no equivale necesariamente a una persona, porque una persona o un programa puede usar varias. Por eso más transacciones con menos direcciones puede describir actividad más intensa, no un mayor número de personas. Tampoco los ingresos de red son dividendos que se reciban automáticamente por guardar BNB.
-
-**No comprobado:** la concentración de monedas por propietario, los movimientos actuales de grandes carteras y las compras netas recientes de instituciones. No se puede deducir de estas cifras que hoy estén entrando más compradores.
+Una dirección es un identificador que puede recibir o mover monedas. Una persona o un programa puede usar varias, de modo que más transacciones con menos direcciones puede reflejar actividad más intensa, no un mayor número de personas. Los ingresos de red tampoco son dividendos que se reciban automáticamente por guardar BNB.
 
 ## 4. El sentimiento del mercado
 
-Las lecturas publicadas no apuntan todas en la misma dirección. CoinCentral recoge argumentos alcistas de un analista sobre la gráfica. CoinDesk registró el 29 una inclinación bajista en los contratos de BNB sin vencimiento: la financiación pasó a negativa, de modo que quienes apostaban a la baja pagaban a quienes apostaban al alza. Esos contratos no equivalen al comportamiento de todos los compradores que poseen la moneda. *(fuentes: [CoinDesk, mercado del 29 de octubre](https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump); [CoinCentral, análisis y anuncio de pruebas](https://coincentral.com/bnb-price-holds-above-750-as-jenner-upgrade-goes-live-on-testnet/))*
-
-La conclusión prudente es un ánimo dividido, no un consenso. Una opinión alcista es una interpretación identificable; una señal de contratos tampoco garantiza una caída. No se combinaron fotografías de distintas horas como si fueran una única medición.
+El ánimo está dividido. CoinCentral recoge una lectura alcista de un analista sobre la gráfica. CoinDesk, en cambio, registró hoy una inclinación bajista en los contratos de BNB sin vencimiento: la financiación pasó a negativa, de modo que quienes apostaban a la baja pagaban a quienes apostaban al alza. Esta señal describe esos contratos, no al conjunto de quienes poseen la moneda.
 
 ## 5. Las señales de riesgo
 
-- El precio puede bajar aunque el proyecto anuncie mejoras. La serie muestra oscilaciones, y la cobertura del 28 y 29 muestra un mercado general cambiante. *(fuentes: [Yahoo Finance, historial BNB-USD](https://finance.yahoo.com/quote/BNB-USD/history/); [CoinDesk, mercado del 28 de octubre](https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision); [CoinDesk, mercado del 29 de octubre](https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump))*
-- Retirar monedas reduce la oferta, pero no garantiza demanda ni apreciación. El anuncio de la quema no es una promesa de rendimiento. *(fuentes: [BNB Foundation, quema del 19 de octubre](https://www.bnbchain.org/en/blog/37th-bnb-burn))*
-- Las pruebas de Jenner no prueban todavía adopción productiva adicional ni ingresos nuevos. El paso a la red principal y su uso efectivo siguen siendo hechos diferentes. *(fuentes: [BNB Chain, notas de versión Jenner](https://www.bnbchain.org/en/releases); [BNB Chain, guía de Jenner](https://www.bnbchain.org/en/blog/jenner-hardfork-changes-upgrade-guide))*
-- La documentación describe 45 validadores activos y la selección de 21 productores de bloques por período. Los validadores son operadores que verifican y agrupan transacciones. Esa estructura merece atención a la concentración operativa, pero no demuestra que una sola entidad sea dueña de todos. *(fuentes: [BNB Chain, validadores](https://docs.bnbchain.org/bnb-smart-chain/validator/overview/))*
+BNB combina la volatilidad del mercado con las dudas sobre cuánto uso conseguirán sus nuevas funciones. La documentación describe 45 validadores activos y la selección de 21 productores de bloques por período. Son operadores que verifican y agrupan transacciones: la distribución del control entre ellos importa para entender la concentración operativa de la red.
 
-Esta investigación no estableció una nueva sanción, un hackeo actual ni una crisis de Binance. Tampoco certifica su ausencia. La distribución real del control entre propietarios de validadores quedó sin auditar.
+La investigación no auditó quién controla esos validadores ni la concentración de monedas por propietario. Tampoco midió los movimientos actuales de grandes carteras o las compras netas recientes de instituciones. Esas son las piezas que faltan para completar el panorama del control y los flujos de dinero.
 
-> **Lo que esta visión no hace:** no recomienda comprar ni vender, no promete ganancias y no predice el precio: reúne condiciones y riesgos, y la decisión queda fuera de ella.
+## 6. La conclusión
 
-## 6. La conclusión estructurada
+BNB tiene menos monedas tras la quema, nuevas funciones en pruebas y una red con más operaciones trimestrales, pero menos direcciones activas. Al mismo tiempo, su precio se mueve dentro de un mercado que pasó del rebote a la debilidad.
 
-**Lo comprobado es más útil que una predicción: menos monedas tras una quema anunciada, nuevas funciones en pruebas y una red con más operaciones trimestrales, pero menos direcciones activas.**
+La pregunta que queda abierta es concreta: ¿las capacidades anunciadas se convierten en uso sostenido y demanda por BNB, o el precio acompaña sobre todo al mercado? Para distinguirlo hacen falta datos de uso y flujos comparables en el tiempo, no solo titulares favorables.
 
-**No comprobado:** que esas novedades expliquen cada vela de la gráfica, que la ceremonia institucional implique compras nuevas o que el precio actual sea barato o caro.
+## 7. Datos y fuentes
 
-La pregunta que deja abierta es concreta: ¿las capacidades anunciadas se convierten en uso sostenido y demanda por BNB, o el precio acompaña sobre todo al mercado? Para distinguirlo hacen falta datos de uso y flujos comparables en el tiempo, no solo titulares favorables.
+La prosa usa cifras redondeadas. La tabla de cierres y los datos siguientes conservan la precisión para quien quiera hacer cálculos.
 
-## 7. Las fuentes
+<details>
+<summary>Consultar cifras exactas y notas de los datos</summary>
 
-Consultadas el 29 de octubre de 2026, hacia las 10:00 a.m. UTC-4. Las fuentes del proyecto sirven para comprobar qué anuncia y cómo describe sus mecanismos. La cobertura independiente aporta contraste. Las cotizaciones agregadas sirven de referencia, no de oferta ejecutable.
+| Dato | Valor publicado |
+| --- | --- |
+| BNB retirados en la quema | 1.646.196,44 BNB |
+| Valor aproximado de la quema | 1.197.344.519,40 USD |
+| Oferta restante tras la quema | 131.512.085 BNB |
+| BNB de BNB Standard al cierre de julio | 515.544 BNB, igual que al cierre de abril |
+| Transacciones del tercer trimestre | 1.510 millones; +7,5% trimestral |
+| Ingresos de red del tercer trimestre | 54,2 millones USD; +54% trimestral |
+| Direcciones activas diarias del tercer trimestre | 2,10 millones; −14% trimestral |
+| Caída entre los cierres del 7 y el 8 | −4,81% |
+| Recuperación entre los cierres del 19 y el 28 | +3,79% |
+| Cotización parcial del 29 | 742,17 USD; −2,17% frente al cierre del 28 |
+
+La consulta original terminó hacia las diez de la mañana; la cotización parcial corresponde a las 9:49. Las horas se expresan en UTC-4. Los porcentajes de precio se calculan frente a los cierres indicados, no frente a las bases de otros encabezados del proveedor. Los días de la serie son los de Yahoo Finance, no cierres de medianoche de esta zona horaria, y las cotizaciones agregadas son referencias, no ofertas de compraventa.
+
+Para Jenner, la guía general menciona el día 28 y las notas de versión fijan la activación en pruebas para el 29 a las 02:30 UTC, equivalente a la noche anterior en la zona indicada. Ambas se refieren a la red de pruebas.
+
+</details>
+
+Las fuentes del proyecto describen sus anuncios y mecanismos; la cobertura independiente aporta contraste. Este artículo reúne información, no una recomendación de compra o venta.
 
 - [BNB Chain, funciones de BNB](https://www.bnbchain.org/en/what-is-bnb)
 - [Yahoo Finance, historial BNB-USD](https://finance.yahoo.com/quote/BNB-USD/history/)
@@ -108,8 +117,7 @@ Consultadas el 29 de octubre de 2026, hacia las 10:00 a.m. UTC-4. Las fuentes de
 - [CoinCentral, análisis y anuncio de pruebas](https://coincentral.com/bnb-price-holds-above-750-as-jenner-upgrade-goes-live-on-testnet/)
 - [Edge, antecedente sobre derechos del tenedor (2022)](https://edge.app/blog/company-news/edge-adds-support-for-bnb/)
 
----
 
-*Hechos reunidos el 29 de octubre de 2026, con corte a las 10:06 a.m. UTC-4. Una sola investigación: no crea entregas futuras ni seguimiento automático.*
+---
 
 © 2026 Osmancito
