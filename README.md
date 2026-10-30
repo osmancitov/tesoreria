@@ -14,5 +14,6 @@ Un curso para empezar sin conocimientos previos: del intercambio y el dinero a l
 
 ## Estudios de activos
 
+- [Hyperliquid desde cero](md/261030_hyperliquid-desde-cero.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261030_hyperliquid-desde-cero.html): Qué es Hyperliquid: su plataforma, su red y su moneda HYPE, explicados desde cero y con fuentes.
 - [BNB: precio y acontecimientos](md/261029_bnb-precio-y-acontecimientos.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261029_bnb-precio-y-acontecimientos.html): Qué muestran las fuentes abiertas sobre BNB, su precio y sus acontecimientos, y qué falta comprobar.
 - [PEPE: visión de mercado](md/261028_pepe-vision-de-mercado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261028_pepe-vision-de-mercado.html): Primera prueba de Investigación de Activos: qué muestran las fuentes abiertas sobre el token de la rana, y qué no se pudo comprobar.
