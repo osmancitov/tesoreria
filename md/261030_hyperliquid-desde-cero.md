@@ -2,7 +2,7 @@
 
 # Hyperliquid desde cero
 
-[![Una plaza veneciana abierta al canal donde cambistas y comerciantes negocian a la vista de todos, con un tablero de cristal de ofertas; ilustración conceptual al estilo de Canaletto](../img/261030_hyperliquid-desde-cero.jpg)](../img/261030_hyperliquid-desde-cero.jpg)
+[![Una plaza veneciana abierta al canal, con un gran tablero de cristal de ofertas en el centro y cambistas y comerciantes a su alrededor; amanece a un lado y anochece al otro; ilustración conceptual al estilo de Canaletto](../img/261030_hyperliquid-desde-cero.jpg)](../img/261030_hyperliquid-desde-cero.jpg)
 
 *Estudio de activos*
 
