@@ -4,8 +4,6 @@
 
 [![Una plaza imaginaria reúne bienes, monedas, un taller y un salón de corredores; ilustración conceptual al estilo de Teniers](../img/261029_del-intercambio-a-la-bolsa.jpg)](../img/261029_del-intercambio-a-la-bolsa.jpg)
 
-*El hilo del dinero · Primera entrega*
-
 En una bolsa de valores se negocian participaciones en empresas. Detrás de una pantalla de precios hay negocios, personas que aportan dinero y otras que desean recuperar lo que aportaron. Antes de leer esas pantallas conviene entender qué se intercambia y qué recibe quien compra.
 
 Este recorrido empieza antes de los corredores y los edificios de Nueva York: en la diferencia entre un objeto, el dinero con que se paga y el derecho que se adquiere. No hace falta saber de economía para seguirlo.
@@ -92,7 +90,7 @@ Ese mapa permite acercarse después a los **activos digitales**, unidades de val
 
 ## Fuentes y alcance
 
-Los ejemplos de grano, sillas y panadería son inventados para explicar relaciones; no pretenden reconstruir un episodio histórico. La historia se apoya en los ejemplos documentados y la explicación del mercado toma como referencia instituciones estadounidenses, no reglas de acceso o de impuestos aplicables a cualquier país. Esta primera entrega enseña conceptos; no propone compras ni apertura de cuentas.
+Los ejemplos de grano, sillas y panadería son inventados para explicar relaciones; no pretenden reconstruir un episodio histórico. La historia se apoya en los ejemplos documentados y la explicación del mercado toma como referencia instituciones estadounidenses, no reglas de acceso o de impuestos aplicables a cualquier país. Esta lectura enseña conceptos; no propone compras ni apertura de cuentas.
 
 - [Museo Británico: el dinero y sus formas históricas](https://www.britishmuseum.org/collection/galleries/money).
 - [Banco de Inglaterra: qué es el dinero y para qué sirve](https://www.bankofengland.co.uk/explainers/what-is-money).

@@ -1,6 +1,6 @@
 30 de octubre de 2026
 
-# Hyperliquid desde cero
+# Hyperliquid
 
 [![Una plaza veneciana de noche junto al canal, iluminada por faroles, con un gran tablero de cristal de ofertas en el centro y cambistas y comerciantes a su alrededor; ilustración conceptual al estilo de Canaletto](../img/261030_hyperliquid-desde-cero.jpg)](../img/261030_hyperliquid-desde-cero.jpg)
 
