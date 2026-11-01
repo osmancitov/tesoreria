@@ -24,8 +24,8 @@ Abre el camino porque la primera idea del recorrido no es técnica. La resume la
 
 Obras:
 
-- *The Psychology of Money* (2020; en castellano, *La psicología del dinero*).
-- *Same as Ever* (2023; en castellano, *Lo que nunca cambia*).
+- *The Psychology of Money* (2020, *La psicología del dinero*).
+- *Same as Ever* (2023, *Lo que nunca cambia*).
 - *The Art of Spending Money*, su libro más reciente.
 
 ## John J. Murphy: el mapa del mercado
@@ -40,7 +40,7 @@ En este recorrido, Murphy entrega el mapa del terreno: el lenguaje de los gráfi
 
 Obras:
 
-- *Technical Analysis of the Futures Markets* (1986), ampliado como *Technical Analysis of the Financial Markets* (1999; en castellano, *Análisis técnico de los mercados financieros*).
+- *Technical Analysis of the Futures Markets* (1986), ampliado como *Technical Analysis of the Financial Markets* (1999, *Análisis técnico de los mercados financieros*).
 - *Intermarket Analysis* (2004).
 - *The Visual Investor* (1996).
 
@@ -56,7 +56,7 @@ Es el centro del recorrido: con la mentalidad y el mapa ya vistos, Elder muestra
 
 Obras:
 
-- *Trading for a Living* (1993; en castellano, *Vivir del trading*).
+- *Trading for a Living* (1993, *Vivir del trading*).
 - *Come Into My Trading Room* (2002).
 - *Entries & Exits* (2006), con operaciones reales explicadas una a una.
 - *The New Trading for a Living* (2014), la actualización de su clásico.
@@ -89,7 +89,7 @@ Se lee con el sistema ya armado: Douglas no enseña qué hacer, prepara la mente
 Obras:
 
 - *The Disciplined Trader* (1990), de los primeros libros en llevar la psicología del trading a la industria.
-- *Trading in the Zone* (2001; en castellano, *Trading en la zona*).
+- *Trading in the Zone* (2001, *Trading en la zona*).
 
 ## Jack D. Schwager: el espejo de los maestros
 
@@ -103,7 +103,7 @@ Cierra el recorrido como un espejo: después de la mentalidad, el mapa, el méto
 
 Obras, la serie *Market Wizards*:
 
-- *Market Wizards* (1989; en castellano, *Los magos del mercado*).
+- *Market Wizards* (1989, *Los magos del mercado*).
 - *The New Market Wizards* (1992).
 - *Stock Market Wizards* (2001).
 - *Hedge Fund Market Wizards* (2012).
