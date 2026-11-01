@@ -6,7 +6,7 @@
 
 Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
-Esa actividad no es un juego al margen de la economía: cumple funciones que esta necesita. La compraventa constante fija los precios de los activos según su oferta y su demanda, y esos precios orientan las decisiones de empresas, gobiernos y familias. Mantiene además la liquidez: que casi siempre haya alguien dispuesto a comprar o a vender permite convertir un activo en dinero cuando hace falta. Y reúne en un mismo lugar a quienes tienen dinero con quienes lo necesitan para su actividad.
+Esa actividad cumple funciones que la economía necesita. La compraventa constante fija los precios de los activos según su oferta y su demanda, y esos precios orientan las decisiones de empresas, gobiernos y familias. Mantiene además la liquidez: facilita encontrar con quién comprar o vender, y así convertir un activo en dinero cuando hace falta.
 
 Los maestros del trading son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
 
