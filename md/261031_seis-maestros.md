@@ -16,7 +16,7 @@ Los maestros del recorrido son seis, y se leerán en este orden: Morgan Housel, 
 
 [![Un hombre pensativo ante unas monedas y un libro abierto en una mesa de madera](../img/261031_seis-maestros_housel.jpg)](../img/261031_seis-maestros_housel.jpg)
 
-Morgan Housel es escritor de finanzas. Se graduó de la universidad en 2008, justo cuando estallaba la crisis financiera, y en lugar de entrar a la banca terminó escribiendo: pasó casi diez años en The Motley Fool y fue columnista del Wall Street Journal. Hoy es socio de Collaborative Fund, una firma de inversión, y forma parte del consejo de la aseguradora Markel. Ha ganado dos veces el premio Best in Business del periodismo económico estadounidense.
+Morgan Housel es escritor de finanzas. Se graduó de la universidad en 2008, justo cuando estallaba la crisis financiera, y en lugar de entrar a la banca terminó escribiendo: pasó casi diez años en The Motley Fool, una empresa de análisis y consejos de inversión, y fue columnista del Wall Street Journal. Hoy es socio de Collaborative Fund, una firma de inversión, y forma parte del consejo de la aseguradora Markel. Ha ganado dos veces el premio Best in Business del periodismo económico estadounidense.
 
 Su tema no son los números sino la conducta: por qué personas inteligentes toman malas decisiones con el dinero, qué papel tienen la suerte y el riesgo, y por qué las decisiones financieras no se toman en una hoja de cálculo sino en la mesa de la casa, con la historia, el orgullo y los miedos de cada uno mezclados en ellas. Su libro más conocido reúne esas ideas en diecinueve relatos breves y ha vendido más de diez millones de ejemplares.
 
