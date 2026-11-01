@@ -2,13 +2,13 @@
 
 # Los seis maestros del trading
 
-[![Un caminante de espaldas al inicio de una senda entre colinas, con seis luces a lo largo del camino](../img/261031_seis-maestros.jpg)](../img/261031_seis-maestros.jpg)
+[![Seis libros viejos apilados sobre una mesa de madera de estudio, junto a una vela encendida, unas gafas de leer y un tintero con pluma](../img/261031_seis-maestros.jpg)](../img/261031_seis-maestros.jpg)
 
 Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
 Esa actividad cumple funciones que la economía necesita. La compraventa constante fija los precios de los activos según su oferta y su demanda, y esos precios orientan las decisiones de empresas, gobiernos y familias. Mantiene además la liquidez: facilita encontrar con quién comprar o vender, y así convertir un activo en dinero cuando hace falta.
 
-Los maestros del trading son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
+Los maestros del trading son seis: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
 
 ## Morgan Housel
 
@@ -20,7 +20,7 @@ Morgan Housel es escritor de finanzas. Se graduó de la universidad en 2008, jus
 
 Su tema no son los números sino la conducta: por qué personas inteligentes toman malas decisiones con el dinero, qué papel tienen la suerte y el riesgo, y por qué las decisiones financieras no se toman en una hoja de cálculo sino en la mesa de la casa, con la historia, el orgullo y los miedos de cada uno mezclados en ellas. Su libro más conocido reúne esas ideas en diecinueve relatos breves y ha vendido más de diez millones de ejemplares.
 
-Abre el camino porque la primera idea del recorrido no es técnica. La resume la presentación de su libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
+Va primero porque su primera idea no es técnica. La resume la presentación de su libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
 
 Obras:
 
@@ -38,7 +38,7 @@ John J. Murphy (1942-2026) fue la gran referencia del análisis técnico, la dis
 
 Su libro principal, publicado en 1986 y ampliado en 1999, es la referencia estándar de la materia y texto de estudio de las certificaciones profesionales. También impulsó el análisis intermercado, que estudia cómo se influyen entre sí las acciones, los bonos, las materias primas y las divisas.
 
-En este recorrido, Murphy entrega el mapa del terreno: el lenguaje de los gráficos con que se leerán los pasos siguientes.
+Murphy entrega el mapa del terreno: el lenguaje de los gráficos con que se leerá a los demás maestros.
 
 Obras:
 
@@ -56,7 +56,7 @@ Alexander Elder nació en Leningrado y creció en Estonia, donde entró a la fac
 
 Su obra junta en un solo método lo que otros tratan por separado: la psicología del trader y de la masa, el análisis del mercado y la gestión del dinero. De su oficio de psiquiatra sale su lectura de la euforia, el ego y la impaciencia que arruinan cuentas. Su consejo al principiante es no buscar ganar dinero sino aprender a operar bien: en su enfoque, la ganancia, cuando llega, es consecuencia de operar bien, no una meta que se persiga a lo directo. Al capital lo compara con el aire del buzo: quien lo malgasta no vuelve a la superficie.
 
-Es el centro del recorrido: con la mentalidad y el mapa ya vistos, Elder muestra el oficio entero, como una profesión disciplinada.
+Es el centro de esta serie: con la mentalidad y el mapa ya vistos, Elder muestra el oficio entero, como una profesión disciplinada.
 
 Obras:
 
@@ -109,7 +109,7 @@ Jack D. Schwager, economista formado en el Brooklyn College y en la Universidad 
 
 Su aporte son las entrevistas: desde 1989 ha preguntado en profundidad a los traders más exitosos del mundo cómo piensan, cómo operan y cómo sobrevivieron a sus peores pérdidas. Lo que muestran sus libros es que no existe un secreto único: los grandes comparten disciplina, gestión del riesgo y la capacidad de levantarse de caídas devastadoras.
 
-Cierra el recorrido como un espejo: después de la mentalidad, el mapa, el método, el sistema y la zona, sus entrevistados muestran cómo otros aplicaron, o no, esos mismos principios.
+Cierra la serie como un espejo: después de la mentalidad, el mapa, el método, el sistema y la zona, sus entrevistados muestran cómo otros aplicaron, o no, esos mismos principios.
 
 Obras, la serie *Market Wizards*:
 
@@ -119,21 +119,6 @@ Obras, la serie *Market Wizards*:
 - *Hedge Fund Market Wizards* (2012).
 - *Unknown Market Wizards* (2020).
 - Además, la referencia técnica *A Complete Guide to the Futures Markets* (1984).
-
-## La hoja de ruta
-
-[![Una senda cruza un valle con seis hitos iluminados bajo un cielo amplio](../img/261031_seis-maestros_hoja-de-ruta.jpg)](../img/261031_seis-maestros_hoja-de-ruta.jpg)
-
-El recorrido se camina en el orden en que se presentaron los maestros, y cada etapa deja algo concreto:
-
-1. La mentalidad del dinero, con Housel: entender cómo pensamos y nos comportamos con el dinero antes de tocar el mercado.
-2. El mapa del mercado, con Murphy: aprender a leer los gráficos y las relaciones entre mercados.
-3. El método completo, con Elder: unir psicología, análisis y gestión del dinero en una práctica disciplinada.
-4. El sistema y el riesgo, con Tharp: diseñar un sistema propio y gestionar el riesgo de las malas rachas.
-5. La mente en la zona, con Douglas: ejecutar pensando en probabilidades.
-6. El espejo de los maestros, con Schwager: ver esos principios vivos en quienes ya lo lograron.
-
-Cada etapa irá dejando sus entradas aquí, en la Tesorería, a medida que el camino avance.
 
 ## Fuentes
 
