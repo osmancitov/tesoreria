@@ -10,13 +10,15 @@ El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o criptomonedas, que son activos digitales, buscando ganar con los cambios de su precio.
 
-Hay una imagen que le da interés a ese lugar: la actividad económica vista como una escalera, cazar, sembrar, construir, manejar dinero y, un peldaño más arriba, comprar y vender dinero. Operar sería, en esa imagen, casi pensar sobre el pensamiento: el instrumento con que se valoran las cosas pasa a ser el objeto.
+Comprar y vender dinero parece oficio nuevo, pero nació del grano. En el Osaka del siglo XVIII, los comerciantes de arroz ya pactaban la entrega futura de cosechas que aún no existían, a precio fijado el día del trato, y de ese mercado salió, atribuida al comerciante Munehisa Homma, la manera de dibujar los precios con velas, donde cada vela muestra el precio de apertura, el de cierre, y el más alto y el más bajo de la jornada. Siglo y medio después, los comerciantes de grano de Chicago fundaron en 1848 su bolsa para lo mismo, y en 1864 esos contratos ya eran estándar y se revendían entre ellos. Del grano que alimenta la molienda salió también el primer mercado organizado de este oficio.
 
-Este recorrido no viene a predicar esa actividad ni a demostrar que sea la mejor vía. Viene a perseguir la curiosidad y el chisme: investigar quién mueve ese dinero, qué busca, qué sabe y qué le sale mal. Seguir el dinero y ver adónde lleva.
+Que este oficio tenga tres siglos no lo vuelve bueno para todo el mundo, y este recorrido no viene a defenderlo como la mejor vía. Viene a estudiarlo por dentro: quién lo ejerce, cómo piensa y dónde se equivoca.
 
-Ese dinero no está prometido: ningún libro ni ningún método lo garantizan. Lo que sí se puede preparar es el camino, y de eso trata este texto: de los seis autores elegidos como maestros para recorrerlo.
+Ese estudio tampoco promete dinero: ningún libro ni ningún método lo garantiza. Lo que sí se puede preparar es el camino, y de eso trata este texto: de los seis autores elegidos como maestros para recorrerlo.
 
-La primera idea del recorrido no es técnica. La resume el editor de *The Psychology of Money* en la presentación del libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta. Los seis maestros se leerán en este orden: primero, cómo pensamos sobre el dinero, con Morgan Housel; después, el mapa de los gráficos, con John J. Murphy; el método completo de operar, con Alexander Elder; el sistema y el riesgo, con Van K. Tharp; la mente que piensa en probabilidades, con Mark Douglas; y al final, el espejo de quienes lo han logrado, con Jack D. Schwager.
+La primera idea del recorrido no es técnica. La resume el editor de *The Psychology of Money* en la presentación del libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
+
+Los seis maestros se leerán en este orden: primero, cómo pensamos sobre el dinero, con Morgan Housel; después, el mapa de los gráficos, con John J. Murphy; el método completo de operar, con Alexander Elder; el sistema y el riesgo, con Van K. Tharp; la mente que piensa en probabilidades, con Mark Douglas; y al final, el espejo de quienes lo han logrado, con Jack D. Schwager.
 
 ## Morgan Housel: cómo pensamos sobre el dinero
 
