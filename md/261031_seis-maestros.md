@@ -10,9 +10,9 @@ El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o criptomonedas, que son activos digitales, buscando ganar con los cambios de su precio.
 
-Comprar y vender dinero parece oficio nuevo, pero una de sus formas, el futuro, nació hace siglos y nació del grano. Un futuro es un pacto de compraventa a precio fijado para una fecha venidera. En el Osaka del siglo XVIII, la bolsa de arroz de Dōjima, considerada el primer mercado de futuros del mundo, ya negociaba la entrega de cosechas que aún no existían. De aquel Japón salieron los gráficos de velas, donde cada vela muestra el precio de apertura, el de cierre y el más alto y el más bajo de la jornada; la tradición atribuye su invención al comerciante Munehisa Homma. Siglo y medio después, los comerciantes de grano de Chicago fundaron en 1848 su propia bolsa, que unos quince años después ya negociaba esos contratos en forma estándar. La materia de la molienda fue también la materia de los primeros futuros.
+Entre los contratos que se negocian en los mercados están los futuros: pactos de compraventa a un precio fijado hoy para una fecha venidera. Un ejemplo temprano y bien documentado es la bolsa de arroz de Dōjima, en el Osaka del siglo XVIII, donde los comerciantes negociaban entregas futuras de arroz. Siglo y medio después, los comerciantes de grano de Chicago fundaron en 1848 su propia bolsa, que en 1865 ya negociaba esos contratos en forma estándar. El grano, la misma materia de la molienda, fue la mercancía de esos dos mercados.
 
-Que los futuros tengan tres siglos no los vuelve buenos para todo el mundo, y este recorrido no viene a defenderlos como la mejor vía. Viene a estudiar ese oficio por dentro: quién lo ejerce, cómo piensa y dónde se equivoca.
+Que los futuros tengan siglos de historia no los vuelve buenos para todo el mundo, y este recorrido no viene a defenderlos como la mejor vía. Viene a estudiar ese oficio por dentro: quién lo ejerce, cómo piensa y dónde se equivoca.
 
 Ese estudio tampoco promete dinero: ningún libro ni ningún método lo garantiza. Lo que sí se puede preparar es el camino, y de eso trata este texto: de los seis autores elegidos como maestros para recorrerlo.
 
@@ -146,8 +146,8 @@ Cada etapa irá dejando sus entradas aquí, en la Tesorería, a medida que el ca
 - [Yahoo Finance](https://finance.yahoo.com/news/reflecting-depth-mark-douglas-taught-114851970.html): nota del 16 de septiembre de 2015 sobre su muerte.
 - [FundSeeder](https://www.fundseeder.com/about): la plataforma fundada por Jack Schwager.
 - [Wikipedia](https://en.wikipedia.org/wiki/D%C5%8Djima_Rice_Exchange): la bolsa del arroz de Dōjima, en Osaka.
-- [Wikipedia](https://en.wikipedia.org/wiki/Chicago_Board_of_Trade): la fundación de la bolsa de Chicago y los primeros contratos de futuros estándar.
-- [Springer](https://link.springer.com/book/9789812878199): la bolsa de Dōjima como primer mercado de futuros del mundo.
-- [Wikipedia](https://en.wikipedia.org/wiki/Candlestick_chart): el gráfico de velas y su atribución a Munehisa Homma.
+- [Wikipedia](https://en.wikipedia.org/wiki/Chicago_Board_of_Trade): la fundación de la bolsa de Chicago.
+- [Springer](https://link.springer.com/book/9789812878199): la bolsa de Dōjima, sus reglas y sus prácticas.
+- [CME Group](https://www.cmegroup.com/education/courses/introduction-to-futures/midwest-grain-trade-history-of-futures-exchanges): los futuros estándar de la bolsa de Chicago, en 1865.
 
 © 2026 Osmancito
