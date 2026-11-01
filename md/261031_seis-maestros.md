@@ -10,9 +10,15 @@ Esa actividad cumple funciones que la economía necesita. La compraventa constan
 
 Los maestros del trading son seis: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
 
+Este es el curso de trading de Osmancitov, y fue él quien escogió a estos seis. La selección reúne a un autor para cada parte del oficio: Housel, la conducta ante el dinero; Murphy, la lectura de los gráficos; Elder, el método completo; Tharp, el sistema y el riesgo; Douglas, la mentalidad ante la incertidumbre; y Schwager, las entrevistas a traders de primer nivel.
+
+Por eso son estos seis y no otros: ninguno repite lo que dice otro, y entre todos cubren lo que hace falta para empezar de cero. Los seis tienen además obra publicada y una trayectoria que se puede comprobar. Para un curso de trading es una selección excelente.
+
+---
+
 ## Morgan Housel
 
-*cómo pensamos sobre el dinero*
+*Cómo pensamos sobre el dinero*
 
 [![Un hombre pensativo ante unas monedas y un libro abierto en una mesa de madera](../img/261031_seis-maestros_housel.jpg)](../img/261031_seis-maestros_housel.jpg)
 
@@ -28,9 +34,11 @@ Obras:
 - *Same as Ever* (2023, *Lo que nunca cambia*).
 - *The Art of Spending Money*, su libro más reciente.
 
+---
+
 ## John J. Murphy
 
-*el mapa del mercado*
+*El mapa del mercado*
 
 [![Una mesa de cartógrafo con un mapa de líneas quebradas, compás y regla](../img/261031_seis-maestros_murphy.jpg)](../img/261031_seis-maestros_murphy.jpg)
 
@@ -46,9 +54,11 @@ Obras:
 - *Intermarket Analysis* (2004).
 - *The Visual Investor* (1996).
 
+---
+
 ## Alexander Elder
 
-*el método completo*
+*El método completo*
 
 [![Un buzo desciende sereno en un mar translúcido atravesado por tres haces de luz](../img/261031_seis-maestros_elder.jpg)](../img/261031_seis-maestros_elder.jpg)
 
@@ -65,9 +75,11 @@ Obras:
 - *Entries & Exits* (2006), con operaciones reales explicadas una a una.
 - *The New Trading for a Living* (2014), la actualización de su clásico.
 
+---
+
 ## Van K. Tharp
 
-*el sistema y el riesgo*
+*El sistema y el riesgo*
 
 [![Un taller renacentista con planos, bloques de madera de tamaños crecientes, escuadra y compás](../img/261031_seis-maestros_tharp.jpg)](../img/261031_seis-maestros_tharp.jpg)
 
@@ -82,9 +94,11 @@ Obras:
 - *Trade Your Way to Financial Freedom* (1998; traducción libre: «Opera a tu manera hacia la libertad financiera»).
 - *Super Trader*, su programa de formación convertido en libro.
 
+---
+
 ## Mark Douglas
 
-*la mente en probabilidades*
+*La mente en probabilidades*
 
 [![Una figura serena en una barca sobre un mar de niebla, con dados y cartas flotando](../img/261031_seis-maestros_douglas.jpg)](../img/261031_seis-maestros_douglas.jpg)
 
@@ -99,9 +113,11 @@ Obras:
 - *The Disciplined Trader* (1990), de los primeros libros en llevar la psicología del trading a la industria.
 - *Trading in the Zone* (2001, *Trading en la zona*).
 
+---
+
 ## Jack D. Schwager
 
-*el espejo de los maestros*
+*El espejo de los maestros*
 
 [![Un círculo de maestros conversa a la luz de las velas entre mapas y globos; un escriba toma notas](../img/261031_seis-maestros_schwager.jpg)](../img/261031_seis-maestros_schwager.jpg)
 
