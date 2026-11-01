@@ -1,12 +1,12 @@
 31 de octubre de 2026
 
-# Los seis maestros del trading
+# Los Seis Maestros del Trading
 
 [![Seis libros viejos apilados sobre una mesa de madera de estudio, junto a una vela encendida, unas gafas de leer y un tintero con pluma](../img/261031_seis-maestros.jpg)](../img/261031_seis-maestros.jpg)
 
 ---
 
-## Qué es el trading
+## ¿Qué es el trading?
 
 Los mercados financieros son espacios donde se compran y venden, entre otras cosas, acciones y bonos. Comprar una acción significa adquirir una pequeña participación en una empresa. Comprar un bono significa prestarle dinero a quien lo emite, por ejemplo, una empresa o un gobierno.
 
@@ -16,7 +16,7 @@ Esa actividad cumple funciones que la economía necesita. La compraventa constan
 
 ---
 
-## Por qué es importante el trading
+## ¿Por qué es importante el trading?
 
 El trading es importante porque contribuye a conectar dos necesidades: la de quien necesita vender y la de quien necesita comprar. Que ambas existan no basta para que se encuentren. Al ofrecer una contraparte, quienes operan pueden hacer posible un intercambio que de otro modo tendría que esperar.
 

@@ -6,5 +6,5 @@ Tesorería es la oficina o despacho del tesorero, y el tesorero es la persona en
 
 Esta sala guarda estudios del dinero y de los activos. Un **activo** es un producto que se compra y se vende en un mercado. Cada informe reúne lo que dicen las fuentes abiertas, declara lo que no pudo comprobar y no recomienda comprar ni vender: informa, no aconseja operar.
 
-- [Liquidez y estructura del mercado](md/261101_liquidez-y-estructura-del-mercado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261101_liquidez-y-estructura-del-mercado.html): Qué es la liquidez de un mercado, quién la sostiene y qué pasó en octubre de 1987, según Grossman y Miller.
-- [Los seis maestros del trading](md/261031_seis-maestros.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261031_seis-maestros.html): Seis autores elegidos como maestros para aprender a operar en los mercados desde cero.
+- [Liquidez y Estructura del Mercado](md/261101_liquidez-y-estructura-del-mercado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261101_liquidez-y-estructura-del-mercado.html): Qué es la liquidez de un mercado, quién la sostiene y qué pasó en octubre de 1987, según Grossman y Miller.
+- [Los Seis Maestros del Trading](md/261031_seis-maestros.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261031_seis-maestros.html): Seis autores elegidos como maestros para aprender a operar en los mercados desde cero.
