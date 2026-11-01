@@ -1,6 +1,6 @@
 1 de noviembre de 2026
 
-# Liquidez y Estructura del Mercado
+# Liquidez y estructura del mercado
 
 [![Corredores con chaquetas de colores se agolpan en el ruedo de la bolsa de Chicago, gritando órdenes entre boletas de papel](../img/261101_liquidez-y-estructura-del-mercado.jpg)](../img/261101_liquidez-y-estructura-del-mercado.jpg)
 

@@ -1,6 +1,6 @@
 31 de octubre de 2026
 
-# Los Seis Maestros del Trading
+# Los seis maestros del trading
 
 [![Seis libros viejos apilados sobre una mesa de madera de estudio, junto a una vela encendida, unas gafas de leer y un tintero con pluma](../img/261031_seis-maestros.jpg)](../img/261031_seis-maestros.jpg)
 
