@@ -10,7 +10,7 @@ El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
-Los maestros del recorrido son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager. Cada uno tiene su sección más abajo, con su historia, sus ideas y sus obras.
+Los maestros del recorrido son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
 
 ## Morgan Housel: cómo pensamos sobre el dinero
 
