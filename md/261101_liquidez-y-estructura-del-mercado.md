@@ -1,0 +1,65 @@
+1 de noviembre de 2026
+
+# Liquidez y estructura del mercado
+
+[![Corredores con chaquetas de colores se agolpan en el ruedo de la bolsa de Chicago, gritando órdenes entre boletas de papel](../img/261101_liquidez-y-estructura-del-mercado.jpg)](../img/261101_liquidez-y-estructura-del-mercado.jpg)
+
+En julio de 1988, la Oficina Nacional de Investigación Económica de Estados Unidos (NBER, por sus siglas en inglés), una institución privada que reúne investigadores de economía, publicó el trabajo *Liquidity and Market Structure*, «Liquidez y estructura del mercado», de Sanford J. Grossman, de la Universidad de Princeton, y Merton H. Miller, de la Universidad de Chicago. Los autores lo habían presentado meses antes, en diciembre de 1987, en la reunión anual de la Asociación Estadounidense de Finanzas, semanas después del gran derrumbe bursátil de octubre de ese año, que asoma en sus páginas. Este estudio explica el trabajo para quien llega sin conocimiento previo.
+
+---
+
+## La pregunta
+
+Una acción es una pequeña participación en una empresa, y un bono es un préstamo a quien lo emite, como una empresa o un gobierno. Ambos se compran y se venden en mercados, y de esos mercados se dice que unos son más líquidos que otros. Los autores parten de una observación de Keynes: casi cualquiera aceptaría que la reina Victoria fue una mujer más feliz, pero una monarca menos exitosa, que Isabel I, y sin embargo nadie sabría decir eso en términos precisos. Con la liquidez pasa lo mismo. Cualquiera dice que el gran mercado de bonos de Estados Unidos es más líquido que el mercado de viviendas de una ciudad, pero cuánto más, y por qué, no tiene una respuesta fácil. La liquidez es la facilidad para comprar o vender algo de inmediato; el trabajo propone explicar de dónde sale.
+
+---
+
+## Los dos grupos y la espera
+
+El modelo del trabajo tiene dos grupos. Están los clientes externos: personas y empresas que llegan al mercado porque necesitan comprar o vender. Un evento de liquidez, como un gasto imprevisto o una cosecha que hay que cobrar, les abre una diferencia entre lo que tienen y lo que quisieran tener. Y están los creadores de mercado: operadores que se mantienen presentes, dispuestos a comprar cuando otros venden y a vender cuando otros compran.
+
+La teoría económica clásica imaginaba los precios naciendo de una gran asamblea donde todos los compradores y vendedores están presentes a la vez. En un mercado real no coinciden: quien necesita vender hoy puede no encontrar hoy a quien necesita comprar. El vendedor apurado tiene dos caminos. Puede esperar a que lleguen más compradores, con la esperanza de un mejor precio y el riesgo de que se mueva mientras tanto. O puede vender de inmediato a un creador de mercado, que le ofrece un precio cierto, aunque en promedio menor. Esa disposición a vender ya en lugar de esperar es lo que el trabajo llama demanda de inmediatez.
+
+El creador de mercado recorre el camino contrario: compra ahora y espera a que llegue el comprador final. Mientras espera, el riesgo de que el precio caiga es suyo. Por eso cobra: el precio que ofrece es, en promedio, menor que el que el vendedor podría conseguir esperando. Además del riesgo, el creador carga con un costo fácil de pasar por alto: el de estar presente y abierto cuando los clientes llegan, un costo que existe aunque nadie venga a operar.
+
+---
+
+## Cuántos creadores hacen falta
+
+El riesgo que los clientes se quitan de encima no desaparece: pasa a los creadores de mercado. Pero se reparte. Cuantos más creadores haya, más diluido queda el riesgo de cada uno y más barato resulta el servicio de inmediatez. Gente nueva entra al oficio hasta que lo que gana cada creador equilibra justo lo que le cuesta mantenerse presente. Ese número de creadores decide la liquidez del mercado: cuánto se hunde el precio, solo por un tiempo, cuando llega una orden de venta grande.
+
+---
+
+## El espectro de los mercados reales
+
+Con esa lente, los mercados reales se ordenan en un espectro. En un extremo están los mercados de futuros, donde se negocian contratos que pactan hoy la compra o la venta de un activo a un precio fijado, para una fecha futura. Ahí los precios se mueven con violencia y esperar cuesta caro, así que la demanda de inmediatez es alta y sostenida, y los creadores abundan. En el otro extremo está la vivienda: quien vende una casa no tiene apuro de horas sino de meses, y le importa más que la oferta llegue a todos los compradores posibles. Los intermediarios de ese mercado buscan compradores, no ofrecen inmediatez, porque comprar casas para guardarlas mientras aparece el comprador final sería carísimo y arriesgado. El mercado de acciones queda en medio y mezcla ambas formas: en la Bolsa de Nueva York, por ejemplo, un especialista designado garantizaba que siempre hubiera alguien presente para atender una orden, aunque la acción se negociara poco.
+
+---
+
+## Cómo se mide la liquidez
+
+La medida más usada entonces era el diferencial entre el precio al que se ofrece comprar y el precio al que se ofrece vender. Los autores muestran que no basta: ese diferencial mide bien el cobro solo cuando la compra y la venta ocurren a la vez, y casi nunca ocurren a la vez. Lo que le importa a quien trae una orden grande es otra cosa: cuánto se moverá el precio en su contra mientras la orden se ejecuta. Tampoco sirve comparar el volumen negociado con el cambio del precio, porque un mercado puede moverse mucho por noticias nuevas y no por falta de liquidez. Donde sí deja huella el trabajo de los creadores es en las idas y venidas del precio: si una venta grande lo hunde por un rato y luego se recupera cuando llegan los compradores, ese vaivén es la marca del servicio, y el trabajo propone medirlo así.
+
+---
+
+## La prueba de octubre de 1987
+
+El trabajo cierra mirando el derrumbe que acababa de vivir. El lunes 19 de octubre de 1987, una avalancha de órdenes de venta golpeó al mismo tiempo la bolsa de acciones de Nueva York y el mercado de futuros de Chicago. Cada mercado respondió a su manera. Nueva York permite retrasar la apertura de una acción cuando las órdenes llegan demasiado desbalanceadas, para dar tiempo a buscar compradores; una hora después de la campana, más de un tercio de las acciones del índice Dow Jones, que reúne a treinta grandes empresas, todavía no se negociaban, entre ellas las de IBM, Sears y Exxon. Chicago hizo lo contrario: abrió de inmediato, con el precio saltando al nivel que permitiera negociar, porque sus mercados están construidos para dar inmediatez a cualquier precio. Nueva York solo pudo abrir del todo cuando los precios cayeron cerca de un diez por ciento por debajo del cierre del viernes.
+
+Hacia el mediodía, ambos mercados parecían haber absorbido el golpe. Pero los creadores ya habían comprometido buena parte de su capital, y muchos de los más pequeños se habían retirado del piso, por decisión propia o presionados por las firmas que respondían por sus operaciones. Cuando otra ola de ventas llegó después del mediodía, ya casi no había quién comprara mientras tanto: los mercados se habían vuelto ilíquidos, y el derrumbe echó a andar. El martes, órdenes que una semana antes habrían movido el precio lo mínimo lo movían diez o veinte veces más, y la venta se alimentaba a sí misma, como en todo pánico. Por la tarde se suspendieron las operaciones en muchas acciones y en los principales mercados de futuros y opciones. La salida vino de fuera: grandes empresas salieron a recomprar sus propias acciones, es decir, a comprarlas de vuelta en el mercado, y la Reserva Federal, el banco central de Estados Unidos, alentó a los bancos a financiar las posiciones de los operadores. Al final de ese martes, los precios habían vuelto casi al nivel anterior al derrumbe.
+
+Los autores anotan además una ironía. Las operaciones programadas que conectaban ambos mercados, tomando posiciones opuestas en los dos casi a la vez, quedaron restringidas durante esos días, y esa vía, que repartía la presión entre los creadores de Nueva York y los de Chicago, se cortó justo cuando más hacía falta. Esas mismas operaciones eran las que muchos culpaban en la prensa por la caída.
+
+---
+
+## Qué queda
+
+Los propios autores marcan el límite: el derrumbe no fue solo, ni principalmente, un asunto de liquidez; hubo causas de fondo. Lo que su modelo deja es una manera de ver. La liquidez no es una cualidad que un mercado tenga para siempre: es el resultado de cuántos creadores haya presentes y de cuánto les cueste estarlo, y puede agotarse justo cuando más se necesita. Cuando alguien vende en segundos algo que por sí solo tardaría días o meses en vender, hay un oficio entero sosteniendo esa rapidez, y su cobro está dentro del precio.
+
+## Fuentes
+
+- [NBER](https://www.nber.org/papers/w2641): la página del trabajo, con su resumen.
+- [NBER](https://www.nber.org/system/files/working_papers/w2641/w2641.pdf): el texto completo del trabajo, en inglés, en PDF.
+- [DOI](https://doi.org/10.3386/w2641): el identificador permanente del trabajo.
+
+© 2026 Osmancito
