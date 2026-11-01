@@ -145,5 +145,8 @@ Cada etapa irá dejando sus entradas aquí, en la Tesorería, a medida que el ca
 - [Chicago Tribune, vía Legacy](https://www.legacy.com/us/obituaries/chicagotribune/name/mark-douglas-obituary?pid=181231049): obituario de Mark Douglas.
 - [Yahoo Finance](https://finance.yahoo.com/news/reflecting-depth-mark-douglas-taught-114851970.html): nota del 16 de septiembre de 2015 sobre su muerte.
 - [FundSeeder](https://www.fundseeder.com/about): la plataforma fundada por Jack Schwager.
+- [Wikipedia](https://en.wikipedia.org/wiki/D%C5%8Djima_Rice_Exchange): la bolsa del arroz de Dōjima, en Osaka.
+- [Wikipedia](https://en.wikipedia.org/wiki/Chicago_Board_of_Trade): la fundación de la bolsa de Chicago y los primeros contratos de futuros estándar.
+- [Wikipedia](https://en.wikipedia.org/wiki/Candlestick_chart): el gráfico de velas y su atribución a Munehisa Homma.
 
 © 2026 Osmancito
