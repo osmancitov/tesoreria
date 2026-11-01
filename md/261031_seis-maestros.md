@@ -12,7 +12,9 @@ El dinero se puede buscar de muchas maneras; este camino lo busca en los mercado
 
 Los maestros del recorrido son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
 
-## Morgan Housel: cómo pensamos sobre el dinero
+## Morgan Housel
+
+*cómo pensamos sobre el dinero*
 
 [![Un hombre pensativo ante unas monedas y un libro abierto en una mesa de madera](../img/261031_seis-maestros_housel.jpg)](../img/261031_seis-maestros_housel.jpg)
 
@@ -28,7 +30,9 @@ Obras:
 - *Same as Ever* (2023, *Lo que nunca cambia*).
 - *The Art of Spending Money*, su libro más reciente.
 
-## John J. Murphy: el mapa del mercado
+## John J. Murphy
+
+*el mapa del mercado*
 
 [![Una mesa de cartógrafo con un mapa de líneas quebradas, compás y regla](../img/261031_seis-maestros_murphy.jpg)](../img/261031_seis-maestros_murphy.jpg)
 
@@ -44,7 +48,9 @@ Obras:
 - *Intermarket Analysis* (2004).
 - *The Visual Investor* (1996).
 
-## Alexander Elder: el método completo
+## Alexander Elder
+
+*el método completo*
 
 [![Un buzo desciende sereno en un mar translúcido atravesado por tres haces de luz](../img/261031_seis-maestros_elder.jpg)](../img/261031_seis-maestros_elder.jpg)
 
@@ -61,7 +67,9 @@ Obras:
 - *Entries & Exits* (2006), con operaciones reales explicadas una a una.
 - *The New Trading for a Living* (2014), la actualización de su clásico.
 
-## Van K. Tharp: el sistema y el riesgo
+## Van K. Tharp
+
+*el sistema y el riesgo*
 
 [![Un taller renacentista con planos, bloques de madera de tamaños crecientes, escuadra y compás](../img/261031_seis-maestros_tharp.jpg)](../img/261031_seis-maestros_tharp.jpg)
 
@@ -76,7 +84,9 @@ Obras:
 - *Trade Your Way to Financial Freedom* (1998; traducción libre: «Opera a tu manera hacia la libertad financiera»).
 - *Super Trader*, su programa de formación convertido en libro.
 
-## Mark Douglas: la mente en probabilidades
+## Mark Douglas
+
+*la mente en probabilidades*
 
 [![Una figura serena en una barca sobre un mar de niebla, con dados y cartas flotando](../img/261031_seis-maestros_douglas.jpg)](../img/261031_seis-maestros_douglas.jpg)
 
@@ -91,7 +101,9 @@ Obras:
 - *The Disciplined Trader* (1990), de los primeros libros en llevar la psicología del trading a la industria.
 - *Trading in the Zone* (2001, *Trading en la zona*).
 
-## Jack D. Schwager: el espejo de los maestros
+## Jack D. Schwager
+
+*el espejo de los maestros*
 
 [![Un círculo de maestros conversa a la luz de las velas entre mapas y globos; un escriba toma notas](../img/261031_seis-maestros_schwager.jpg)](../img/261031_seis-maestros_schwager.jpg)
 
