@@ -6,7 +6,7 @@ Tesorería es la oficina o despacho del tesorero, y el tesorero es la persona en
 
 Esta sala guarda estudios del dinero y de los activos. Un **activo** es un producto que se compra y se vende en un mercado. Cada informe reúne lo que dicen las fuentes abiertas, declara lo que no pudo comprobar y no recomienda comprar ni vender: informa, no aconseja operar.
 
-- [Los seis maestros de la molienda](md/261031_seis-maestros.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261031_seis-maestros.html): Seis autores elegidos como maestros para aprender a operar en los mercados desde cero.
+- [Los seis maestros del trading](md/261031_seis-maestros.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261031_seis-maestros.html): Seis autores elegidos como maestros para aprender a operar en los mercados desde cero.
 - [bStocks: acciones tokenizadas](md/261030_bstocks-acciones-tokenizadas.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261030_bstocks-acciones-tokenizadas.html): Qué son las bStocks: acciones de EE. UU. en forma de ficha digital, cómo funcionan y sus riesgos.
 - [Hyperliquid](md/261030_hyperliquid-desde-cero.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261030_hyperliquid-desde-cero.html): Qué es Hyperliquid: su plataforma, su red y su moneda HYPE, explicados desde cero y con fuentes.
 - [BNB: precio y acontecimientos](md/261029_bnb-precio-y-acontecimientos.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261029_bnb-precio-y-acontecimientos.html): Qué muestran las fuentes abiertas sobre BNB, su precio y sus acontecimientos, y qué falta comprobar.

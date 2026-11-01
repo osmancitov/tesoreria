@@ -1,12 +1,10 @@
 31 de octubre de 2026
 
-# Los seis maestros de la molienda
+# Los seis maestros del trading
 
 [![Un caminante de espaldas al inicio de una senda entre colinas, con seis luces a lo largo del camino](../img/261031_seis-maestros.jpg)](../img/261031_seis-maestros.jpg)
 
-La Molienda es un recorrido de aprendizaje: aprender a operar en los mercados desde cero, caminando en público y dejando el camino escrito para quien venga detrás.
-
-El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que saca provecho de una materia dura. En este recorrido ese provecho es el dinero.
+Este es un recorrido de aprendizaje: aprender a operar en los mercados desde cero, caminando en público y dejando el camino escrito para quien venga detrás.
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
