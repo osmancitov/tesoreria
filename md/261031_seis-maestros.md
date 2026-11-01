@@ -10,9 +10,7 @@ El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
-La primera idea del recorrido no es técnica. La resume el editor de *The Psychology of Money* en la presentación del libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
-
-Los seis maestros se leerán en este orden: primero, cómo pensamos sobre el dinero, con Morgan Housel; después, el mapa de los gráficos, con John J. Murphy; el método completo de operar, con Alexander Elder; el sistema y el riesgo, con Van K. Tharp; la mente que piensa en probabilidades, con Mark Douglas; y al final, el espejo de quienes lo han logrado, con Jack D. Schwager.
+Los maestros del recorrido son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager. Cada uno tiene su sección más abajo, con su historia, sus ideas y sus obras.
 
 ## Morgan Housel: cómo pensamos sobre el dinero
 
@@ -22,7 +20,7 @@ Morgan Housel es escritor de finanzas. Se graduó de la universidad en 2008, jus
 
 Su tema no son los números sino la conducta: por qué personas inteligentes toman malas decisiones con el dinero, qué papel tienen la suerte y el riesgo, y por qué las decisiones financieras no se toman en una hoja de cálculo sino en la mesa de la casa, con la historia, el orgullo y los miedos de cada uno mezclados en ellas. Su libro más conocido reúne esas ideas en diecinueve relatos breves y ha vendido más de diez millones de ejemplares.
 
-Abre el camino porque antes de leer un solo gráfico conviene saber en qué terreno mental se pisa.
+Abre el camino porque la primera idea del recorrido no es técnica: antes de leer un solo gráfico conviene saber en qué terreno mental se pisa. La resume el editor de *The Psychology of Money* en la presentación del libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
 
 Obras:
 
