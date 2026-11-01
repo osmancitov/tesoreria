@@ -12,7 +12,7 @@ Los maestros del trading son seis: Morgan Housel, John J. Murphy, Alexander Elde
 
 Este es el curso de trading de Osmancitov, y fue él quien escogió a estos seis. La selección reúne a un autor para cada parte del oficio: Housel, la conducta ante el dinero; Murphy, la lectura de los gráficos; Elder, el método completo; Tharp, el sistema y el riesgo; Douglas, la mentalidad ante la incertidumbre; y Schwager, las entrevistas a traders de primer nivel.
 
-Por eso son estos seis y no otros: ninguno repite lo que dice otro, y entre todos cubren lo que hace falta para empezar de cero. Los seis tienen además obra publicada y una trayectoria que se puede comprobar. Para un curso de trading es una selección excelente.
+Por eso son estos seis y no otros: cada uno aporta una perspectiva distinta y complementaria, y entre todos cubren lo que hace falta para empezar de cero. Los seis tienen además obra publicada y una trayectoria que se puede comprobar. Para un curso de trading es una selección excelente.
 
 ---
 
