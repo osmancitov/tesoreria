@@ -8,7 +8,7 @@ La Molienda es un recorrido de aprendizaje: aprender a operar en los mercados de
 
 El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que saca provecho de una materia dura. En este recorrido ese provecho es el dinero.
 
-El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o criptomonedas, que son activos digitales, buscando ganar con los cambios de su precio.
+El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
 Entre los contratos que se negocian en los mercados están los futuros: pactos de compraventa a un precio fijado hoy para una fecha venidera. Un ejemplo temprano y bien documentado es la bolsa de arroz de Dōjima, en el Osaka del siglo XVIII, donde los comerciantes negociaban entregas futuras de arroz. Siglo y medio después, los comerciantes de grano de Chicago fundaron en 1848 su propia bolsa, que en 1865 ya negociaba esos contratos en forma estándar. El grano, la misma materia de la molienda, fue la mercancía de esos dos mercados.
 
