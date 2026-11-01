@@ -10,12 +10,6 @@ El nombre pone una imagen sobre ese trabajo: la molienda, la labor constante que
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
-Entre los contratos que se negocian en los mercados están los futuros: pactos de compraventa a un precio fijado hoy para una fecha venidera. Un ejemplo temprano y bien documentado es la bolsa de arroz de Dōjima, en el Osaka del siglo XVIII, donde los comerciantes negociaban entregas futuras de arroz. Siglo y medio después, los comerciantes de grano de Chicago fundaron en 1848 su propia bolsa, que en 1865 ya negociaba esos contratos en forma estándar. El grano, la misma materia de la molienda, fue la mercancía de esos dos mercados.
-
-Que los futuros tengan siglos de historia no los vuelve buenos para todo el mundo, y este recorrido no viene a defenderlos como la mejor vía. Viene a estudiar ese oficio por dentro: quién lo ejerce, cómo piensa y dónde se equivoca.
-
-Ese estudio tampoco promete dinero: ningún libro ni ningún método lo garantiza. Lo que sí se puede preparar es el camino, y de eso trata este texto: de los seis autores elegidos como maestros para recorrerlo.
-
 La primera idea del recorrido no es técnica. La resume el editor de *The Psychology of Money* en la presentación del libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
 
 Los seis maestros se leerán en este orden: primero, cómo pensamos sobre el dinero, con Morgan Housel; después, el mapa de los gráficos, con John J. Murphy; el método completo de operar, con Alexander Elder; el sistema y el riesgo, con Van K. Tharp; la mente que piensa en probabilidades, con Mark Douglas; y al final, el espejo de quienes lo han logrado, con Jack D. Schwager.
@@ -145,9 +139,5 @@ Cada etapa irá dejando sus entradas aquí, en la Tesorería, a medida que el ca
 - [Chicago Tribune, vía Legacy](https://www.legacy.com/us/obituaries/chicagotribune/name/mark-douglas-obituary?pid=181231049): obituario de Mark Douglas.
 - [Yahoo Finance](https://finance.yahoo.com/news/reflecting-depth-mark-douglas-taught-114851970.html): nota del 16 de septiembre de 2015 sobre su muerte.
 - [FundSeeder](https://www.fundseeder.com/about): la plataforma fundada por Jack Schwager.
-- [Wikipedia](https://en.wikipedia.org/wiki/D%C5%8Djima_Rice_Exchange): la bolsa del arroz de Dōjima, en Osaka.
-- [Wikipedia](https://en.wikipedia.org/wiki/Chicago_Board_of_Trade): la fundación de la bolsa de Chicago.
-- [Springer](https://link.springer.com/book/9789812878199): la bolsa de Dōjima, sus reglas y sus prácticas.
-- [CME Group](https://www.cmegroup.com/education/courses/introduction-to-futures/midwest-grain-trade-history-of-futures-exchanges): los futuros estándar de la bolsa de Chicago, en 1865.
 
 © 2026 Osmancito
