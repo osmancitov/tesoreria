@@ -2,7 +2,7 @@
 
 # Los ocho maestros del trading
 
-[![Ocho libros viejos apilados sobre una mesa de madera de estudio, junto a una vela encendida, unas gafas de leer y un tintero con pluma](../img/261031_ocho-maestros.jpg)](../img/261031_ocho-maestros.jpg)
+[![Los ocho maestros del trading reunidos en una lonja de mercado, cada uno con el atributo de su enseñanza](../img/261031_ocho-maestros.jpg)](../img/261031_ocho-maestros.jpg)
 
 ---
 
