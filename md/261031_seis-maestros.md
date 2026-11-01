@@ -155,9 +155,5 @@ Obras, la serie *Market Wizards*:
 - [Chicago Tribune, vía Legacy](https://www.legacy.com/us/obituaries/chicagotribune/name/mark-douglas-obituary?pid=181231049): obituario de Mark Douglas.
 - [Yahoo Finance](https://finance.yahoo.com/news/reflecting-depth-mark-douglas-taught-114851970.html): nota del 16 de septiembre de 2015 sobre su muerte.
 - [FundSeeder](https://www.fundseeder.com/about): la plataforma fundada por Jack Schwager.
-- [Investopedia](https://www.investopedia.com/terms/f/financial-market.asp): mercados financieros y los activos que se negocian.
-- [Investor.gov](https://www.investor.gov/introduction-investing/investing-basics/what-risk): acciones, bonos y riesgo.
-- [CME Group](https://www.cmegroup.com/education/courses/introduction-to-futures/understanding-the-role-of-speculators): la liquidez que aportan quienes operan, en los mercados de futuros.
-- [NBER](https://www.nber.org/papers/w2641): Grossman y Miller, *Liquidity and Market Structure* (1988): los creadores de mercado asumen el riesgo entre la llegada de compradores y vendedores.
 
 © 2026 Osmancito
