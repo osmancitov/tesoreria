@@ -4,17 +4,27 @@
 
 [![Seis libros viejos apilados sobre una mesa de madera de estudio, junto a una vela encendida, unas gafas de leer y un tintero con pluma](../img/261031_seis-maestros.jpg)](../img/261031_seis-maestros.jpg)
 
+---
+
+## Qué es el trading
+
 Los mercados financieros son espacios donde se compran y venden, entre otras cosas, acciones y bonos. Comprar una acción significa adquirir una pequeña participación en una empresa. Comprar un bono significa prestarle dinero a quien lo emite, por ejemplo, una empresa o un gobierno.
 
 Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos. Quien opera compra lo que otros necesitan vender y vende lo que otros necesitan comprar. Su actividad permite que esas personas encuentren con quién realizar el intercambio.
 
 Esa actividad cumple funciones que la economía necesita. La compraventa constante fija los precios de los activos según su oferta y su demanda, y esos precios orientan las decisiones de empresas, gobiernos y familias. Quienes operan también contribuyen, en conjunto, a la liquidez: la facilidad para comprar y vender un activo y, cuando hace falta, convertirlo en dinero. Así ayudan a que los mercados funcionen con fluidez.
 
+---
+
+## Por qué es importante el trading
+
 El trading es importante porque contribuye a conectar dos necesidades: la de quien necesita vender y la de quien necesita comprar. Que ambas existan no basta para que se encuentren. Al ofrecer una contraparte, quienes operan pueden hacer posible un intercambio que de otro modo tendría que esperar.
 
 Un ejemplo es el creador de mercado, un operador especializado en ofrecer compra y venta de forma continua. Compra antes de que llegue el siguiente comprador y asume ese intervalo con su dinero y su riesgo. Así permite que las personas actúen en momentos distintos sin que el intercambio se detenga. Ese servicio aporta liquidez al mercado.
 
 Su importancia para la vida está ahí: facilitar que alguien disponga de recursos para continuar con lo que necesita hacer. El valor del servicio está en lograr conectar las dos necesidades. La ganancia del operador es un resultado posible; la utilidad para los demás es la razón que da sentido al oficio.
+
+---
 
 Para quien opera, cada decisión exige pensar qué se está comprando, a qué precio y qué riesgo se está asumiendo. El resultado es incierto y se puede perder dinero. Aprender a pensar y operar en los mercados supone desarrollar criterio para tomar esas decisiones: comprender lo que se hace y considerar las posibles pérdidas, además de las ganancias que se esperan.
 
