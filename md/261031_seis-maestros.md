@@ -20,7 +20,7 @@ Morgan Housel es escritor de finanzas. Se graduó de la universidad en 2008, jus
 
 Su tema no son los números sino la conducta: por qué personas inteligentes toman malas decisiones con el dinero, qué papel tienen la suerte y el riesgo, y por qué las decisiones financieras no se toman en una hoja de cálculo sino en la mesa de la casa, con la historia, el orgullo y los miedos de cada uno mezclados en ellas. Su libro más conocido reúne esas ideas en diecinueve relatos breves y ha vendido más de diez millones de ejemplares.
 
-Abre el camino porque la primera idea del recorrido no es técnica: antes de leer un solo gráfico conviene saber en qué terreno mental se pisa. La resume el editor de *The Psychology of Money* en la presentación del libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
+Abre el camino porque la primera idea del recorrido no es técnica: antes de leer un solo gráfico conviene saber en qué terreno mental se pisa. La resume la presentación de su libro: ir bien con el dinero no depende tanto de lo que se sabe como de cómo uno se comporta.
 
 Obras:
 
