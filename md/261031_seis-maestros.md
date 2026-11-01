@@ -8,6 +8,8 @@ Este es un recorrido de aprendizaje: aprender a operar en los mercados desde cer
 
 El dinero se puede buscar de muchas maneras; este camino lo busca en los mercados. Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos, buscando ganar con los cambios de su precio.
 
+Ese ir y venir de órdenes, repetido por millones de manos, no es un juego al margen de la economía: es parte de cómo funciona. Los mercados existen para juntar a quienes tienen dinero con quienes lo necesitan, y es en la negociación de cada día donde eso se cumple. De ese cruce salen los precios, que recogen la información de todos los participantes y orientan las decisiones de empresas, gobiernos y familias. De ahí sale también la liquidez: que casi siempre haya alguien dispuesto a comprar o a vender permite convertir un activo en dinero cuando hace falta. Y por los contratos que se negocian viaja el riesgo: un agricultor puede asegurar hoy el precio de su cosecha, o una empresa el de la moneda en que pagará sus deudas, porque hay operadores dispuestos a tomar el otro lado.
+
 Los maestros del recorrido son seis, y se leerán en este orden: Morgan Housel, John J. Murphy, Alexander Elder, Van K. Tharp, Mark Douglas y Jack D. Schwager.
 
 ## Morgan Housel
@@ -137,6 +139,7 @@ Cada etapa irá dejando sus entradas aquí, en la Tesorería, a medida que el ca
 
 ## Fuentes
 
+- [Wikipedia](https://es.wikipedia.org/wiki/Mercado_financiero): funciones de los mercados financieros.
 - [Wiley](https://www.wiley.com/en-us/The+New+Trading+for+a+Living%3A+Psychology%2C+Discipline%2C+Trading+Tools+and+Systems%2C+Risk+Control%2C+Trade+Management-p-9781118443927): biografía de Alexander Elder.
 - [Penguin Random House](https://www.penguinrandomhouse.com/authors/240181/mark-douglas/): nota de autor de Mark Douglas.
 - [Harriman House](https://www.harriman-house.com/authors/morgan-housel/the-psychology-of-money/9780857197689): *The Psychology of Money*, de Morgan Housel.
