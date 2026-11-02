@@ -8,11 +8,17 @@
 
 ## ¿Qué es el trading?
 
-Los mercados financieros son espacios donde se compran y venden, entre otras cosas, acciones y bonos. Comprar una acción significa adquirir una pequeña participación en una empresa. Comprar un bono significa prestarle dinero a quien lo emite, por ejemplo, una empresa o un gobierno.
+El *trading* es comprar y vender activos, como acciones, divisas, materias primas o contratos. La palabra es inglesa: *trade* significa comercio o compraventa, y *trading* nombra la actividad. Quien la realiza es un *trader*, es decir, un operador.
 
-Operar en los mercados, lo que en inglés se llama *trading*, es comprar y vender activos, como acciones, divisas, materias primas o contratos. Quien opera compra lo que otros necesitan vender y vende lo que otros necesitan comprar. Su actividad permite que esas personas encuentren con quién realizar el intercambio.
+Quien opera compra lo que otros necesitan vender y vende lo que otros necesitan comprar. Su actividad permite que esas personas encuentren con quién realizar el intercambio.
 
 Esa actividad cumple funciones que la economía necesita. La compraventa constante fija los precios de los activos según su oferta y su demanda, y esos precios orientan las decisiones de empresas, gobiernos y familias. Quienes operan también contribuyen, en conjunto, a la liquidez: la facilidad para comprar y vender un activo y, cuando hace falta, convertirlo en dinero. Así ayudan a que los mercados funcionen con fluidez.
+
+---
+
+## ¿Qué son los mercados financieros?
+
+Los mercados financieros son espacios donde se compran y venden, entre otras cosas, acciones y bonos. Comprar una acción significa adquirir una pequeña participación en una empresa. Comprar un bono significa prestarle dinero a quien lo emite, por ejemplo, una empresa o un gobierno.
 
 ---
 
