@@ -93,7 +93,9 @@ function precioCorto(v) {
     return v.toFixed(2) + ' u';
   }
   const m = v * 1000;
-  return (m >= 10 ? m.toFixed(1) : m.toFixed(2)) + ' m';
+  if (m >= 10) return m.toFixed(1) + ' m';
+  if (m >= 0.1) return m.toFixed(2) + ' m';
+  return m.toFixed(4) + ' m'; // precios diminutos, como SHIB
 }
 
 function carrilPara(activo) {
