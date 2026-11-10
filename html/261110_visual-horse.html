@@ -14,37 +14,38 @@
 <style>
   :root { color-scheme: dark; }
   * { box-sizing: border-box; }
-  body { margin: 0; background: #0d1117; color: #c9d1d9; font-family: system-ui, sans-serif; }
+  html, body { margin: 0; padding: 0; overflow-x: hidden; }
+  body { background: #0d1117; color: #c9d1d9; font-family: system-ui, sans-serif; }
   header { padding: 10px 14px; font-size: 14px; border-bottom: 1px solid #21262d; position: sticky; top: 0; background: #0d1117; z-index: 2; }
   header h1 { font-size: 16px; margin: 0 0 4px; font-weight: 600; }
   header p { margin: 0; color: #8b949e; font-size: 12px; }
   #estado { color: #8b949e; font-size: 12px; margin-top: 2px; }
   #estado.error { color: #f85149; }
   #pista { padding: 6px 0 20px; }
-  .carril { position: relative; height: 52px; border-bottom: 1px solid #161b22; }
-  .carril .linea {
-    position: absolute; left: 0; right: 0; top: 0; bottom: 0;
-    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" preserveAspectRatio="none"><line x1="0" y1="82" x2="100" y2="18" stroke="%2330363d" stroke-width="1.5"/></svg>');
-    background-size: 100% 100%;
+  .carril { position: relative; height: 64px; border-bottom: 1px solid #161b22; }
+  .carril .linea { position: absolute; left: 0; right: 0; top: 46px; height: 2px; background: #30363d; }
+  .carril .etq {
+    position: absolute; top: 6px; left: 0;
+    transform: translateX(-50%);
+    white-space: nowrap; font-size: 11px; color: #8b949e;
+    transition: left 2s ease;
   }
-  .caballo {
-    position: absolute;
-    left: calc(3% + 92% * var(--p));
-    top: calc(82% - 64% * var(--p));
-    transform: translate(-50%, -50%);
-    transition: left 2s ease, top 2s ease;
-    font-size: 22px; line-height: 1; white-space: nowrap;
+  .carril .etq b { color: #c9d1d9; font-weight: 600; }
+  .carril .caballo {
+    position: absolute; top: 32px; left: 0;
+    transform: translateX(-50%);
+    font-size: 22px; line-height: 1;
+    transition: left 2s ease;
   }
-  .caballo .fig { display: inline-block; transform: scaleX(-1); }
-  .caballo .etq { font-size: 11px; color: #8b949e; margin-left: 4px; vertical-align: middle; }
-  .caballo .etq b { color: #c9d1d9; font-weight: 600; }
+  .carril .caballo .fig { display: inline-block; transform: scaleX(-1); }
+  .sintrans { transition: none !important; }
   footer { padding: 10px 14px; font-size: 12px; color: #8b949e; border-top: 1px solid #21262d; }
 </style>
 </head>
 <body>
 <header>
   <h1>Visual horse <span style="color:#8b949e;font-weight:400">(prueba)</span></h1>
-  <p>Cada caballo muestra la posición del precio dentro de su franja de 24 horas: abajo a la izquierda el mínimo, arriba a la derecha el máximo.</p>
+  <p>Cada caballo muestra la posición del precio dentro de su franja de 24 horas: a la izquierda el mínimo, a la derecha el máximo.</p>
   <div id="estado">Cargando datos…</div>
 </header>
 <div id="pista"></div>
@@ -56,13 +57,14 @@
 // Configuración de la prueba: se ajusta aquí, en un solo lugar.
 const CANTIDAD_ACTIVOS = 30;    // cuántos activos, por capitalización de mercado
 const REFRESCO_MS = 60 * 1000;  // cada cuánto consulta de nuevo (un minuto)
+const MARGEN_PX = 30;           // resguardo a cada lado del carril: 0% y 100% quedan enteros
 
 const FUENTE = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd'
   + '&order=market_cap_desc&per_page=' + CANTIDAD_ACTIVOS + '&page=1';
 
 const pista = document.getElementById('pista');
 const estado = document.getElementById('estado');
-const carriles = new Map(); // id de activo -> elementos del carril
+const carriles = new Map(); // id de activo -> su carril
 
 function formatoPrecio(v) {
   if (v >= 100) return v.toLocaleString('es-VE', { maximumFractionDigits: 0 });
@@ -75,18 +77,38 @@ function carrilPara(activo) {
   if (!c) {
     const carril = document.createElement('div');
     carril.className = 'carril';
-    const linea = document.createElement('div');
-    linea.className = 'linea';
-    const caballo = document.createElement('div');
-    caballo.className = 'caballo';
-    caballo.innerHTML = '<span class="fig">🐎</span><span class="etq"></span>';
-    carril.appendChild(linea);
-    carril.appendChild(caballo);
-    c = { carril, caballo, etq: caballo.querySelector('.etq') };
+    carril.innerHTML = '<div class="linea"></div>'
+      + '<div class="etq"></div>'
+      + '<div class="caballo"><span class="fig">🐎</span></div>';
+    c = {
+      carril,
+      etq: carril.querySelector('.etq'),
+      caballo: carril.querySelector('.caballo'),
+      p: null
+    };
     carriles.set(activo.id, c);
   }
   return c;
 }
+
+// Coloca caballo y etiqueta: x es la posición de la franja; la etiqueta
+// se centra sobre el caballo sin salirse por ningún borde.
+function colocar(c) {
+  if (c.p === null) return;
+  const ancho = c.carril.clientWidth;
+  if (!ancho) return;
+  const x = MARGEN_PX + (ancho - 2 * MARGEN_PX) * c.p;
+  c.caballo.style.left = x + 'px';
+  const mitad = c.etq.offsetWidth / 2;
+  const ex = Math.min(Math.max(x, mitad + 4), Math.max(mitad + 4, ancho - mitad - 4));
+  c.etq.style.left = ex + 'px';
+}
+
+function colocarTodo() {
+  for (const c of carriles.values()) colocar(c);
+}
+
+window.addEventListener('resize', colocarTodo);
 
 async function actualizar() {
   try {
@@ -95,21 +117,24 @@ async function actualizar() {
     const datos = await resp.json();
     pista.textContent = '';
     for (const a of datos) {
-      const { carril, caballo, etq } = carrilPara(a);
+      const c = carrilPara(a);
       const rango = a.high_24h - a.low_24h;
       const p = rango > 0 ? Math.min(1, Math.max(0, (a.current_price - a.low_24h) / rango)) : 0.5;
-      // Primero se coloca sin transición si es nuevo; luego se anima.
-      if (!caballo.style.getPropertyValue('--p')) {
-        caballo.style.transition = 'none';
-        caballo.style.setProperty('--p', p);
-        caballo.offsetHeight; // fija la posición inicial
-        caballo.style.transition = '';
-      } else {
-        caballo.style.setProperty('--p', p);
+      const esNuevo = c.p === null;
+      c.p = p;
+      if (esNuevo) {
+        c.etq.classList.add('sintrans');
+        c.caballo.classList.add('sintrans');
       }
-      etq.innerHTML = '<b>' + a.symbol.toUpperCase() + '</b> $' + formatoPrecio(a.current_price)
+      c.etq.innerHTML = '<b>' + a.symbol.toUpperCase() + '</b> $' + formatoPrecio(a.current_price)
         + ' · ' + Math.round(p * 100) + '% de su franja';
-      pista.appendChild(carril); // orden del ranking actual
+      pista.appendChild(c.carril); // orden del ranking actual
+      colocar(c);
+      if (esNuevo) {
+        c.caballo.offsetHeight; // fija la posición inicial sin animación
+        c.etq.classList.remove('sintrans');
+        c.caballo.classList.remove('sintrans');
+      }
     }
     const ahora = new Date();
     estado.className = '';
