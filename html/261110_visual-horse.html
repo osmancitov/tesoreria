@@ -4,22 +4,30 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Visual horse · Tesorería Osmancito</title>
-<meta name="description" content="Prueba funcional: caballos que muestran la posición de cada activo dentro de su franja de 24 horas, con datos en vivo.">
+<meta name="description" content="Carrera de activos según el mínimo y el máximo de las últimas 24 horas, con datos en vivo.">
 <link rel="icon" href="https://osmancitov.github.io/favicon.ico">
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:locale" content="es_VE">
 <meta property="og:title" content="Visual horse">
-<meta property="og:description" content="Prueba funcional: caballos que muestran la posición de cada activo dentro de su franja de 24 horas, con datos en vivo.">
+<meta property="og:description" content="Carrera de activos según el mínimo y el máximo de las últimas 24 horas, con datos en vivo.">
 <meta property="og:url" content="https://osmancitov.github.io/tesoreria/html/261110_visual-horse.html">
+<meta property="og:image" content="https://osmancitov.github.io/tesoreria/img/261110_visual-horse.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta property="og:image:alt" content="Caballos de distintos colores galopando hacia la derecha en carriles paralelos apilados, al estilo de Degas.">
 <style>
   :root { color-scheme: dark; }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; overflow-x: hidden; }
   body { background: #0d1117; color: #c9d1d9; font-family: system-ui, sans-serif; }
-  header { padding: 10px 14px; font-size: 14px; border-bottom: 1px solid #21262d; position: sticky; top: 0; background: #0d1117; z-index: 2; }
-  header h1 { font-size: 16px; margin: 0 0 4px; font-weight: 600; }
+  header { padding: 10px 14px; font-size: 14px; border-bottom: 1px solid #21262d; }
+  header .fecha { margin: 0 0 4px; color: #8b949e; font-size: 12px; }
+  header h1 { font-size: 18px; margin: 0 0 8px; font-weight: 600; }
   header p { margin: 0; color: #8b949e; font-size: 12px; }
-  #estado { color: #8b949e; font-size: 12px; margin-top: 2px; }
+  .dibujo { display: block; margin: 0 0 8px; }
+  .dibujo img { display: block; width: 100%; height: auto; }
+  #estado { color: #8b949e; font-size: 12px; padding: 8px 14px 0; }
   #estado.error { color: #f85149; }
   #pista { padding: 6px 0 20px; }
   .carril { position: relative; height: 64px; border-bottom: 1px solid #161b22; }
@@ -36,28 +44,34 @@
   .carril .caballo .fig { display: inline-block; transform: scaleX(-1); }
   .sintrans { transition: none !important; }
   footer { padding: 10px 14px; font-size: 12px; color: #8b949e; border-top: 1px solid #21262d; }
+  footer a { color: #58a6ff; }
 </style>
 </head>
 <body>
 <header>
-  <h1>Visual horse <span style="color:#8b949e;font-weight:400">(prueba)</span></h1>
+  <p class="fecha">10 de noviembre de 2026</p>
+  <h1>Visual horse</h1>
+  <a class="dibujo" href="../img/261110_visual-horse.jpg"><img src="../img/261110_visual-horse.jpg" alt="Caballos de distintos colores galopando hacia la derecha en carriles paralelos apilados, al estilo de Degas." width="1280" height="640"></a>
   <p>Carrera según el mínimo y el máximo de las últimas 24 horas.</p>
-  <div id="estado">Cargando datos…</div>
 </header>
+<div id="estado">Cargando datos…</div>
 <div id="pista"></div>
 <footer>
-  Datos de <a href="https://www.coingecko.com/" style="color:#58a6ff">CoinGecko</a> consultados por esta página en tu navegador.
-  La posición es dentro de la franja de las últimas 24 horas: no es ganancia ni pérdida. Prueba funcional, no recomendación de compra ni de venta.
+  <p>Datos de <a href="https://www.coingecko.com/">CoinGecko</a> consultados por esta página en tu navegador.
+  La posición es dentro de la franja de las últimas 24 horas: no es ganancia ni pérdida. Informa, no recomienda comprar ni vender.</p>
+  <p>© 2026 Osmancito</p>
+  <p><a href="../tesoreria.html">Volver a Tesorería</a></p>
 </footer>
 <script>
-// Configuración de la prueba: se ajusta aquí, en un solo lugar.
+// Configuración: se ajusta aquí, en un solo lugar.
 const CANTIDAD_ACTIVOS = 30;    // cuántos activos, por capitalización de mercado
 const REFRESCO_MS = 60 * 1000;  // cada cuánto consulta de nuevo (un minuto)
 const MARGEN_PX = 30;           // resguardo a cada lado del carril: 0% y 100% quedan enteros
 const COLUMNA_PX = 98;          // ancho del texto fijo a la izquierda
-// Monedas estables excluidas por ahora: su franja de 24 h es tan pequeña
-// que su posición no dice nada del mercado. Para volver a verlas, vaciar la lista.
-const ESTABLES = ['usdt', 'usdc', 'usds', 'usde', 'dai', 'usd1', 'fdusd', 'usdd', 'pyusd', 'tusd', 'frax', 'usdp'];
+// Monedas estables excluidas: su franja de 24 h es tan pequeña (centésimas de
+// céntimo alrededor de la paridad) que su posición no dice nada del mercado.
+// Para volver a verlas, quitar su símbolo de la lista.
+const ESTABLES = ['usdt', 'usdc', 'usds', 'usde', 'dai', 'usd1', 'fdusd', 'usdd', 'pyusd', 'tusd', 'frax', 'usdp', 'rlusd', 'usdg', 'usdy', 'usdtb', 'bfusd'];
 
 const FUENTE = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd'
   + '&order=market_cap_desc&per_page=' + (CANTIDAD_ACTIVOS + ESTABLES.length) + '&page=1';
