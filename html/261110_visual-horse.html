@@ -23,14 +23,10 @@
   #estado.error { color: #f85149; }
   #pista { padding: 6px 0 20px; }
   .carril { position: relative; height: 64px; border-bottom: 1px solid #161b22; }
-  .carril .linea { position: absolute; left: 0; right: 0; top: 46px; height: 2px; background: #30363d; }
-  .carril .etq {
-    position: absolute; top: 6px; left: 0;
-    transform: translateX(-50%);
-    white-space: nowrap; font-size: 11px; color: #8b949e;
-    transition: left 2s ease;
-  }
-  .carril .etq b { color: #c9d1d9; font-weight: 600; }
+  .carril .etq { position: absolute; left: 10px; top: 9px; width: 84px; line-height: 1.35; }
+  .carril .etq b { display: block; font-size: 12px; color: #c9d1d9; font-weight: 600; }
+  .carril .etq span { display: block; font-size: 11px; color: #8b949e; white-space: nowrap; }
+  .carril .linea { position: absolute; left: 98px; right: 10px; top: 46px; height: 2px; background: #30363d; }
   .carril .caballo {
     position: absolute; top: 32px; left: 0;
     transform: translateX(-50%);
@@ -45,7 +41,7 @@
 <body>
 <header>
   <h1>Visual horse <span style="color:#8b949e;font-weight:400">(prueba)</span></h1>
-  <p>Cada caballo muestra la posición del precio dentro de su franja de 24 horas: a la izquierda el mínimo, a la derecha el máximo.</p>
+  <p>Carrera según el mínimo y el máximo de las últimas 24 horas.</p>
   <div id="estado">Cargando datos…</div>
 </header>
 <div id="pista"></div>
@@ -58,18 +54,32 @@
 const CANTIDAD_ACTIVOS = 30;    // cuántos activos, por capitalización de mercado
 const REFRESCO_MS = 60 * 1000;  // cada cuánto consulta de nuevo (un minuto)
 const MARGEN_PX = 30;           // resguardo a cada lado del carril: 0% y 100% quedan enteros
+const COLUMNA_PX = 98;          // ancho del texto fijo a la izquierda
+// Monedas estables excluidas por ahora: su franja de 24 h es tan pequeña
+// que su posición no dice nada del mercado. Para volver a verlas, vaciar la lista.
+const ESTABLES = ['usdt', 'usdc', 'usds', 'usde', 'dai', 'usd1', 'fdusd', 'usdd', 'pyusd', 'tusd', 'frax', 'usdp'];
 
 const FUENTE = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd'
-  + '&order=market_cap_desc&per_page=' + CANTIDAD_ACTIVOS + '&page=1';
+  + '&order=market_cap_desc&per_page=' + (CANTIDAD_ACTIVOS + ESTABLES.length) + '&page=1';
 
 const pista = document.getElementById('pista');
 const estado = document.getElementById('estado');
 const carriles = new Map(); // id de activo -> su carril
 
-function formatoPrecio(v) {
-  if (v >= 100) return v.toLocaleString('es-VE', { maximumFractionDigits: 0 });
-  if (v >= 1) return v.toLocaleString('es-VE', { maximumFractionDigits: 2 });
-  return v.toLocaleString('es-VE', { maximumFractionDigits: 6 });
+// Precio abreviado, convención de Interloper: k para miles, u para unidades,
+// m para milésimas. Punto decimal, pocas cifras.
+function precioCorto(v) {
+  if (v >= 1000) {
+    const k = v / 1000;
+    return (k >= 10 ? k.toFixed(1) : k.toFixed(2)) + ' k';
+  }
+  if (v >= 1) {
+    if (v >= 100) return Math.round(v) + ' u';
+    if (v >= 10) return v.toFixed(1) + ' u';
+    return v.toFixed(2) + ' u';
+  }
+  const m = v * 1000;
+  return (m >= 10 ? m.toFixed(1) : m.toFixed(2)) + ' m';
 }
 
 function carrilPara(activo) {
@@ -77,12 +87,13 @@ function carrilPara(activo) {
   if (!c) {
     const carril = document.createElement('div');
     carril.className = 'carril';
-    carril.innerHTML = '<div class="linea"></div>'
-      + '<div class="etq"></div>'
+    carril.innerHTML = '<div class="etq"><b></b><span></span></div>'
+      + '<div class="linea"></div>'
       + '<div class="caballo"><span class="fig">🐎</span></div>';
     c = {
       carril,
-      etq: carril.querySelector('.etq'),
+      simbolo: carril.querySelector('.etq b'),
+      detalle: carril.querySelector('.etq span'),
       caballo: carril.querySelector('.caballo'),
       p: null
     };
@@ -91,17 +102,13 @@ function carrilPara(activo) {
   return c;
 }
 
-// Coloca caballo y etiqueta: x es la posición de la franja; la etiqueta
-// se centra sobre el caballo sin salirse por ningún borde.
+// El caballo es lo único que se mueve; 0% queda tras el texto fijo.
 function colocar(c) {
   if (c.p === null) return;
   const ancho = c.carril.clientWidth;
   if (!ancho) return;
-  const x = MARGEN_PX + (ancho - 2 * MARGEN_PX) * c.p;
+  const x = COLUMNA_PX + MARGEN_PX + (ancho - COLUMNA_PX - 2 * MARGEN_PX) * c.p;
   c.caballo.style.left = x + 'px';
-  const mitad = c.etq.offsetWidth / 2;
-  const ex = Math.min(Math.max(x, mitad + 4), Math.max(mitad + 4, ancho - mitad - 4));
-  c.etq.style.left = ex + 'px';
 }
 
 function colocarTodo() {
@@ -114,7 +121,9 @@ async function actualizar() {
   try {
     const resp = await fetch(FUENTE);
     if (!resp.ok) throw new Error('CoinGecko respondió ' + resp.status);
-    const datos = await resp.json();
+    const datos = (await resp.json())
+      .filter(a => !ESTABLES.includes(a.symbol.toLowerCase()))
+      .slice(0, CANTIDAD_ACTIVOS);
     pista.textContent = '';
     for (const a of datos) {
       const c = carrilPara(a);
@@ -122,17 +131,13 @@ async function actualizar() {
       const p = rango > 0 ? Math.min(1, Math.max(0, (a.current_price - a.low_24h) / rango)) : 0.5;
       const esNuevo = c.p === null;
       c.p = p;
-      if (esNuevo) {
-        c.etq.classList.add('sintrans');
-        c.caballo.classList.add('sintrans');
-      }
-      c.etq.innerHTML = '<b>' + a.symbol.toUpperCase() + '</b> $' + formatoPrecio(a.current_price)
-        + ' · ' + Math.round(p * 100) + '% de su franja';
+      if (esNuevo) c.caballo.classList.add('sintrans');
+      c.simbolo.textContent = a.symbol.toUpperCase();
+      c.detalle.textContent = precioCorto(a.current_price) + ' · ' + Math.round(p * 100) + '%';
       pista.appendChild(c.carril); // orden del ranking actual
       colocar(c);
       if (esNuevo) {
         c.caballo.offsetHeight; // fija la posición inicial sin animación
-        c.etq.classList.remove('sintrans');
         c.caballo.classList.remove('sintrans');
       }
     }
