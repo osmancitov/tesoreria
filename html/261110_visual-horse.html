@@ -25,7 +25,7 @@
   header .fecha { margin: 0 0 4px; color: #8b949e; font-size: 12px; }
   header h1 { font-size: 18px; margin: 0 0 8px; font-weight: 600; }
   header p { margin: 0; color: #8b949e; font-size: 12px; }
-  .dibujo { display: block; margin: 8px 0 0; }
+  .dibujo { display: block; margin: 0 0 8px; }
   .dibujo img { display: block; width: 100%; height: auto; }
   #estado { color: #8b949e; font-size: 12px; padding: 8px 14px 0; }
   #estado.error { color: #f85149; }
@@ -51,11 +51,11 @@
 <header>
   <p class="fecha">10 de noviembre de 2026</p>
   <h1>Visual horse</h1>
+  <a class="dibujo" href="../img/261110_visual-horse.jpg"><img src="../img/261110_visual-horse.jpg" alt="Caballos de distintos colores galopando hacia la derecha en carriles paralelos apilados, al estilo de Degas." width="1280" height="640"></a>
   <p>Carrera según el mínimo y el máximo de las últimas 24 horas.</p>
 </header>
 <div id="estado">Cargando datos…</div>
 <div id="pista"></div>
-<a class="dibujo" href="../img/261110_visual-horse.jpg"><img src="../img/261110_visual-horse.jpg" alt="Caballos de distintos colores galopando hacia la derecha en carriles paralelos apilados, al estilo de Degas." width="1280" height="640"></a>
 <footer>
   <p>Datos de <a href="https://www.coingecko.com/">CoinGecko</a> consultados por esta página en tu navegador.
   La posición es dentro de la franja de las últimas 24 horas: no es ganancia ni pérdida. Informa, no recomienda comprar ni vender.</p>
@@ -138,12 +138,15 @@ async function actualizar() {
     const datos = (await resp.json())
       .filter(a => !ESTABLES.includes(a.symbol.toLowerCase()))
       .slice(0, CANTIDAD_ACTIVOS);
-    // Se reordenan los carriles sin vaciar la pista: vaciarla colapsa la
-    // página y el navegador manda al lector arriba en cada actualización.
+    // Sin vaciar la pista ni mover carriles que ya están en su sitio:
+    // las remociones masivas descolocan el punto donde el lector está mirando.
+    // Además se guarda y restaura la posición de desplazamiento.
+    const desplazamiento = window.scrollY;
     const presentes = new Set(datos.map(a => a.id));
     for (const [id, c] of carriles) {
       if (!presentes.has(id) && c.carril.parentNode) c.carril.remove();
     }
+    let posicion = 0;
     for (const a of datos) {
       const c = carrilPara(a);
       const rango = a.high_24h - a.low_24h;
@@ -153,13 +156,21 @@ async function actualizar() {
       if (esNuevo) c.caballo.classList.add('sintrans');
       c.simbolo.textContent = a.symbol.toUpperCase();
       c.detalle.textContent = precioCorto(a.current_price) + ' · ' + Math.round(p * 100) + '%';
-      pista.appendChild(c.carril); // orden del ranking actual; mueve el nodo sin recrearlo
+      // orden del ranking actual; solo se mueve el carril si cambió de lugar
+      if (pista.children[posicion] !== c.carril) {
+        pista.insertBefore(c.carril, pista.children[posicion] || null);
+      }
+      posicion++;
       colocar(c);
       if (esNuevo) {
         c.caballo.offsetHeight; // fija la posición inicial sin animación
         c.caballo.classList.remove('sintrans');
       }
     }
+    if (window.scrollY !== desplazamiento) window.scrollTo(0, desplazamiento);
+    requestAnimationFrame(() => {
+      if (window.scrollY !== desplazamiento) window.scrollTo(0, desplazamiento);
+    });
     const ahora = new Date();
     estado.className = '';
     estado.textContent = 'Actualizado ' + ahora.toLocaleTimeString('es-VE')
