@@ -6,7 +6,7 @@ Tesorería es la oficina o despacho del tesorero, y el tesorero es la persona en
 
 Esta sala guarda estudios del dinero y de los activos. Un **activo** es un producto que se compra y se vende en un mercado. Cada informe reúne lo que dicen las fuentes abiertas, declara lo que no pudo comprobar y no recomienda comprar ni vender: informa, no aconseja operar.
 
-- [Ranking de capitalización](md/261111_ranking-de-capitalizacion.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261111_ranking-de-capitalizacion.html): De Bitcoin, que pesa más que todas las demás juntas, a la más pequeña: los activos con par USDT al contado en Binance, ordenados por su capitalización de mercado.
+- [Ranking de capitalización](md/261111_ranking-de-capitalizacion.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261111_ranking-de-capitalizacion.html): De Bitcoin a la más pequeña: los activos con par USDT en Binance, por capitalización.
 - [Visual horse](md/261110_visual-horse.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261110_visual-horse.html): Carrera de activos según el mínimo y el máximo de las últimas 24 horas, con datos en vivo de CoinGecko.
 - [Zcash: diez años de dinero privado](md/261102_zcash-diez-anos-de-dinero-privado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261102_zcash-diez-anos-de-dinero-privado.html): Qué es Zcash, cómo llegó a su máximo en diez años y qué decide esta semana la actualización NU7.
 - [Liquidez y estructura del mercado](md/261101_liquidez-y-estructura-del-mercado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261101_liquidez-y-estructura-del-mercado.html): Qué es la liquidez de un mercado, quién la sostiene y qué pasó en octubre de 1987, según Grossman y Miller.
