@@ -12,56 +12,6 @@ La lista reúne 518 pares con USDT que Binance negociaba al contado. Cada par ll
 
 De los 518 pares, 363 suben (70 %), 11 quedan en cero (2 %) y 144 bajan (28 %).
 
-## Los diez que más suben
-
-| N.º | Par | 24 h (%) |
-|---:|---|---:|
-| 1 | BARDUSDT | 87 |
-| 2 | SOPHUSDT | 45 |
-| 3 | DODOUSDT | 21 |
-| 4 | OSMOUSDT | 15 |
-| 5 | CBRSBUSDT | 12 |
-| 6 | PLUMEUSDT | 10 |
-| 7 | 牛来USDT | 10 |
-| 8 | INJUSDT | 9 |
-| 9 | NVDABUSDT | 9 |
-| 10 | 0GUSDT | 8 |
-
-## Los neutros
-
-Los **neutros** son los pares cuya variación publicada es cero. Son 11, de la posición 364 a la 374.
-
-| N.º | Par | 24 h (%) |
-|---:|---|---:|
-| 364 | AMPUSDT | 0 |
-| 365 | BFUSDUSDT | 0 |
-| 366 | GUSDT | 0 |
-| 367 | HOMEUSDT | 0 |
-| 368 | IDUSDT | 0 |
-| 369 | LAZIOUSDT | 0 |
-| 370 | NMRUSDT | 0 |
-| 371 | TUSDUSDT | 0 |
-| 372 | USDEUSDT | 0 |
-| 373 | XNOUSDT | 0 |
-| 374 | ZENUSDT | 0 |
-
-## Los diez que más bajan
-
-Van en el orden de la lista: el que más baja queda al final.
-
-| N.º | Par | 24 h (%) |
-|---:|---|---:|
-| 509 | BTTCUSDT | -6 |
-| 510 | SOXSBUSDT | -7 |
-| 511 | MANTRAUSDT | -7 |
-| 512 | SYRUPUSDT | -7 |
-| 513 | GRAMUSDT | -8 |
-| 514 | ONEUSDT | -9 |
-| 515 | HAEDALUSDT | -9 |
-| 516 | INITUSDT | -11 |
-| 517 | ERAUSDT | -16 |
-| 518 | BANANAS31USDT | -18 |
-
 ## Variación ponderada
 
 La [capitalización del 11 de noviembre](261111_ranking-de-capitalizacion.md) se multiplica por el porcentaje de esta consulta y se divide entre cien. Esa es la **variación ponderada**, una magnitud aproximada en dólares para comparar el tamaño de las subidas y las bajadas, no dinero que entró o salió ni un cambio de capitalización medido.
@@ -97,6 +47,58 @@ El cruce reúne 517 activos: EUR no tiene capitalización en la base y USDT no t
 | 515 | BNBUSDT | -1.807 |
 | 516 | ETHUSDT | -5.645 |
 | 517 | BTCUSDT | -61.140 |
+
+## Variación porcentual
+
+### Los diez que más suben
+
+| N.º | Par | 24 h (%) |
+|---:|---|---:|
+| 1 | BARDUSDT | 87 |
+| 2 | SOPHUSDT | 45 |
+| 3 | DODOUSDT | 21 |
+| 4 | OSMOUSDT | 15 |
+| 5 | CBRSBUSDT | 12 |
+| 6 | PLUMEUSDT | 10 |
+| 7 | 牛来USDT | 10 |
+| 8 | INJUSDT | 9 |
+| 9 | NVDABUSDT | 9 |
+| 10 | 0GUSDT | 8 |
+
+### Los diez que más bajan
+
+Van en el orden de la lista: el que más baja queda al final.
+
+| N.º | Par | 24 h (%) |
+|---:|---|---:|
+| 509 | BTTCUSDT | -6 |
+| 510 | SOXSBUSDT | -7 |
+| 511 | MANTRAUSDT | -7 |
+| 512 | SYRUPUSDT | -7 |
+| 513 | GRAMUSDT | -8 |
+| 514 | ONEUSDT | -9 |
+| 515 | HAEDALUSDT | -9 |
+| 516 | INITUSDT | -11 |
+| 517 | ERAUSDT | -16 |
+| 518 | BANANAS31USDT | -18 |
+
+## Los neutros
+
+Los **neutros** son los pares cuya variación publicada es cero. Son 11, de la posición 364 a la 374.
+
+| N.º | Par | 24 h (%) |
+|---:|---|---:|
+| 364 | AMPUSDT | 0 |
+| 365 | BFUSDUSDT | 0 |
+| 366 | GUSDT | 0 |
+| 367 | HOMEUSDT | 0 |
+| 368 | IDUSDT | 0 |
+| 369 | LAZIOUSDT | 0 |
+| 370 | NMRUSDT | 0 |
+| 371 | TUSDUSDT | 0 |
+| 372 | USDEUSDT | 0 |
+| 373 | XNOUSDT | 0 |
+| 374 | ZENUSDT | 0 |
 
 ## Fuentes
 
