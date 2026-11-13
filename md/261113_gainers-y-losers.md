@@ -4,13 +4,11 @@
 
 [![Un valle al amanecer: una cumbre nevada y dorada a la izquierda, un lago quieto en el centro y un barranco oscuro a la derecha, unidos por un sendero de piedra con viajeros diminutos.](../img/261113_gainers-y-losers.jpg)](../img/261113_gainers-y-losers.jpg)
 
-Binance es una casa de cambio, un sitio donde se compran y se venden activos. Un **activo** es un producto que se compra y se vende en un mercado. Un **par** es un activo junto con la moneda en que se cotiza, y el par se nombra con los símbolos de los dos juntos. Aquí la moneda de cotización es USDT, una moneda estable, es decir, diseñada para valer un dólar, y los pares se llaman BTCUSDT, ETHUSDT y así. Los pares que más suben son los *gainers* y los que más bajan son los *losers*: son los dos extremos de una misma lista.
+Una casa de cambio es un sitio donde se compran y se venden activos. Un **activo** es un producto que se compra y se vende en un mercado. Los activos que más suben son los *gainers* y los que más bajan son los *losers*: son los dos extremos de una misma lista.
 
-La consulta se hizo el 13 de noviembre de 2026 a las 10:03 (UTC-4) a la **API** de Binance, su servicio web de datos.
+---
 
-La lista reúne 518 pares con USDT que Binance negociaba al contado. Cada par lleva su posición en la lista completa, de la mayor variación a la menor; si dos pares tienen la misma variación, va primero el de símbolo menor en orden alfabético. Los porcentajes se presentan redondeados a enteros.
-
-De los 518 pares, 363 suben (70 %), 11 quedan en cero (2 %) y 144 bajan (28 %).
+13 de noviembre, 10 AM
 
 ## Variación ponderada
 
