@@ -22,7 +22,7 @@ Las figuras de barro ofrecen un rastro más firme que los relatos. Los primeros 
 
 ## La fortuna tiene puerta
 
-Antes de representar la prosperidad, los gatos prestaban un servicio concreto: cazaban las ratas y otros animales que perjudicaban a agricultores y comerciantes. La figura conserva esa cercanía entre el gato y lo que se desea proteger.
+Antes de representar la prosperidad, los gatos prestaban un servicio concreto: cazaban ratones y otros animales que perjudicaban a agricultores y comerciantes. La figura conserva esa cercanía entre el gato y lo que se desea proteger.
 
 En el mostrador, el *maneki-neko* convierte el deseo de que al negocio le vaya bien en una escena diminuta. Una moneda, una sonrisa y una pata alzada. La riqueza está en el vientre; la invitación mira hacia la puerta.
 
