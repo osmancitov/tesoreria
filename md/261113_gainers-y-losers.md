@@ -10,13 +10,11 @@ Una casa de cambio es un sitio donde se compran y se venden activos. Un **activo
 
 13 de noviembre, 10 AM
 
+---
+
 ## Variación ponderada
 
-La [capitalización del 11 de noviembre](261111_ranking-de-capitalizacion.md) se multiplica por el porcentaje de esta consulta y se divide entre cien. Esa es la **variación ponderada**, una magnitud aproximada en dólares para comparar el tamaño de las subidas y las bajadas, no dinero que entró o salió ni un cambio de capitalización medido.
-
-El cruce reúne 517 activos: EUR no tiene capitalización en la base y USDT no tiene par en esta consulta. Los importes están en millones de dólares, redondeados después de ordenar.
-
-### Los diez que más suben por ponderación
+### Los diez que más suben
 
 | N.º | Par | Mill. USD |
 |---:|---|---:|
@@ -31,7 +29,9 @@ El cruce reúne 517 activos: EUR no tiene capitalización en la base y USDT no t
 | 9 | DOGEUSDT | 96 |
 | 10 | PEPEUSDT | 85 |
 
-### Los diez que más bajan por ponderación
+---
+
+### Los diez que más bajan
 
 | N.º | Par | Mill. USD |
 |---:|---|---:|
@@ -45,6 +45,8 @@ El cruce reúne 517 activos: EUR no tiene capitalización en la base y USDT no t
 | 515 | BNBUSDT | -1.807 |
 | 516 | ETHUSDT | -5.645 |
 | 517 | BTCUSDT | -61.140 |
+
+---
 
 ## Variación porcentual
 
@@ -63,6 +65,8 @@ El cruce reúne 517 activos: EUR no tiene capitalización en la base y USDT no t
 | 9 | NVDABUSDT | 9 |
 | 10 | 0GUSDT | 8 |
 
+---
+
 ### Los diez que más bajan
 
 Van en el orden de la lista: el que más baja queda al final.
@@ -79,6 +83,8 @@ Van en el orden de la lista: el que más baja queda al final.
 | 516 | INITUSDT | -11 |
 | 517 | ERAUSDT | -16 |
 | 518 | BANANAS31USDT | -18 |
+
+---
 
 ## Los neutros
 
@@ -97,6 +103,8 @@ Los **neutros** son los pares cuya variación publicada es cero. Son 11, de la p
 | 372 | USDEUSDT | 0 |
 | 373 | XNOUSDT | 0 |
 | 374 | ZENUSDT | 0 |
+
+---
 
 ## Fuentes
 
