@@ -14,6 +14,8 @@ Una casa de cambio es un sitio donde se compran y se venden activos. Un **activo
 
 ## Variación ponderada
 
+Ganancias ponderadas: 3.700 millones de dólares (5 %). Pérdidas ponderadas: 70.000 millones de dólares (95 %).
+
 ### Los diez que más suben
 
 | N.º | Par | Mill. USD |
@@ -49,6 +51,8 @@ Una casa de cambio es un sitio donde se compran y se venden activos. Un **activo
 ---
 
 ## Variación porcentual
+
+El 70 % de los activos ganó y el 28 % perdió.
 
 ### Los diez que más suben
 
