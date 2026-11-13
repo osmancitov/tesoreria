@@ -6,6 +6,7 @@ Tesorería es la oficina o despacho del tesorero, y el tesorero es la persona en
 
 Esta sala guarda estudios del dinero y de los activos. Un **activo** es un producto que se compra y se vende en un mercado. Cada informe reúne lo que dicen las fuentes abiertas, declara lo que no pudo comprobar y no recomienda comprar ni vender: informa, no aconseja operar.
 
+- [Gainers y losers](md/261113_gainers-y-losers.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261113_gainers-y-losers.html): Los diez pares con USDT que más suben en Binance en 24 horas, los neutros y los diez que más bajan, con su posición en la lista de 518 y su comparación con el registro.
 - [Ranking de capitalización](md/261111_ranking-de-capitalizacion.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261111_ranking-de-capitalizacion.html): Una comparación del tamaño de los activos según su valor total de mercado, ordenados de mayor a menor.
 - [Visual horse](md/261110_visual-horse.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261110_visual-horse.html): Carrera de activos según el mínimo y el máximo de las últimas 24 horas, con datos en vivo de CoinGecko.
 - [Zcash: diez años de dinero privado](md/261102_zcash-diez-anos-de-dinero-privado.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261102_zcash-diez-anos-de-dinero-privado.html): Qué es Zcash, cómo llegó a su máximo en diez años y qué decide esta semana la actualización NU7.

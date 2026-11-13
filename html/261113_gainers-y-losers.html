@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gainers y losers · Tesorería Osmancito</title>
+<meta name="description" content="Los diez pares con USDT que más suben, los neutros y los diez que más bajan en Binance, en 24 horas.">
+<link rel="icon" href="https://osmancitov.github.io/favicon.ico">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="es_VE">
+<meta property="og:title" content="Gainers y losers">
+<meta property="og:description" content="Los diez pares con USDT que más suben, los neutros y los diez que más bajan en Binance, en 24 horas.">
+<meta property="og:url" content="https://osmancitov.github.io/tesoreria/html/261113_gainers-y-losers.html">
+<meta property="og:image" content="https://osmancitov.github.io/tesoreria/img/261113_gainers-y-losers.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1672">
+<meta property="og:image:height" content="941">
+<meta property="og:image:alt" content="Un valle al amanecer: una cumbre nevada y dorada a la izquierda, un lago quieto en el centro y un barranco oscuro a la derecha, unidos por un sendero de piedra con viajeros diminutos.">
+<link rel="stylesheet" href="/css/base.css">
+</head>
+<body>
+<main>
+<p>13 de noviembre de 2026</p>
+<h1>Gainers y losers</h1>
+<a href="../img/261113_gainers-y-losers.jpg"><img src="../img/261113_gainers-y-losers.jpg" alt="Un valle al amanecer: una cumbre nevada y dorada a la izquierda, un lago quieto en el centro y un barranco oscuro a la derecha, unidos por un sendero de piedra con viajeros diminutos." width="1672" height="941"></a>
+<p>Binance es una casa de cambio, un sitio donde se compran y se venden activos. Un <strong>activo</strong> es un producto que se compra y se vende en un mercado. Un <strong>par</strong> es un activo junto con la moneda en que se cotiza, y el par se nombra con los símbolos de los dos juntos. Aquí la moneda de cotización es USDT, una moneda estable, es decir, diseñada para valer un dólar, y los pares se llaman BTCUSDT, ETHUSDT y así. Los pares que más suben son los <em>gainers</em> y los que más bajan son los <em>losers</em>, como los llama la aplicación de Binance: son los dos extremos de una misma lista.</p>
+<p>La consulta se hizo el 13 de noviembre de 2026 a las 10:03 (UTC-4) a la <strong>API</strong> de Binance, su servicio web de datos. La <strong>variación</strong> de un par es el cambio porcentual de su precio en una <strong>ventana móvil</strong>: las 24 horas contadas hacia atrás desde el momento de la consulta, no desde un corte fijo como la medianoche. Es una foto: los precios ya se movieron y la lista no se actualiza. Esta página informa; no recomienda comprar ni vender.</p>
+<p>La lista reúne 518 pares con USDT que Binance negociaba al contado. Dejamos fuera los pares en pausa, que Binance marca con el estado <code>BREAK</code>: según su documentación, no genera datos de mercado para ellos, y su variación publicada no es la de las últimas 24 horas. Ningún par tenía otro estado. Cada par lleva su posición en la lista completa, de la mayor variación a la menor; si dos pares tienen la misma variación, va primero el de símbolo menor en orden alfabético. Las variaciones llevan los tres decimales que entrega la API.</p>
+<p>De los 518 pares, 363 suben, 11 quedan en cero y 144 bajan.</p>
+<p>Un <strong>repositorio</strong> es una carpeta que guarda archivos y el historial de sus cambios, y GitHub es el servicio web donde se guardan. El <strong>registro</strong> de esta sala es la carpeta <code>registro</code> del repositorio <code>osmancitov/tesoreria</code>: tiene una subcarpeta por par, que lleva el símbolo del par como nombre. Frente a ese registro, la lista cambió en dos símbolos: tiene un par nuevo, EURUSDT, y le falta uno que el registro sí tiene, USDTUSDT. Los otros 517 símbolos coinciden.</p>
+<h2>Los diez que más suben</h2>
+<div class="tabla"><table>
+<thead><tr><th>N.º</th><th>Par</th><th>Variación 24 h (%)</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>BARDUSDT</td><td>86,590</td></tr>
+<tr><td>2</td><td>SOPHUSDT</td><td>45,313</td></tr>
+<tr><td>3</td><td>DODOUSDT</td><td>21,419</td></tr>
+<tr><td>4</td><td>OSMOUSDT</td><td>14,596</td></tr>
+<tr><td>5</td><td>CBRSBUSDT</td><td>11,847</td></tr>
+<tr><td>6</td><td>PLUMEUSDT</td><td>10,498</td></tr>
+<tr><td>7</td><td>牛来USDT</td><td>10,478</td></tr>
+<tr><td>8</td><td>INJUSDT</td><td>9,429</td></tr>
+<tr><td>9</td><td>NVDABUSDT</td><td>9,023</td></tr>
+<tr><td>10</td><td>0GUSDT</td><td>8,475</td></tr>
+</tbody>
+</table></div>
+<h2>Los neutros</h2>
+<p>Los <strong>neutros</strong> son los pares cuya variación publicada es 0,000. Ese valor es cero con los tres decimales de la API: no prueba que el precio no se haya movido en la ventana. Son 11, de la posición 364 a la 374.</p>
+<div class="tabla"><table>
+<thead><tr><th>N.º</th><th>Par</th><th>Variación 24 h (%)</th></tr></thead>
+<tbody>
+<tr><td>364</td><td>AMPUSDT</td><td>0,000</td></tr>
+<tr><td>365</td><td>BFUSDUSDT</td><td>0,000</td></tr>
+<tr><td>366</td><td>GUSDT</td><td>0,000</td></tr>
+<tr><td>367</td><td>HOMEUSDT</td><td>0,000</td></tr>
+<tr><td>368</td><td>IDUSDT</td><td>0,000</td></tr>
+<tr><td>369</td><td>LAZIOUSDT</td><td>0,000</td></tr>
+<tr><td>370</td><td>NMRUSDT</td><td>0,000</td></tr>
+<tr><td>371</td><td>TUSDUSDT</td><td>0,000</td></tr>
+<tr><td>372</td><td>USDEUSDT</td><td>0,000</td></tr>
+<tr><td>373</td><td>XNOUSDT</td><td>0,000</td></tr>
+<tr><td>374</td><td>ZENUSDT</td><td>0,000</td></tr>
+</tbody>
+</table></div>
+<h2>Los diez que más bajan</h2>
+<p>Van en el orden de la lista: el que más baja queda al final.</p>
+<div class="tabla"><table>
+<thead><tr><th>N.º</th><th>Par</th><th>Variación 24 h (%)</th></tr></thead>
+<tbody>
+<tr><td>509</td><td>BTTCUSDT</td><td>-5,882</td></tr>
+<tr><td>510</td><td>SOXSBUSDT</td><td>-6,639</td></tr>
+<tr><td>511</td><td>MANTRAUSDT</td><td>-6,993</td></tr>
+<tr><td>512</td><td>SYRUPUSDT</td><td>-7,115</td></tr>
+<tr><td>513</td><td>GRAMUSDT</td><td>-8,354</td></tr>
+<tr><td>514</td><td>ONEUSDT</td><td>-8,586</td></tr>
+<tr><td>515</td><td>HAEDALUSDT</td><td>-9,465</td></tr>
+<tr><td>516</td><td>INITUSDT</td><td>-11,349</td></tr>
+<tr><td>517</td><td>ERAUSDT</td><td>-15,501</td></tr>
+<tr><td>518</td><td>BANANAS31USDT</td><td>-17,966</td></tr>
+</tbody>
+</table></div>
+<h2>Fuentes</h2>
+<p>Binance: la lista de 24 horas, <code>https://data-api.binance.vision/api/v3/ticker/24hr</code>, y el catálogo de pares, <code>https://data-api.binance.vision/api/v3/exchangeInfo</code>, consultados el 13 de noviembre de 2026 a las 10:03 (UTC-4). La documentación de la API está en la <a href="https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md">guía de Binance Spot</a>.</p>
+<p>© 2026 Osmancito</p>
+</main>
+<p><a href="../tesoreria.html">Volver a Tesorería</a></p>
+</body>
+</html>
