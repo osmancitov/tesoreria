@@ -10,7 +10,7 @@ La consulta se hizo el 13 de noviembre de 2026 a las 10:03 (UTC-4) a la **API** 
 
 La lista reúne 518 pares con USDT que Binance negociaba al contado. Cada par lleva su posición en la lista completa, de la mayor variación a la menor; si dos pares tienen la misma variación, va primero el de símbolo menor en orden alfabético. Las variaciones llevan los tres decimales que entrega la API.
 
-De los 518 pares, 363 suben, 11 quedan en cero y 144 bajan.
+De los 518 pares, 363 suben (70,08 %), 11 quedan en cero (2,12 %) y 144 bajan (27,80 %).
 
 ## Los diez que más suben
 
