@@ -62,6 +62,42 @@ Van en el orden de la lista: el que más baja queda al final.
 | 517 | ERAUSDT | -16 |
 | 518 | BANANAS31USDT | -18 |
 
+## Variación ponderada
+
+La [capitalización del 11 de noviembre](261111_ranking-de-capitalizacion.md) se multiplica por el porcentaje de esta consulta y se divide entre cien. Esa es la **variación ponderada**, una magnitud aproximada en dólares para comparar el tamaño de las subidas y las bajadas, no dinero que entró o salió ni un cambio de capitalización medido.
+
+El cruce reúne 517 activos: EUR no tiene capitalización en la base y USDT no tiene par en esta consulta. Los importes están en millones de dólares, redondeados después de ordenar.
+
+### Los diez que más suben por ponderación
+
+| N.º | Par | Mill. USD |
+|---:|---|---:|
+| 1 | HYPEUSDT | 952 |
+| 2 | NEARUSDT | 255 |
+| 3 | XLMUSDT | 177 |
+| 4 | LINKUSDT | 139 |
+| 5 | ADAUSDT | 136 |
+| 6 | SUIUSDT | 111 |
+| 7 | TAOUSDT | 107 |
+| 8 | AVAXUSDT | 103 |
+| 9 | DOGEUSDT | 96 |
+| 10 | PEPEUSDT | 85 |
+
+### Los diez que más bajan por ponderación
+
+| N.º | Par | Mill. USD |
+|---:|---|---:|
+| 508 | ETHFIUSDT | -21 |
+| 509 | HBARUSDT | -33 |
+| 510 | UNIUSDT | -59 |
+| 511 | WBETHUSDT | -172 |
+| 512 | TRXUSDT | -209 |
+| 513 | GRAMUSDT | -276 |
+| 514 | WBTCUSDT | -344 |
+| 515 | BNBUSDT | -1.807 |
+| 516 | ETHUSDT | -5.645 |
+| 517 | BTCUSDT | -61.140 |
+
 ## Fuentes
 
 Binance: la lista de 24 horas, `https://data-api.binance.vision/api/v3/ticker/24hr`, y el catálogo de pares, `https://data-api.binance.vision/api/v3/exchangeInfo`, consultados el 13 de noviembre de 2026 a las 10:03 (UTC-4). La documentación de la API está en la [guía de Binance Spot](https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md).
