@@ -6,6 +6,7 @@ Tesorería es la oficina o despacho del tesorero, y el tesorero es la persona en
 
 Esta sala guarda estudios del dinero y de los activos. Un **activo** es un producto que se compra y se vende en un mercado. Cada informe reúne lo que dicen las fuentes abiertas, declara lo que no pudo comprobar y no recomienda comprar ni vender: informa, no aconseja operar.
 
+- [Maneki-neko](md/261113_maneki-neko.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261113_maneki-neko.html): El gato japonés de la patita levantada: su nombre, sus leyendas y su relación con la prosperidad de los comercios.
 - [Gainers y losers](md/261113_gainers-y-losers.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261113_gainers-y-losers.html): Los activos que más suben, los neutros y los que más bajan.
 - [Ranking de capitalización](md/261111_ranking-de-capitalizacion.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261111_ranking-de-capitalizacion.html): Una comparación del tamaño de los activos según su valor total de mercado, ordenados de mayor a menor.
 - [Visual horse](md/261110_visual-horse.md) · [HTML](https://osmancitov.github.io/tesoreria/html/261110_visual-horse.html): Carrera de activos según el mínimo y el máximo de las últimas 24 horas, con datos en vivo de CoinGecko.
