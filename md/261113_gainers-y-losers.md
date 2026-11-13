@@ -8,59 +8,59 @@ Binance es una casa de cambio, un sitio donde se compran y se venden activos. Un
 
 La consulta se hizo el 13 de noviembre de 2026 a las 10:03 (UTC-4) a la **API** de Binance, su servicio web de datos.
 
-La lista reúne 518 pares con USDT que Binance negociaba al contado. Cada par lleva su posición en la lista completa, de la mayor variación a la menor; si dos pares tienen la misma variación, va primero el de símbolo menor en orden alfabético. Las variaciones llevan los tres decimales que entrega la API.
+La lista reúne 518 pares con USDT que Binance negociaba al contado. Cada par lleva su posición en la lista completa, de la mayor variación a la menor; si dos pares tienen la misma variación, va primero el de símbolo menor en orden alfabético. Los porcentajes se presentan redondeados a enteros.
 
-De los 518 pares, 363 suben (70,08 %), 11 quedan en cero (2,12 %) y 144 bajan (27,80 %).
+De los 518 pares, 363 suben (70 %), 11 quedan en cero (2 %) y 144 bajan (28 %).
 
 ## Los diez que más suben
 
-| N.º | Par | Variación 24 h (%) |
+| N.º | Par | 24 h (%) |
 |---:|---|---:|
-| 1 | BARDUSDT | 86,590 |
-| 2 | SOPHUSDT | 45,313 |
-| 3 | DODOUSDT | 21,419 |
-| 4 | OSMOUSDT | 14,596 |
-| 5 | CBRSBUSDT | 11,847 |
-| 6 | PLUMEUSDT | 10,498 |
-| 7 | 牛来USDT | 10,478 |
-| 8 | INJUSDT | 9,429 |
-| 9 | NVDABUSDT | 9,023 |
-| 10 | 0GUSDT | 8,475 |
+| 1 | BARDUSDT | 87 |
+| 2 | SOPHUSDT | 45 |
+| 3 | DODOUSDT | 21 |
+| 4 | OSMOUSDT | 15 |
+| 5 | CBRSBUSDT | 12 |
+| 6 | PLUMEUSDT | 10 |
+| 7 | 牛来USDT | 10 |
+| 8 | INJUSDT | 9 |
+| 9 | NVDABUSDT | 9 |
+| 10 | 0GUSDT | 8 |
 
 ## Los neutros
 
-Los **neutros** son los pares cuya variación publicada es 0,000. Son 11, de la posición 364 a la 374.
+Los **neutros** son los pares cuya variación publicada es cero. Son 11, de la posición 364 a la 374.
 
-| N.º | Par | Variación 24 h (%) |
+| N.º | Par | 24 h (%) |
 |---:|---|---:|
-| 364 | AMPUSDT | 0,000 |
-| 365 | BFUSDUSDT | 0,000 |
-| 366 | GUSDT | 0,000 |
-| 367 | HOMEUSDT | 0,000 |
-| 368 | IDUSDT | 0,000 |
-| 369 | LAZIOUSDT | 0,000 |
-| 370 | NMRUSDT | 0,000 |
-| 371 | TUSDUSDT | 0,000 |
-| 372 | USDEUSDT | 0,000 |
-| 373 | XNOUSDT | 0,000 |
-| 374 | ZENUSDT | 0,000 |
+| 364 | AMPUSDT | 0 |
+| 365 | BFUSDUSDT | 0 |
+| 366 | GUSDT | 0 |
+| 367 | HOMEUSDT | 0 |
+| 368 | IDUSDT | 0 |
+| 369 | LAZIOUSDT | 0 |
+| 370 | NMRUSDT | 0 |
+| 371 | TUSDUSDT | 0 |
+| 372 | USDEUSDT | 0 |
+| 373 | XNOUSDT | 0 |
+| 374 | ZENUSDT | 0 |
 
 ## Los diez que más bajan
 
 Van en el orden de la lista: el que más baja queda al final.
 
-| N.º | Par | Variación 24 h (%) |
+| N.º | Par | 24 h (%) |
 |---:|---|---:|
-| 509 | BTTCUSDT | -5,882 |
-| 510 | SOXSBUSDT | -6,639 |
-| 511 | MANTRAUSDT | -6,993 |
-| 512 | SYRUPUSDT | -7,115 |
-| 513 | GRAMUSDT | -8,354 |
-| 514 | ONEUSDT | -8,586 |
-| 515 | HAEDALUSDT | -9,465 |
-| 516 | INITUSDT | -11,349 |
-| 517 | ERAUSDT | -15,501 |
-| 518 | BANANAS31USDT | -17,966 |
+| 509 | BTTCUSDT | -6 |
+| 510 | SOXSBUSDT | -7 |
+| 511 | MANTRAUSDT | -7 |
+| 512 | SYRUPUSDT | -7 |
+| 513 | GRAMUSDT | -8 |
+| 514 | ONEUSDT | -9 |
+| 515 | HAEDALUSDT | -9 |
+| 516 | INITUSDT | -11 |
+| 517 | ERAUSDT | -16 |
+| 518 | BANANAS31USDT | -18 |
 
 ## Fuentes
 
