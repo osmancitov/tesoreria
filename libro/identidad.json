@@ -1,0 +1,2611 @@
+{
+ "meta": {
+  "consulta_identidad": "entre las 09:43 y las 09:54 UTC-4 del 14 de noviembre de 2026",
+  "mcap_fecha": "14 de noviembre de 2026",
+  "grupo_gainers_etiqueta": "los diez <em>gainers</em> del corte",
+  "grupo_gainers": [
+   "0GUSDT",
+   "BARDUSDT",
+   "CBRSBUSDT",
+   "DODOUSDT",
+   "INJUSDT",
+   "NVDABUSDT",
+   "OSMOUSDT",
+   "PLUMEUSDT",
+   "SOPHUSDT",
+   "牛来USDT"
+  ]
+ },
+ "activos": {
+  "0GUSDT": {
+   "nombre": "0G",
+   "cg": "zero-gravity",
+   "mcap": 95750261.17658366
+  },
+  "1000CATUSDT": {
+   "nombre": "1000CAT",
+   "cg": "1000cat",
+   "mcap": null
+  },
+  "1000CHEEMSUSDT": {
+   "nombre": "1000CHEMS",
+   "cg": "1000chems",
+   "mcap": null
+  },
+  "1000SATSUSDT": {
+   "nombre": "1000SATS (Ordinals)",
+   "cg": "1000sats-ordinals",
+   "mcap": null
+  },
+  "1INCHUSDT": {
+   "nombre": "1INCH",
+   "cg": "1inch",
+   "mcap": 97118719.6564741
+  },
+  "1MBABYDOGEUSDT": {
+   "nombre": "1MBABYDOGE",
+   "cg": "1mbabydoge",
+   "mcap": null
+  },
+  "2ZUSDT": {
+   "nombre": "DoubleZero",
+   "cg": "doublezero",
+   "mcap": 91887112.06310861
+  },
+  "AAOIBUSDT": {
+   "nombre": "Applied Optoelectronics (bStocks)",
+   "cg": "applied-optoelectronics-bstocks-tokenized-stock",
+   "mcap": 6121439.907026702
+  },
+  "AAPLBUSDT": {
+   "nombre": "Apple (bStocks)",
+   "cg": "apple-bstocks-tokenized-stock",
+   "mcap": 5267473.31269867
+  },
+  "AAVEUSDT": {
+   "nombre": "Aave",
+   "cg": "aave",
+   "mcap": 1635598716.8504841
+  },
+  "ACEUSDT": {
+   "nombre": "Fusionist",
+   "cg": "endurance",
+   "mcap": 12050192.535033664
+  },
+  "ACHUSDT": {
+   "nombre": "Alchemy Pay",
+   "cg": "alchemy-pay",
+   "mcap": null
+  },
+  "ACMUSDT": {
+   "nombre": "AC Milan",
+   "cg": "ac-milan-fan-token",
+   "mcap": 3053184.1002746555
+  },
+  "ACTUSDT": {
+   "nombre": "Act I The AI Prophecy",
+   "cg": "act-i-the-ai-prophecy",
+   "mcap": 8575298.316904323
+  },
+  "ADAUSDT": {
+   "nombre": "Cardano",
+   "cg": "cardano",
+   "mcap": 6064331370.064562
+  },
+  "ADBEBUSDT": {
+   "nombre": "Adobe (bStocks)",
+   "cg": "adobe-bstocks-tokenized-stock",
+   "mcap": 963412.9863593479
+  },
+  "ADXUSDT": {
+   "nombre": "heyAura",
+   "cg": "adex",
+   "mcap": 6646731.425305906
+  },
+  "AEROUSDT": {
+   "nombre": "Aerodrome Finance",
+   "cg": "aerodrome-finance",
+   "mcap": 122747623.10216226
+  },
+  "AEVOUSDT": {
+   "nombre": "Aevo",
+   "cg": "aevo-exchange",
+   "mcap": 16136427.893111967
+  },
+  "AGLDUSDT": {
+   "nombre": "Adventure Gold",
+   "cg": "adventure-gold",
+   "mcap": 12918010.795814829
+  },
+  "AGPUBUSDT": {
+   "nombre": "Axe Compute (bStocks)",
+   "cg": "axe-compute-bstocks-tokenized-stock",
+   "mcap": 5586295.031906236
+  },
+  "AIGENSYNUSDT": {
+   "nombre": "Gensyn",
+   "cg": "gensyn",
+   "mcap": 16934637.366349313
+  },
+  "AIUSDT": {
+   "nombre": "Sleepless AI",
+   "cg": "sleepless-ai",
+   "mcap": 1990462.8508808275
+  },
+  "AIXBTUSDT": {
+   "nombre": "aixbt",
+   "cg": "aixbt",
+   "mcap": 13703277.899859237
+  },
+  "ALABBUSDT": {
+   "nombre": "Astera Labs (bStocks)",
+   "cg": "astera-labs-bstocks-tokenized-stock",
+   "mcap": 591147.7318599523
+  },
+  "ALGOUSDT": {
+   "nombre": "Algorand",
+   "cg": "algorand",
+   "mcap": 745703043.8880379
+  },
+  "ALICEUSDT": {
+   "nombre": "My Neighbor Alice",
+   "cg": "my-neighbor-alice",
+   "mcap": 11124889.34551948
+  },
+  "ALLOUSDT": {
+   "nombre": "Allora",
+   "cg": "allora",
+   "mcap": 66067562.386047944
+  },
+  "ALPINEUSDT": {
+   "nombre": "Alpine F1 Team",
+   "cg": "alpine-f1-team-fan-token",
+   "mcap": 2972596.3555852147
+  },
+  "ALTUSDT": {
+   "nombre": "AltLayer",
+   "cg": "altlayer",
+   "mcap": 38043150.69815646
+  },
+  "AMATBUSDT": {
+   "nombre": "Applied Materials (bStocks)",
+   "cg": "applied-materials-bstocks-tokenized-stock",
+   "mcap": 1559469.0878157183
+  },
+  "AMCBUSDT": {
+   "nombre": "AMC Entertainment Holdings (bStocks)",
+   "cg": "amc-entertainment-holdings-bstocks-tokenized-stock",
+   "mcap": 682945.9464978374
+  },
+  "AMDBUSDT": {
+   "nombre": "Advanced Micro Devices (bStocks)",
+   "cg": "advanced-micro-devices-bstocks-tokenized-stock",
+   "mcap": 4870124.749894663
+  },
+  "AMPUSDT": {
+   "nombre": "Amp",
+   "cg": "amp-token",
+   "mcap": 51950619.20777712
+  },
+  "AMZNBUSDT": {
+   "nombre": "Amazon (bStocks)",
+   "cg": "amazon-bstocks-tokenized-stock",
+   "mcap": 3832594.2393793566
+  },
+  "ANIMEUSDT": {
+   "nombre": "Animecoin",
+   "cg": "anime",
+   "mcap": 11970142.461042106
+  },
+  "ANKRUSDT": {
+   "nombre": "Ankr Network",
+   "cg": "ankr",
+   "mcap": 33462464.321010314
+  },
+  "APEUSDT": {
+   "nombre": "ApeCoin",
+   "cg": "apecoin",
+   "mcap": 87680611.97017449
+  },
+  "API3USDT": {
+   "nombre": "Api3",
+   "cg": "api3",
+   "mcap": 33464196.26319004
+  },
+  "APPBUSDT": {
+   "nombre": "Applovin (bStocks)",
+   "cg": "applovin-bstocks-tokenized-stock",
+   "mcap": 2658662.113185747
+  },
+  "APTUSDT": {
+   "nombre": "Aptos",
+   "cg": "aptos",
+   "mcap": 450597647.3328737
+  },
+  "ARBUSDT": {
+   "nombre": "Arbitrum",
+   "cg": "arbitrum",
+   "mcap": 967794001.8185529
+  },
+  "ARKMUSDT": {
+   "nombre": "Arkham",
+   "cg": "arkham",
+   "mcap": 66836020.29617645
+  },
+  "ARKUSDT": {
+   "nombre": "ARK",
+   "cg": "ark",
+   "mcap": 29048421.255250536
+  },
+  "ARMBUSDT": {
+   "nombre": "Arm (bStocks)",
+   "cg": "arm-bstocks-tokenized-stock",
+   "mcap": 1415041.505585264
+  },
+  "ARPAUSDT": {
+   "nombre": "ARPA",
+   "cg": "arpa",
+   "mcap": 14816963.321635487
+  },
+  "ARUSDT": {
+   "nombre": "Arweave",
+   "cg": "arweave",
+   "mcap": 181445138.56137517
+  },
+  "ASMLBUSDT": {
+   "nombre": "ASML (bStocks)",
+   "cg": "asml-bstocks-tokenized-stock",
+   "mcap": 1017967.703871335
+  },
+  "ASRUSDT": {
+   "nombre": "AS Roma",
+   "cg": "as-roma-fan-token",
+   "mcap": 6284892.595812088
+  },
+  "ASTERUSDT": {
+   "nombre": "Aster",
+   "cg": "aster-2",
+   "mcap": 1631183064.7088988
+  },
+  "ASTRUSDT": {
+   "nombre": "Astar",
+   "cg": "astar",
+   "mcap": 41535604.12932183
+  },
+  "ASTSBUSDT": {
+   "nombre": "AST SpaceMobile (bStocks)",
+   "cg": "ast-spacemobile-bstocks-tokenized-stock",
+   "mcap": 1307275.0788282156
+  },
+  "ATMUSDT": {
+   "nombre": "Atletico Madrid",
+   "cg": "atletico-madrid",
+   "mcap": 6484025.115551048
+  },
+  "ATOMUSDT": {
+   "nombre": "Cosmos Hub",
+   "cg": "cosmos",
+   "mcap": 730323079.2017498
+  },
+  "ATUSDT": {
+   "nombre": "Apro",
+   "cg": "apro",
+   "mcap": 21993556.90705753
+  },
+  "AUCTIONUSDT": {
+   "nombre": "Bounce",
+   "cg": "auction",
+   "mcap": 20244639.33784253
+  },
+  "AUDIOUSDT": {
+   "nombre": "Audius",
+   "cg": "audius",
+   "mcap": 16214413.618182521
+  },
+  "AUSDT": {
+   "nombre": "Vaulta",
+   "cg": "vaulta",
+   "mcap": 112964052.65783557
+  },
+  "AVAUSDT": {
+   "nombre": "AVA (Travala)",
+   "cg": "concierge-io",
+   "mcap": 16085007.671259997
+  },
+  "AVAXUSDT": {
+   "nombre": "Avalanche",
+   "cg": "avalanche-2",
+   "mcap": 3551623031.2136393
+  },
+  "AVGOBUSDT": {
+   "nombre": "Broadcom (bStocks)",
+   "cg": "broadcom-bstocks-tokenized-stock",
+   "mcap": 9011806.782294992
+  },
+  "AVNTUSDT": {
+   "nombre": "Veranta",
+   "cg": "avantis",
+   "mcap": 29648202.478050735
+  },
+  "AWEUSDT": {
+   "nombre": "AWE Network",
+   "cg": "stp-network",
+   "mcap": 115500055.52304657
+  },
+  "AXLUSDT": {
+   "nombre": "Axelar",
+   "cg": "axelar",
+   "mcap": 43561048.65856727
+  },
+  "AXSUSDT": {
+   "nombre": "Axie Infinity",
+   "cg": "axie-infinity",
+   "mcap": 126693855.34177534
+  },
+  "AXTIBUSDT": {
+   "nombre": "AXT (bStocks)",
+   "cg": "axt-bstocks-tokenized-stock",
+   "mcap": 2464977.8237209213
+  },
+  "BABABUSDT": {
+   "nombre": "Alibaba (bStocks)",
+   "cg": "alibaba-bstocks-tokenized-stock",
+   "mcap": 7226594.986134696
+  },
+  "BABYUSDT": {
+   "nombre": "Babylon",
+   "cg": "babylon",
+   "mcap": 46854652.272940926
+  },
+  "BANANAS31USDT": {
+   "nombre": "Banana For Scale",
+   "cg": "banana-for-scale-2",
+   "mcap": 43351452.819436334
+  },
+  "BANANAUSDT": {
+   "nombre": "Banana Gun",
+   "cg": "banana-gun",
+   "mcap": 10904308.34588581
+  },
+  "BANDUSDT": {
+   "nombre": "Band",
+   "cg": "band-protocol",
+   "mcap": 29071474.41031296
+  },
+  "BANKUSDT": {
+   "nombre": "Lorenzo Protocol",
+   "cg": "lorenzo-protocol",
+   "mcap": 15847872.930126159
+  },
+  "BARDUSDT": {
+   "nombre": "Lombard",
+   "cg": "lombard-protocol",
+   "mcap": 49460498.72762937
+  },
+  "BARUSDT": {
+   "nombre": "FC Barcelona",
+   "cg": "fc-barcelona-fan-token",
+   "mcap": 6284921.9609226305
+  },
+  "BATUSDT": {
+   "nombre": "Basic Attention",
+   "cg": "basic-attention-token",
+   "mcap": 152821997.63872644
+  },
+  "BBBUSDT": {
+   "nombre": "Blackberry (bStocks)",
+   "cg": "blackberry-bstocks-tokenized-stock",
+   "mcap": 1457004.272662285
+  },
+  "BBUSDT": {
+   "nombre": "BounceBit",
+   "cg": "bouncebit",
+   "mcap": null
+  },
+  "BCHUSDT": {
+   "nombre": "Bitcoin Cash",
+   "cg": "bitcoin-cash",
+   "mcap": 4356149010.673022
+  },
+  "BEAMXUSDT": {
+   "nombre": "Beam",
+   "cg": "beam-2",
+   "mcap": 212182778.30780804
+  },
+  "BEBUSDT": {
+   "nombre": "Bloom Energy (bStocks)",
+   "cg": "bloom-energy-bstocks-tokenized-stock",
+   "mcap": 3932956.7815523883
+  },
+  "BELUSDT": {
+   "nombre": "Bella Protocol",
+   "cg": "bella-protocol",
+   "mcap": 7278098.584526458
+  },
+  "BERAUSDT": {
+   "nombre": "Berachain",
+   "cg": "berachain-bera",
+   "mcap": 38187227.19913731
+  },
+  "BFUSDUSDT": {
+   "nombre": "BFUSD",
+   "cg": "bfusd",
+   "mcap": 1319030230.6918828
+  },
+  "BICOUSDT": {
+   "nombre": "Biconomy",
+   "cg": "biconomy",
+   "mcap": 12304647.16242143
+  },
+  "BIGTIMEUSDT": {
+   "nombre": "Big Time",
+   "cg": "big-time",
+   "mcap": 13634863.4021343
+  },
+  "BIOUSDT": {
+   "nombre": "Bio Protocol",
+   "cg": "bio-protocol",
+   "mcap": 37637301.55493878
+  },
+  "BLURUSDT": {
+   "nombre": "Blur",
+   "cg": "blur",
+   "mcap": 18419535.88207885
+  },
+  "BMNRBUSDT": {
+   "nombre": "BitMine Immersion Technologies (bStocks)",
+   "cg": "bitmine-immersion-technologies-bstocks-tokenized-stock",
+   "mcap": 7881637.373292088
+  },
+  "BMTUSDT": {
+   "nombre": "Bubblemaps",
+   "cg": "bubblemaps",
+   "mcap": 17188168.904843517
+  },
+  "BNBUSDT": {
+   "nombre": "BNB",
+   "cg": "binancecoin",
+   "mcap": 79941330874.39206
+  },
+  "BNCBUSDT": {
+   "nombre": "CEA Industries (bStocks)",
+   "cg": "cea-industries-bstocks-tokenized-stock",
+   "mcap": 32018046.661129903
+  },
+  "BNSOLUSDT": {
+   "nombre": "Binance Staked SOL",
+   "cg": "binance-staked-sol",
+   "mcap": 790623765.1675776
+  },
+  "BNTUSDT": {
+   "nombre": "Bancor Network",
+   "cg": "bancor",
+   "mcap": 23426993.9707165
+  },
+  "BOMEUSDT": {
+   "nombre": "BOOK OF MEME",
+   "cg": "book-of-meme",
+   "mcap": 36617241.641883224
+  },
+  "BONKUSDT": {
+   "nombre": "Bonk",
+   "cg": "bonk",
+   "mcap": 225514103.08907738
+  },
+  "BOTBUSDT": {
+   "nombre": "RoboStrategy (bStocks)",
+   "cg": "robostrategy-bstocks-tokenized-stock",
+   "mcap": 494602.56235134666
+  },
+  "BREVUSDT": {
+   "nombre": "Brevis",
+   "cg": "brevis",
+   "mcap": 15872049.195467398
+  },
+  "BRKBBUSDT": {
+   "nombre": "Berkshire Hathaway (bStocks)",
+   "cg": "berkshire-hathaway-bstocks-tokenized-stock",
+   "mcap": 722071.0855211327
+  },
+  "BROCCOLI714USDT": {
+   "nombre": "CZ's Dog",
+   "cg": "czs-dog",
+   "mcap": 13953493.24096963
+  },
+  "BSPBUSDT": {
+   "nombre": "Bending Spoons (bStocks)",
+   "cg": "bending-spoons-bstocks-tokenized-stock",
+   "mcap": 359843.16406346945
+  },
+  "BTCUSDT": {
+   "nombre": "Bitcoin",
+   "cg": "bitcoin",
+   "mcap": 1343750352290.298
+  },
+  "BTTCUSDT": {
+   "nombre": "BitTorrent",
+   "cg": "bittorrent",
+   "mcap": 312056346.56087875
+  },
+  "C98USDT": {
+   "nombre": "Coin98",
+   "cg": "coin98",
+   "mcap": 10953316.05894548
+  },
+  "CAKEUSDT": {
+   "nombre": "PancakeSwap",
+   "cg": "pancakeswap-token",
+   "mcap": 571238483.8657099
+  },
+  "CATIUSDT": {
+   "nombre": "Catizen",
+   "cg": "catizen",
+   "mcap": 22969991.16572198
+  },
+  "CBRSBUSDT": {
+   "nombre": "Cerebras (bStocks)",
+   "cg": "cerebras-bstocks-tokenized-stock",
+   "mcap": 5664487.443396372
+  },
+  "CELOUSDT": {
+   "nombre": "Celo",
+   "cg": "celo",
+   "mcap": 38503712.63315117
+  },
+  "CELRUSDT": {
+   "nombre": "Celer Network",
+   "cg": "celer-network",
+   "mcap": 16183898.49998975
+  },
+  "CETUSUSDT": {
+   "nombre": "Cetus Protocol",
+   "cg": "cetus-protocol",
+   "mcap": 16889981.71083094
+  },
+  "CFGUSDT": {
+   "nombre": "Centrifuge",
+   "cg": "centrifuge-2",
+   "mcap": 29068773.411126245
+  },
+  "CFXUSDT": {
+   "nombre": "Conflux",
+   "cg": "conflux-token",
+   "mcap": 201273385.73240307
+  },
+  "CGPTUSDT": {
+   "nombre": "ChainGPT",
+   "cg": "chaingpt",
+   "mcap": 15239159.32902646
+  },
+  "CHIPUSDT": {
+   "nombre": "USD.AI",
+   "cg": "chip-2",
+   "mcap": 59528154.82381958
+  },
+  "CHRUSDT": {
+   "nombre": "Chromia",
+   "cg": "chromaway",
+   "mcap": 12842850.338940734
+  },
+  "CHZUSDT": {
+   "nombre": "Chiliz",
+   "cg": "chiliz",
+   "mcap": 109059853.85651514
+  },
+  "CITYUSDT": {
+   "nombre": "Manchester City",
+   "cg": "manchester-city-fan-token",
+   "mcap": 3266465.120342891
+  },
+  "CKBUSDT": {
+   "nombre": "Nervos Network",
+   "cg": "nervos-network",
+   "mcap": 43819223.82658887
+  },
+  "COHRBUSDT": {
+   "nombre": "Coherent (bStocks)",
+   "cg": "coherent-bstocks-tokenized-stock",
+   "mcap": 2002365.5804414633
+  },
+  "COINBUSDT": {
+   "nombre": "Coinbase (bStocks)",
+   "cg": "coinbase-bstocks-tokenized-stock",
+   "mcap": 15376938.475175086
+  },
+  "COMPUSDT": {
+   "nombre": "Compound",
+   "cg": "compound-governance-token",
+   "mcap": 191408908.3174869
+  },
+  "COOKIEUSDT": {
+   "nombre": "Cookie DAO",
+   "cg": "cookie",
+   "mcap": 6836024.398435114
+  },
+  "COTIUSDT": {
+   "nombre": "COTI",
+   "cg": "coti",
+   "mcap": 25996935.177807994
+  },
+  "COWUSDT": {
+   "nombre": "CoW Protocol",
+   "cg": "cow-protocol",
+   "mcap": 54862223.79496883
+  },
+  "CRCLBUSDT": {
+   "nombre": "Circle Internet Group (bStocks)",
+   "cg": "circle-internet-group-bstock",
+   "mcap": 133118344.01417047
+  },
+  "CRDOBUSDT": {
+   "nombre": "Credo Technology (bStocks)",
+   "cg": "credo-technology-bstocks-tokenized-stock",
+   "mcap": 510686.8283902438
+  },
+  "CRMBUSDT": {
+   "nombre": "Salesforce (bStocks)",
+   "cg": "salesforce-bstocks-tokenized-stock",
+   "mcap": 521003.9563537604
+  },
+  "CRVUSDT": {
+   "nombre": "Curve DAO",
+   "cg": "curve-dao-token",
+   "mcap": 356543174.60726917
+  },
+  "CRWDBUSDT": {
+   "nombre": "CrowdStrike (bStocks)",
+   "cg": "crowdstrike-bstocks-tokenized-stock",
+   "mcap": 669043.1379859183
+  },
+  "CRWVBUSDT": {
+   "nombre": "CoreWeave (bStocks)",
+   "cg": "coreweave-bstocks-tokenized-stock",
+   "mcap": 3476230.8388457824
+  },
+  "CTKUSDT": {
+   "nombre": "Shentu",
+   "cg": "certik",
+   "mcap": 13456352.622869803
+  },
+  "CTSIUSDT": {
+   "nombre": "Cartesi",
+   "cg": "cartesi",
+   "mcap": 22450381.237911128
+  },
+  "CUSDT": {
+   "nombre": "Chainbase",
+   "cg": "chainbase",
+   "mcap": 10838492.697041038
+  },
+  "CVCUSDT": {
+   "nombre": "Civic",
+   "cg": "civic",
+   "mcap": 18396910.30919449
+  },
+  "CVXUSDT": {
+   "nombre": "Convex Finance",
+   "cg": "convex-finance",
+   "mcap": 146870978.55668637
+  },
+  "CYBERUSDT": {
+   "nombre": "CYBER",
+   "cg": "cyberconnect",
+   "mcap": 14169058.000576543
+  },
+  "CYPHBUSDT": {
+   "nombre": "Cypherpunk Technologies (bStocks)",
+   "cg": "cypherpunk-technologies-bstocks-tokenized-stock",
+   "mcap": 720538.8041055005
+  },
+  "DASHUSDT": {
+   "nombre": "Dash",
+   "cg": "dash",
+   "mcap": 504712553.16763496
+  },
+  "DCRUSDT": {
+   "nombre": "Decred",
+   "cg": "decred",
+   "mcap": 190402910.89671874
+  },
+  "DELLBUSDT": {
+   "nombre": "Dell (bStocks)",
+   "cg": "dell-bstocks-tokenized-stock",
+   "mcap": 947255.5918683235
+  },
+  "DEXEUSDT": {
+   "nombre": "DeXe",
+   "cg": "dexe",
+   "mcap": 41314612.48794847
+  },
+  "DGBUSDT": {
+   "nombre": "DigiByte",
+   "cg": "digibyte",
+   "mcap": 54180736.923988074
+  },
+  "DIAUSDT": {
+   "nombre": "DIA",
+   "cg": "dia-data",
+   "mcap": 14452340.39843171
+  },
+  "DJTBUSDT": {
+   "nombre": "Trump Media & Technology Group Corp (bStocks)",
+   "cg": "trump-media-technology-group-cord-bstocks-tokenized-stock",
+   "mcap": 953237.1736692005
+  },
+  "DODOUSDT": {
+   "nombre": "DODO",
+   "cg": "dodo",
+   "mcap": 33908902.13829509
+  },
+  "DOGEUSDT": {
+   "nombre": "Dogecoin",
+   "cg": "dogecoin",
+   "mcap": 9809052290.166811
+  },
+  "DOGSUSDT": {
+   "nombre": "Dogs",
+   "cg": "dogs-2",
+   "mcap": 14730756.526458386
+  },
+  "DOLOUSDT": {
+   "nombre": "Dolomite",
+   "cg": "dolomite",
+   "mcap": 10464114.48982213
+  },
+  "DOTUSDT": {
+   "nombre": "Polkadot",
+   "cg": "polkadot",
+   "mcap": 1337507260.2931218
+  },
+  "DRAMBUSDT": {
+   "nombre": "Roundhill Memory ETF (bStocks Tokenized ETF)",
+   "cg": "roundhill-memory-etf-bstocks-tokenized-stock",
+   "mcap": 17308258.4362488
+  },
+  "DUSKUSDT": {
+   "nombre": "DUSK",
+   "cg": "dusk-network",
+   "mcap": 39874709.98749446
+  },
+  "DYDXUSDT": {
+   "nombre": "dYdX",
+   "cg": "dydx-chain",
+   "mcap": 70439372.68294092
+  },
+  "DYMUSDT": {
+   "nombre": "Dymension",
+   "cg": "dymension",
+   "mcap": 9160231.931636171
+  },
+  "EDENUSDT": {
+   "nombre": "OpenEden",
+   "cg": "openeden",
+   "mcap": 18274571.748353098
+  },
+  "EDUUSDT": {
+   "nombre": "Open Campus",
+   "cg": "edu-coin",
+   "mcap": 38103617.655066326
+  },
+  "EGLDUSDT": {
+   "nombre": "MultiversX",
+   "cg": "elrond-erd-2",
+   "mcap": 85603221.57893379
+  },
+  "EIGENUSDT": {
+   "nombre": "EigenCloud (prev. EigenLayer)",
+   "cg": "eigenlayer",
+   "mcap": 146202309.37535787
+  },
+  "ENAUSDT": {
+   "nombre": "Ethena",
+   "cg": "ethena",
+   "mcap": 1701165762.7916613
+  },
+  "ENJUSDT": {
+   "nombre": "Enjin Coin",
+   "cg": "enjincoin",
+   "mcap": 40530951.41194611
+  },
+  "ENSOUSDT": {
+   "nombre": "Enso",
+   "cg": "enso",
+   "mcap": 8200926.084874783
+  },
+  "ENSUSDT": {
+   "nombre": "Ethereum Name Service",
+   "cg": "ethereum-name-service",
+   "mcap": 173838947.50418165
+  },
+  "ERAUSDT": {
+   "nombre": "Caldera",
+   "cg": "caldera",
+   "mcap": 13370564.884869372
+  },
+  "ESPUSDT": {
+   "nombre": "Espresso",
+   "cg": "espresso",
+   "mcap": 54045383.1214551
+  },
+  "ETCUSDT": {
+   "nombre": "Ethereum Classic",
+   "cg": "ethereum-classic",
+   "mcap": 997280343.4024534
+  },
+  "ETHFIUSDT": {
+   "nombre": "Ether.fi",
+   "cg": "ether-fi",
+   "mcap": 539732654.4078326
+  },
+  "ETHUSDT": {
+   "nombre": "Ethereum",
+   "cg": "ethereum",
+   "mcap": 231255085756.5584
+  },
+  "EULUSDT": {
+   "nombre": "Euler",
+   "cg": "euler",
+   "mcap": 20510231.09096813
+  },
+  "EURIUSDT": {
+   "nombre": "Eurite",
+   "cg": "eurite",
+   "mcap": 31379562.11554031
+  },
+  "EWYBUSDT": {
+   "nombre": "iShares MSCI South Korea ETF (bStocks Tokenized ETF)",
+   "cg": "ishares-msci-south-korea-etf-bstocks-tokenized-stock",
+   "mcap": 10048315.749811372
+  },
+  "FDUSDUSDT": {
+   "nombre": "First Digital USD",
+   "cg": "first-digital-usd",
+   "mcap": 280754970.19195336
+  },
+  "FETUSDT": {
+   "nombre": "Artificial Superintelligence Alliance",
+   "cg": "fetch-ai",
+   "mcap": 321482396.2823915
+  },
+  "FFUSDT": {
+   "nombre": "Falcon Finance",
+   "cg": "falcon-finance-ff",
+   "mcap": 314725955.1625097
+  },
+  "FIDAUSDT": {
+   "nombre": "Bonfida",
+   "cg": "bonfida",
+   "mcap": 14230238.036951086
+  },
+  "FILUSDT": {
+   "nombre": "Filecoin",
+   "cg": "filecoin",
+   "mcap": 575530525.4715374
+  },
+  "FLNCBUSDT": {
+   "nombre": "Fluence Energy (bStocks)",
+   "cg": "fluence-energy-bstocks-tokenized-stock",
+   "mcap": 811911.939172569
+  },
+  "FLOKIUSDT": {
+   "nombre": "FLOKI",
+   "cg": "floki",
+   "mcap": 184547344.46047744
+  },
+  "FLOWUSDT": {
+   "nombre": "Flow",
+   "cg": "flow",
+   "mcap": 32201686.388268773
+  },
+  "FLUXUSDT": {
+   "nombre": "Flux",
+   "cg": "zelcash",
+   "mcap": 20470643.326536343
+  },
+  "FOGOUSDT": {
+   "nombre": "Fogo",
+   "cg": "fogo",
+   "mcap": 10162262.479121463
+  },
+  "FORMUSDT": {
+   "nombre": "Four",
+   "cg": "four",
+   "mcap": 73756878.54668178
+  },
+  "FRAXUSDT": {
+   "nombre": "Frax (prev. FXS)",
+   "cg": "frax-share",
+   "mcap": 19873659.762121417
+  },
+  "FTTUSDT": {
+   "nombre": "FTX",
+   "cg": "ftx-token",
+   "mcap": null
+  },
+  "FUSDT": {
+   "nombre": "SynFutures",
+   "cg": "synfutures",
+   "mcap": 11536627.917233014
+  },
+  "FWDIBUSDT": {
+   "nombre": "Forward Industries (bStocks)",
+   "cg": "forward-industries-bstocks-tokenized-stock",
+   "mcap": 420829.66846158844
+  },
+  "GALAUSDT": {
+   "nombre": "GALA",
+   "cg": "gala",
+   "mcap": 72830856.13802269
+  },
+  "GASUSDT": {
+   "nombre": "Gas",
+   "cg": "gas",
+   "mcap": 63559205.556554586
+  },
+  "GENIUSUSDT": {
+   "nombre": "Genius",
+   "cg": "genius-3",
+   "mcap": 91943034.42576173
+  },
+  "GEVBUSDT": {
+   "nombre": "GE Vernova (bStocks)",
+   "cg": "ge-vernova-bstocks-tokenized-stock",
+   "mcap": 1270457.8496364965
+  },
+  "GIGGLEUSDT": {
+   "nombre": "Giggle Fund",
+   "cg": "giggle-fund",
+   "mcap": 23752825.412856497
+  },
+  "GLMRUSDT": {
+   "nombre": "Moonbeam",
+   "cg": "moonbeam",
+   "mcap": 6445956.691514183
+  },
+  "GLMUSDT": {
+   "nombre": "Golem",
+   "cg": "golem",
+   "mcap": 94992144.15018159
+  },
+  "GLWBUSDT": {
+   "nombre": "Corning (bStocks)",
+   "cg": "corning-bstocks-tokenized-stock",
+   "mcap": 1315485.0875976407
+  },
+  "GMEBUSDT": {
+   "nombre": "GameStop (bStocks)",
+   "cg": "gamestop-bstocks-tokenized-stock",
+   "mcap": 6695473.514078489
+  },
+  "GMTUSDT": {
+   "nombre": "GMT",
+   "cg": "stepn",
+   "mcap": 17555726.215851437
+  },
+  "GMXUSDT": {
+   "nombre": "GMX",
+   "cg": "gmx",
+   "mcap": 81322082.0440594
+  },
+  "GNOUSDT": {
+   "nombre": "Gnosis",
+   "cg": "gnosis",
+   "mcap": 250283213.45441464
+  },
+  "GNSUSDT": {
+   "nombre": "Gains",
+   "cg": "gains-network",
+   "mcap": 7857772.3901529955
+  },
+  "GOOGLBUSDT": {
+   "nombre": "Alphabet (bStocks)",
+   "cg": "alphabet-bstocks-tokenized-stock",
+   "mcap": 93081960.20461297
+  },
+  "GPROBUSDT": {
+   "nombre": "GoPro (bStocks)",
+   "cg": "gopro-bstocks-tokenized-stock",
+   "mcap": 339685.3406119824
+  },
+  "GPSUSDT": {
+   "nombre": "GoPlus Security",
+   "cg": "goplus-security",
+   "mcap": 47801748.912190855
+  },
+  "GRAMUSDT": {
+   "nombre": "Gram (prev. Toncoin)",
+   "cg": "the-open-network",
+   "mcap": 3099073213.265749
+  },
+  "GRTUSDT": {
+   "nombre": "The Graph",
+   "cg": "the-graph",
+   "mcap": 185494399.73750263
+  },
+  "GSBUSDT": {
+   "nombre": "Goldman Sachs (bStocks)",
+   "cg": "goldman-sachs-bstocks-tokenized-stock",
+   "mcap": 775785.1869255604
+  },
+  "GTCUSDT": {
+   "nombre": "Gitcoin",
+   "cg": "gitcoin",
+   "mcap": 12316666.026712786
+  },
+  "GUNUSDT": {
+   "nombre": "Gunz",
+   "cg": "gunz",
+   "mcap": 6575379.024449843
+  },
+  "GUSDT": {
+   "nombre": "Gravity (by Galxe)",
+   "cg": "g-token",
+   "mcap": 19838745.72510403
+  },
+  "HAEDALUSDT": {
+   "nombre": "Haedal Protocol",
+   "cg": "haedal",
+   "mcap": 4342975.294978429
+  },
+  "HBARUSDT": {
+   "nombre": "Hedera",
+   "cg": "hedera-hashgraph",
+   "mcap": 2674397291.935431
+  },
+  "HEIUSDT": {
+   "nombre": "Heima",
+   "cg": "heima",
+   "mcap": 6626825.957825471
+  },
+  "HEMIUSDT": {
+   "nombre": "Hemi",
+   "cg": "hemi",
+   "mcap": 16444322.853031639
+  },
+  "HIMSBUSDT": {
+   "nombre": "Hims & Hers (bStocks)",
+   "cg": "hims-hers-bstocks-tokenized-stock",
+   "mcap": 617135.9326268539
+  },
+  "HIVEUSDT": {
+   "nombre": "Hive",
+   "cg": "hive",
+   "mcap": 22714880.278634932
+  },
+  "HMSTRUSDT": {
+   "nombre": "Hamster Kombat",
+   "cg": "hamster-kombat",
+   "mcap": 9125047.404862534
+  },
+  "HOLOUSDT": {
+   "nombre": "Holoworld",
+   "cg": "holoworld",
+   "mcap": 42802046.04118041
+  },
+  "HOMEUSDT": {
+   "nombre": "HOME",
+   "cg": "home",
+   "mcap": 20622262.463160347
+  },
+  "HOODBUSDT": {
+   "nombre": "Robinhood (bStocks)",
+   "cg": "robinhood-bstocks-tokenized-stock",
+   "mcap": 4882197.8898069905
+  },
+  "HOTUSDT": {
+   "nombre": "Holo",
+   "cg": "holotoken",
+   "mcap": 65642188.475437894
+  },
+  "HPEBUSDT": {
+   "nombre": "Hewlett Packard (bStocks)",
+   "cg": "hewlett-packard-bstocks-tokenized-stock",
+   "mcap": 323195.5248145396
+  },
+  "HUMAUSDT": {
+   "nombre": "Huma Finance",
+   "cg": "huma-finance",
+   "mcap": 12545950.46602659
+  },
+  "HYPERUSDT": {
+   "nombre": "Hyperlane",
+   "cg": "hyperlane",
+   "mcap": 14826242.657115204
+  },
+  "HYPEUSDT": {
+   "nombre": "Hyperliquid",
+   "cg": "hyperliquid",
+   "mcap": 16169211150.401396
+  },
+  "IBMBUSDT": {
+   "nombre": "IBM (bStocks)",
+   "cg": "ibm-bstocks-tokenized-stock",
+   "mcap": 760578.9821087327
+  },
+  "ICPUSDT": {
+   "nombre": "Internet Computer",
+   "cg": "internet-computer",
+   "mcap": 1341817220.3270333
+  },
+  "IDUSDT": {
+   "nombre": "SPACE ID",
+   "cg": "space-id",
+   "mcap": 35077645.6206935
+  },
+  "ILVUSDT": {
+   "nombre": "Illuvium",
+   "cg": "illuvium",
+   "mcap": 20060811.466439437
+  },
+  "IMXUSDT": {
+   "nombre": "Immutable",
+   "cg": "immutable-x",
+   "mcap": 91730483.27552256
+  },
+  "INITUSDT": {
+   "nombre": "Initia",
+   "cg": "initia",
+   "mcap": 21916278.61440282
+  },
+  "INJUSDT": {
+   "nombre": "Injective",
+   "cg": "injective-protocol",
+   "mcap": 777940291.7664015
+  },
+  "INTCBUSDT": {
+   "nombre": "Intel (bStocks)",
+   "cg": "intel-tokenized-bstocks",
+   "mcap": 49859821.66983582
+  },
+  "INTWBUSDT": {
+   "nombre": "GraniteShares 2X Long INTC ETF (bStocks Tokenized ETF)",
+   "cg": "graniteshares-2x-long-intc-etf-bstocks-tokenized-stock",
+   "mcap": 4233063.309535312
+  },
+  "IOSTUSDT": {
+   "nombre": "IOST",
+   "cg": "iostoken",
+   "mcap": 21894817.28388098
+  },
+  "IOTAUSDT": {
+   "nombre": "IOTA",
+   "cg": "iota",
+   "mcap": 157055357.23804516
+  },
+  "IOTXUSDT": {
+   "nombre": "IoTeX",
+   "cg": "iotex",
+   "mcap": 24221428.64107222
+  },
+  "IOUSDT": {
+   "nombre": "io.net",
+   "cg": "io",
+   "mcap": 45257807.268655926
+  },
+  "IQUSDT": {
+   "nombre": "IQ",
+   "cg": "everipedia",
+   "mcap": 17170023.716018688
+  },
+  "IRENBUSDT": {
+   "nombre": "IREN Limited (bStocks)",
+   "cg": "iren-limited-bstocks-tokenized-stock",
+   "mcap": 2291397.9312239857
+  },
+  "JASMYUSDT": {
+   "nombre": "JasmyCoin",
+   "cg": "jasmycoin",
+   "mcap": 163254808.79339018
+  },
+  "JOEUSDT": {
+   "nombre": "JOE",
+   "cg": "joe",
+   "mcap": 10645577.029496698
+  },
+  "JPMBUSDT": {
+   "nombre": "JPMorgan Chase (bStocks)",
+   "cg": "jpmorgan-chase-bstocks-tokenized-stock",
+   "mcap": 475724.04035534675
+  },
+  "JSTUSDT": {
+   "nombre": "JUST",
+   "cg": "just",
+   "mcap": 1168959023.00151
+  },
+  "JTOUSDT": {
+   "nombre": "Jito",
+   "cg": "jito-governance-token",
+   "mcap": 156228205.7435845
+  },
+  "JUPUSDT": {
+   "nombre": "Jupiter",
+   "cg": "jupiter-exchange-solana",
+   "mcap": 876213927.8529605
+  },
+  "JUVUSDT": {
+   "nombre": "Juventus",
+   "cg": "juventus-fan-token",
+   "mcap": 3859514.084068218
+  },
+  "KAIAUSDT": {
+   "nombre": "Kaia",
+   "cg": "kaia",
+   "mcap": 194127145.00184694
+  },
+  "KAITOUSDT": {
+   "nombre": "KAITO",
+   "cg": "kaito",
+   "mcap": 47170252.51842006
+  },
+  "KATUSDT": {
+   "nombre": "Katana",
+   "cg": "katana-network-token",
+   "mcap": 10656973.604774518
+  },
+  "KAVAUSDT": {
+   "nombre": "Kava",
+   "cg": "kava",
+   "mcap": 44426842.07133837
+  },
+  "KERNELUSDT": {
+   "nombre": "KernelDAO",
+   "cg": "kernel-2",
+   "mcap": 12023314.046167037
+  },
+  "KGSTUSDT": {
+   "nombre": "Kyrgyz Som Stablecoin",
+   "cg": "kyrgyz-som-stablecoin",
+   "mcap": 7952917.739750288
+  },
+  "KITEUSDT": {
+   "nombre": "Kite",
+   "cg": "kite-2",
+   "mcap": 307225194.4123202
+  },
+  "KMNOUSDT": {
+   "nombre": "Kamino",
+   "cg": "kamino",
+   "mcap": 180982429.3096124
+  },
+  "KNCUSDT": {
+   "nombre": "Kyber Network Crystal",
+   "cg": "kyber-network-crystal",
+   "mcap": 21123091.613697305
+  },
+  "KORUBUSDT": {
+   "nombre": "South Korea Bull 3X ETF (bStocks Tokenized ETF)",
+   "cg": "south-korea-bull-3x-etf-bstocks-tokenized-stock",
+   "mcap": 13433594.940574544
+  },
+  "KSMUSDT": {
+   "nombre": "Kusama",
+   "cg": "kusama",
+   "mcap": 55087613.81871329
+  },
+  "KSTRBUSDT": {
+   "nombre": "KraneShares STAR Market 50 ETF (bStocks Tokenized ETF)",
+   "cg": "kraneshares-star-market-50-etf-bstocks-tokenized-etf",
+   "mcap": 2539646.566793813
+  },
+  "LAUSDT": {
+   "nombre": "Lagrange",
+   "cg": "lagrange",
+   "mcap": 16660036.426542316
+  },
+  "LAYERUSDT": {
+   "nombre": "Solayer",
+   "cg": "solayer",
+   "mcap": 9854888.590839475
+  },
+  "LAZIOUSDT": {
+   "nombre": "Lazio",
+   "cg": "lazio-fan-token",
+   "mcap": 4258740.001052375
+  },
+  "LDOUSDT": {
+   "nombre": "Lido DAO",
+   "cg": "lido-dao",
+   "mcap": 238518361.01113182
+  },
+  "LINEAUSDT": {
+   "nombre": "Linea",
+   "cg": "linea",
+   "mcap": 47768581.66784022
+  },
+  "LINKUSDT": {
+   "nombre": "Chainlink",
+   "cg": "chainlink",
+   "mcap": 7325338551.2586775
+  },
+  "LISTAUSDT": {
+   "nombre": "Lista DAO",
+   "cg": "lista",
+   "mcap": 30944391.560992464
+  },
+  "LITEBUSDT": {
+   "nombre": "Lumentum Holdings (bStocks)",
+   "cg": "lumentum-holdings-bstocks-tokenized-stock",
+   "mcap": 677976.7502694258
+  },
+  "LLYBUSDT": {
+   "nombre": "Eli Lilly (bStocks)",
+   "cg": "eli-lilly-bstocks-tokenized-stock",
+   "mcap": 909563.5226640371
+  },
+  "LPTUSDT": {
+   "nombre": "Livepeer",
+   "cg": "livepeer",
+   "mcap": 57207093.019046426
+  },
+  "LQTYUSDT": {
+   "nombre": "Liquity",
+   "cg": "liquity",
+   "mcap": 15099225.051747609
+  },
+  "LSKUSDT": {
+   "nombre": "Lisk",
+   "cg": "lisk",
+   "mcap": 41948360.181041054
+  },
+  "LTCUSDT": {
+   "nombre": "Litecoin",
+   "cg": "litecoin",
+   "mcap": 3699917834.2336955
+  },
+  "LUMIAUSDT": {
+   "nombre": "Lumia",
+   "cg": "lumia",
+   "mcap": 18768967.61023422
+  },
+  "LUNAUSDT": {
+   "nombre": "Terra",
+   "cg": "terra-luna-2",
+   "mcap": 23412762.60538265
+  },
+  "LUNCUSDT": {
+   "nombre": "Terra Luna Classic",
+   "cg": "terra-luna",
+   "mcap": 199368462.31827912
+  },
+  "MAGICUSDT": {
+   "nombre": "Treasure",
+   "cg": "magic",
+   "mcap": 24760444.286038753
+  },
+  "MANAUSDT": {
+   "nombre": "Decentraland",
+   "cg": "decentraland",
+   "mcap": 125975808.26255853
+  },
+  "MANTAUSDT": {
+   "nombre": "Manta Network",
+   "cg": "manta-network",
+   "mcap": 21118601.655230563
+  },
+  "MANTRAUSDT": {
+   "nombre": "MANTRA",
+   "cg": "mantra",
+   "mcap": 17079575.845051914
+  },
+  "MARSCOINUSDT": {
+   "nombre": "MarsCoin",
+   "cg": "marscoin-4",
+   "mcap": 39430165.14087538
+  },
+  "MASKUSDT": {
+   "nombre": "Mask Network",
+   "cg": "mask-network",
+   "mcap": 32166805.559985217
+  },
+  "MAVUSDT": {
+   "nombre": "Maverick Protocol",
+   "cg": "maverick-protocol",
+   "mcap": 8938167.16790519
+  },
+  "MBLUSDT": {
+   "nombre": "MovieBloc",
+   "cg": "moviebloc",
+   "mcap": 11632440.003449824
+  },
+  "MDBBUSDT": {
+   "nombre": "MongoDB (bStocks)",
+   "cg": "mongodb-bstocks-tokenized-stock",
+   "mcap": 360864.6407295177
+  },
+  "MEGAUSDT": {
+   "nombre": "MegaETH",
+   "cg": "megaeth",
+   "mcap": 52185892.14521986
+  },
+  "MEMEUSDT": {
+   "nombre": "Memecoin",
+   "cg": "memecoin-2",
+   "mcap": 23192881.04040471
+  },
+  "METABUSDT": {
+   "nombre": "Meta Platforms (bStocks)",
+   "cg": "meta-platforms-bstocks-tokenized-stock",
+   "mcap": 997138.5500025382
+  },
+  "METISUSDT": {
+   "nombre": "Metis",
+   "cg": "metis-token",
+   "mcap": 19689977.981390998
+  },
+  "METUSDT": {
+   "nombre": "Meteora",
+   "cg": "meteora",
+   "mcap": 159513815.2513723
+  },
+  "MEUSDT": {
+   "nombre": "Magic Eden",
+   "cg": "magic-eden",
+   "mcap": 25301709.209233027
+  },
+  "MINAUSDT": {
+   "nombre": "Mina Protocol",
+   "cg": "mina-protocol",
+   "mcap": 62819431.28989584
+  },
+  "MIRAUSDT": {
+   "nombre": "Mira",
+   "cg": "mira-3",
+   "mcap": 12204391.465065328
+  },
+  "MITOUSDT": {
+   "nombre": "Mitosis",
+   "cg": "mitosis",
+   "mcap": 3473489.7454940816
+  },
+  "MMTUSDT": {
+   "nombre": "Momentum",
+   "cg": "momentum-3",
+   "mcap": 22544712.57778512
+  },
+  "MORPHOUSDT": {
+   "nombre": "Morpho",
+   "cg": "morpho",
+   "mcap": 1336935871.644247
+  },
+  "MOVEUSDT": {
+   "nombre": "Movement",
+   "cg": "movement",
+   "mcap": 24591728.143641524
+  },
+  "MOVRUSDT": {
+   "nombre": "Moonriver",
+   "cg": "moonriver",
+   "mcap": 11589830.739937356
+  },
+  "MRNABUSDT": {
+   "nombre": "Moderna (bStocks)",
+   "cg": "moderna-bstocks-tokenized-stock",
+   "mcap": 2102465.537026515
+  },
+  "MRVLBUSDT": {
+   "nombre": "Marvell Technology (bStocks)",
+   "cg": "marvell-technology-bstocks-tokenized-stock",
+   "mcap": 8396203.071622184
+  },
+  "MSFTBUSDT": {
+   "nombre": "Microsoft (bStocks)",
+   "cg": "microsoft-bstocks-tokenized-stock",
+   "mcap": 2961889.5365322307
+  },
+  "MSTRBUSDT": {
+   "nombre": "Strategy (bStocks)",
+   "cg": "strategy-tokenized-bstocks",
+   "mcap": 38714108.81967783
+  },
+  "MTLUSDT": {
+   "nombre": "Metal DAO",
+   "cg": "metal",
+   "mcap": 21376787.269521635
+  },
+  "MUBARAKUSDT": {
+   "nombre": "Mubarak",
+   "cg": "mubarak",
+   "mcap": 32170886.49643387
+  },
+  "MUBUSDT": {
+   "nombre": "Micron Technology (bStocks)",
+   "cg": "micron-technology-bstock",
+   "mcap": 49894947.51895871
+  },
+  "MUUBUSDT": {
+   "nombre": "Direxion MU Bull 2X ETF (bStocks Tokenized ETF)",
+   "cg": "direxion-mu-bull-2x-etf-bstocks-tokenized-stock",
+   "mcap": 2193012.9761301414
+  },
+  "MVLLBUSDT": {
+   "nombre": "GraniteShares 2X Long MRVL ETF (bStocks Tokenized ETF)",
+   "cg": "graniteshares-2x-long-mrvl-etf-bstocks-tokenized-stock",
+   "mcap": 1366142.7713515416
+  },
+  "NBISBUSDT": {
+   "nombre": "Nebius (bStocks)",
+   "cg": "nebius-bstocks-tokenized-stock",
+   "mcap": 12115407.043920362
+  },
+  "NEARUSDT": {
+   "nombre": "NEAR Protocol",
+   "cg": "near",
+   "mcap": 4375108122.106209
+  },
+  "NEIROUSDT": {
+   "nombre": "Neiro",
+   "cg": "neiro-3",
+   "mcap": 22053422.89710174
+  },
+  "NEOUSDT": {
+   "nombre": "NEO",
+   "cg": "neo",
+   "mcap": 116398841.55465777
+  },
+  "NEWTUSDT": {
+   "nombre": "Newton Protocol",
+   "cg": "newton-protocol",
+   "mcap": 7863141.221451649
+  },
+  "NEXOUSDT": {
+   "nombre": "NEXO",
+   "cg": "nexo",
+   "mcap": 682567313.9178135
+  },
+  "NFLXBUSDT": {
+   "nombre": "Netflix (bStocks)",
+   "cg": "netflix-bstocks-tokenized-stock",
+   "mcap": 2100454.350993687
+  },
+  "NIGHTUSDT": {
+   "nombre": "Midnight",
+   "cg": "midnight-3",
+   "mcap": 836904307.8278699
+  },
+  "NILUSDT": {
+   "nombre": "Nillion",
+   "cg": "nillion",
+   "mcap": 29352224.989221808
+  },
+  "NMRUSDT": {
+   "nombre": "Numeraire",
+   "cg": "numeraire",
+   "mcap": 60137841.87133547
+  },
+  "NOKBUSDT": {
+   "nombre": "Nokia (bStocks)",
+   "cg": "nokia-bstocks-tokenized-stock",
+   "mcap": 1934410.6841546912
+  },
+  "NOMUSDT": {
+   "nombre": "Nomina",
+   "cg": "nomina",
+   "mcap": 3875090.588644508
+  },
+  "NOTUSDT": {
+   "nombre": "Notcoin",
+   "cg": "notcoin",
+   "mcap": 31842945.720072296
+  },
+  "NVDABUSDT": {
+   "nombre": "NVIDIA (bStocks)",
+   "cg": "nvidia-bstocks",
+   "mcap": 156685459.11168873
+  },
+  "NXPCUSDT": {
+   "nombre": "Nexpace",
+   "cg": "nexpace",
+   "mcap": 45943641.87197436
+  },
+  "OGNUSDT": {
+   "nombre": "Origin Token",
+   "cg": "origin-protocol",
+   "mcap": 15461436.400467955
+  },
+  "OGUSDT": {
+   "nombre": "OG",
+   "cg": "og-fan-token",
+   "mcap": 9882497.086299323
+  },
+  "ONDOUSDT": {
+   "nombre": "Ondo",
+   "cg": "ondo-finance",
+   "mcap": 1581768462.8725083
+  },
+  "ONEUSDT": {
+   "nombre": "Harmony",
+   "cg": "harmony",
+   "mcap": 20026954.385114007
+  },
+  "ONGUSDT": {
+   "nombre": "Ontology Gas",
+   "cg": "ong",
+   "mcap": 29191749.01587036
+  },
+  "ONTUSDT": {
+   "nombre": "Ontology",
+   "cg": "ontology",
+   "mcap": 39460292.39449815
+  },
+  "OPENUSDT": {
+   "nombre": "OpenLedger",
+   "cg": "openledger-2",
+   "mcap": 31742260.861097284
+  },
+  "OPGUSDT": {
+   "nombre": "OpenGradient",
+   "cg": "opengradient",
+   "mcap": 32671727.537368998
+  },
+  "OPNUSDT": {
+   "nombre": "Opinion",
+   "cg": "opinion",
+   "mcap": 5797452.50243065
+  },
+  "OPUSDT": {
+   "nombre": "Optimism",
+   "cg": "optimism",
+   "mcap": 200938850.99456576
+  },
+  "ORCAUSDT": {
+   "nombre": "Orca",
+   "cg": "orca",
+   "mcap": 72942691.33228369
+  },
+  "ORCLBUSDT": {
+   "nombre": "Oracle (bStocks)",
+   "cg": "oracle-bstocks-tokenized-stock",
+   "mcap": 7328845.031597468
+  },
+  "ORDIUSDT": {
+   "nombre": "ORDI",
+   "cg": "ordinals",
+   "mcap": 62733376.60223922
+  },
+  "OSMOUSDT": {
+   "nombre": "Osmosis",
+   "cg": "osmosis",
+   "mcap": 22096614.251079965
+  },
+  "PARTIUSDT": {
+   "nombre": "Particle Network",
+   "cg": "particle-network",
+   "mcap": 8174108.797407431
+  },
+  "PAXGUSDT": {
+   "nombre": "PAX Gold",
+   "cg": "pax-gold",
+   "mcap": 1730260275.9429584
+  },
+  "PDDBUSDT": {
+   "nombre": "PDD Holdings (bStocks)",
+   "cg": "pdd-holdings-bstocks-tokenized-stock",
+   "mcap": 3793987.833953775
+  },
+  "PENDLEUSDT": {
+   "nombre": "Pendle",
+   "cg": "pendle",
+   "mcap": 261653838.70344812
+  },
+  "PENGBUSDT": {
+   "nombre": "Penguin Solutions (bStocks)",
+   "cg": "penguin-solutions-bstocks-tokenized-stock",
+   "mcap": 463865.75661201397
+  },
+  "PENGUUSDT": {
+   "nombre": "Pudgy Penguins",
+   "cg": "pudgy-penguins",
+   "mcap": 356116178.93418807
+  },
+  "PEOPLEUSDT": {
+   "nombre": "ConstitutionDAO",
+   "cg": "constitutiondao",
+   "mcap": 25962697.416661326
+  },
+  "PEPEUSDT": {
+   "nombre": "Pepe",
+   "cg": "pepe",
+   "mcap": 1797501460.4659033
+  },
+  "PHAUSDT": {
+   "nombre": "PHALA",
+   "cg": "pha",
+   "mcap": 26347954.075345557
+  },
+  "PIXELUSDT": {
+   "nombre": "Pixels",
+   "cg": "pixels",
+   "mcap": 2814459.5880852896
+  },
+  "PLTRBUSDT": {
+   "nombre": "Palantir Technologies (bStocks)",
+   "cg": "palantir-technologies-bstocks-tokenized-stock",
+   "mcap": 1442205.5361927438
+  },
+  "PLUMEUSDT": {
+   "nombre": "Plume",
+   "cg": "plume",
+   "mcap": 88231983.67915286
+  },
+  "PNUTUSDT": {
+   "nombre": "Peanut the Squirrel",
+   "cg": "peanut-the-squirrel",
+   "mcap": 30632787.18529166
+  },
+  "POLUSDT": {
+   "nombre": "POL (ex-MATIC)",
+   "cg": "polygon-ecosystem-token",
+   "mcap": 884931519.5634211
+  },
+  "POLYXUSDT": {
+   "nombre": "Polymesh",
+   "cg": "polymesh",
+   "mcap": 37506053.41746989
+  },
+  "PORTALUSDT": {
+   "nombre": "Portal",
+   "cg": "portal-2",
+   "mcap": 10846659.882730063
+  },
+  "PORTOUSDT": {
+   "nombre": "FC Porto",
+   "cg": "fc-porto",
+   "mcap": 3907910.3605698138
+  },
+  "POWRUSDT": {
+   "nombre": "Powerledger",
+   "cg": "power-ledger",
+   "mcap": 26577041.532932125
+  },
+  "PROMUSDT": {
+   "nombre": "Prom",
+   "cg": "prometeus",
+   "mcap": 92679546.0359615
+  },
+  "PROVEUSDT": {
+   "nombre": "Succinct",
+   "cg": "succinct",
+   "mcap": 29157097.135720722
+  },
+  "PSGUSDT": {
+   "nombre": "Paris Saint-Germain",
+   "cg": "paris-saint-germain-fan-token",
+   "mcap": 5944649.235840314
+  },
+  "PUMPUSDT": {
+   "nombre": "Pump.fun",
+   "cg": "pump-fun",
+   "mcap": 1493270885.996877
+  },
+  "PUNDIXUSDT": {
+   "nombre": "Pundi X",
+   "cg": "pundi-x-2",
+   "mcap": 19661736.961116508
+  },
+  "PYPLBUSDT": {
+   "nombre": "Paypal (bStocks)",
+   "cg": "paypal-bstocks-tokenized-stock",
+   "mcap": 797061.022554722
+  },
+  "PYTHUSDT": {
+   "nombre": "Pyth Network",
+   "cg": "pyth-network",
+   "mcap": 474484802.6821341
+  },
+  "QCOMBUSDT": {
+   "nombre": "Qualcomm (bStocks)",
+   "cg": "qualcomm-bstocks-tokenized-stock",
+   "mcap": 2436550.227876675
+  },
+  "QIUSDT": {
+   "nombre": "BENQI",
+   "cg": "benqi",
+   "mcap": 12035321.58006823
+  },
+  "QKCUSDT": {
+   "nombre": "QuarkChain",
+   "cg": "quark-chain",
+   "mcap": 14919752.462189216
+  },
+  "QNTBUSDT": {
+   "nombre": "Quantinuum (bStocks)",
+   "cg": "quantinuum-bstocks-tokenized-stock",
+   "mcap": 613145.7782214225
+  },
+  "QNTUSDT": {
+   "nombre": "Quant",
+   "cg": "quant-network",
+   "mcap": 2299536533.3092027
+  },
+  "QQQBUSDT": {
+   "nombre": "Invesco QQQ Trust (bStocks)",
+   "cg": "invesco-qqq-trust-bstocks-tokenized-stock",
+   "mcap": 1255588.4299372805
+  },
+  "QTUMUSDT": {
+   "nombre": "Qtum",
+   "cg": "qtum",
+   "mcap": 69256020.33389384
+  },
+  "RADUSDT": {
+   "nombre": "Radworks",
+   "cg": "radicle",
+   "mcap": 12808431.166721284
+  },
+  "RAREUSDT": {
+   "nombre": "SuperRare",
+   "cg": "superrare",
+   "mcap": 7574837.317396656
+  },
+  "RAYUSDT": {
+   "nombre": "Raydium",
+   "cg": "raydium",
+   "mcap": 393328281.9109141
+  },
+  "RDDTBUSDT": {
+   "nombre": "Reddit (bStocks)",
+   "cg": "reddit-bstocks-tokenized-stock",
+   "mcap": 483505.48373124894
+  },
+  "REDUSDT": {
+   "nombre": "RedStone",
+   "cg": "redstone-oracles",
+   "mcap": 67996804.44575359
+  },
+  "RENDERUSDT": {
+   "nombre": "Render",
+   "cg": "render-token",
+   "mcap": 821409966.5894583
+  },
+  "REQUSDT": {
+   "nombre": "Request",
+   "cg": "request-network",
+   "mcap": 34152684.8462442
+  },
+  "RESOLVUSDT": {
+   "nombre": "Resolv",
+   "cg": "resolv",
+   "mcap": 6496952.429242455
+  },
+  "REUSDT": {
+   "nombre": "RE",
+   "cg": "re",
+   "mcap": 37440677.33481654
+  },
+  "REZUSDT": {
+   "nombre": "Renzo",
+   "cg": "renzo",
+   "mcap": 28642617.969456397
+  },
+  "RIFUSDT": {
+   "nombre": "Rootstock Infrastructure Framework",
+   "cg": "rif-token",
+   "mcap": 52390207.89816412
+  },
+  "RKLBBUSDT": {
+   "nombre": "Rocket Lab (bStocks)",
+   "cg": "rocket-lab-bstocks-tokenized-stock",
+   "mcap": 2918099.0097601814
+  },
+  "RLCUSDT": {
+   "nombre": "iExec RLC",
+   "cg": "iexec-rlc",
+   "mcap": 31197717.953513566
+  },
+  "RLUSDUSDT": {
+   "nombre": "Ripple USD",
+   "cg": "ripple-usd",
+   "mcap": 2789210339.6159225
+  },
+  "ROBOUSDT": {
+   "nombre": "Fabric Protocol",
+   "cg": "robo-token-2",
+   "mcap": 9286702.587587757
+  },
+  "RONINUSDT": {
+   "nombre": "Ronin",
+   "cg": "ronin",
+   "mcap": 31406297.243856523
+  },
+  "ROSEUSDT": {
+   "nombre": "Oasis",
+   "cg": "oasis-network",
+   "mcap": 39649781.694580525
+  },
+  "RPLUSDT": {
+   "nombre": "Rocket Pool",
+   "cg": "rocket-pool",
+   "mcap": 28980451.21329968
+  },
+  "RSRUSDT": {
+   "nombre": "Reserve Rights",
+   "cg": "reserve-rights-token",
+   "mcap": 88879295.52952395
+  },
+  "RUNEUSDT": {
+   "nombre": "THORChain",
+   "cg": "thorchain",
+   "mcap": 176977528.49691045
+  },
+  "RVNUSDT": {
+   "nombre": "Ravencoin",
+   "cg": "ravencoin",
+   "mcap": 19376154.090226375
+  },
+  "RWUSDUSDT": {
+   "nombre": "RWUSD",
+   "cg": "rwusd",
+   "mcap": null
+  },
+  "SAGAUSDT": {
+   "nombre": "Saga",
+   "cg": "saga-2",
+   "mcap": 5929166.386279228
+  },
+  "SAHARAUSDT": {
+   "nombre": "Sahara AI",
+   "cg": "sahara-ai",
+   "mcap": 24394584.26053012
+  },
+  "SANDUSDT": {
+   "nombre": "The Sandbox",
+   "cg": "the-sandbox",
+   "mcap": 111862258.02163601
+  },
+  "SANTOSUSDT": {
+   "nombre": "Santos FC",
+   "cg": "santos-fc-fan-token",
+   "mcap": 5789691.321226158
+  },
+  "SAPIENUSDT": {
+   "nombre": "Sapien",
+   "cg": "sapien-2",
+   "mcap": 9829466.882460656
+  },
+  "SCRUSDT": {
+   "nombre": "Scroll",
+   "cg": "scroll",
+   "mcap": 3317083.934249321
+  },
+  "SCUSDT": {
+   "nombre": "Siacoin",
+   "cg": "siacoin",
+   "mcap": 30221519.109047554
+  },
+  "SECZBUSDT": {
+   "nombre": "Securitize (bStocks)",
+   "cg": "securitize-bstocks-tokenized-stock",
+   "mcap": 1569080.4290284975
+  },
+  "SEIUSDT": {
+   "nombre": "Sei",
+   "cg": "sei-network",
+   "mcap": 274439838.7576194
+  },
+  "SENTUSDT": {
+   "nombre": "Sentient",
+   "cg": "sentient",
+   "mcap": 120398396.78343564
+  },
+  "SFPUSDT": {
+   "nombre": "SafePal",
+   "cg": "safepal",
+   "mcap": 90372883.85744326
+  },
+  "SHAZBUSDT": {
+   "nombre": "SharonAI (bStocks)",
+   "cg": "sharonai-bstocks-tokenized-stock",
+   "mcap": 601038.4076740505
+  },
+  "SHELLUSDT": {
+   "nombre": "MyShell",
+   "cg": "myshell",
+   "mcap": 8062556.650833036
+  },
+  "SHIBUSDT": {
+   "nombre": "Shiba Inu",
+   "cg": "shiba-inu",
+   "mcap": 2434008622.498094
+  },
+  "SIGNUSDT": {
+   "nombre": "Sign",
+   "cg": "sign-global",
+   "mcap": 24670434.02697709
+  },
+  "SKDDBUSDT": {
+   "nombre": "GraniteShares 2x Short SK Hynix Daily ETF (bStocks Tokenized ETF)",
+   "cg": "graniteshares-2x-short-sk-hynix-daily-etf-bbstocks-tokenized-etf",
+   "mcap": 475780.0218391251
+  },
+  "SKHYBUSDT": {
+   "nombre": "SK Hynix (bStocks)",
+   "cg": "sk-hynix-bstocks-tokenized-stock",
+   "mcap": 19886970.1174034
+  },
+  "SKLUSDT": {
+   "nombre": "SKALE",
+   "cg": "skale",
+   "mcap": 19804663.03318261
+  },
+  "SKUUBUSDT": {
+   "nombre": "GraniteShares 2x Long SK Hynix Daily ETF (bStocks Tokenized ETF)",
+   "cg": "graniteshares-2x-long-sk-hynix-daily-etf-bstocks-tokenized-etf",
+   "mcap": 356537.3872848521
+  },
+  "SKYUSDT": {
+   "nombre": "Sky",
+   "cg": "sky",
+   "mcap": 1325164875.6119063
+  },
+  "SLPUSDT": {
+   "nombre": "Smooth Love Potion",
+   "cg": "smooth-love-potion",
+   "mcap": 15475833.806137284
+  },
+  "SMCIBUSDT": {
+   "nombre": "Super Micro Computer (bStocks)",
+   "cg": "super-micro-computer-bstocks-tokenized-stock",
+   "mcap": 1214912.678912667
+  },
+  "SMHBUSDT": {
+   "nombre": "VanEck Semiconductor ETF (bStocks Tokenized ETF)",
+   "cg": "vaneck-semiconductor-etf-bstocks-tokenized-stock",
+   "mcap": 1731814.8620132355
+  },
+  "SNDKBUSDT": {
+   "nombre": "SanDisk (bStocks)",
+   "cg": "sandisk-bstocks-tokenized-stock",
+   "mcap": 72946912.76167096
+  },
+  "SNXUSDT": {
+   "nombre": "Synthetix",
+   "cg": "havven",
+   "mcap": 91192122.63596575
+  },
+  "SNXXBUSDT": {
+   "nombre": "Tradr 2X Long SNDK ETF (bStocks Tokenized ETF)",
+   "cg": "tradr-2x-long-sndk-etf-bstocks-tokenized-stock",
+   "mcap": 6443793.546809142
+  },
+  "SOLUSDT": {
+   "nombre": "Solana",
+   "cg": "solana",
+   "mcap": 44708666466.70494
+  },
+  "SOLVUSDT": {
+   "nombre": "Solv Protocol",
+   "cg": "solv-protocol",
+   "mcap": 25686296.97525855
+  },
+  "SOMIUSDT": {
+   "nombre": "Somnia",
+   "cg": "somnia",
+   "mcap": 23831540.03456103
+  },
+  "SOPHUSDT": {
+   "nombre": "Sophon",
+   "cg": "sophon",
+   "mcap": 10671662.598381585
+  },
+  "SOXLBUSDT": {
+   "nombre": "Semicon Bull 3X ETF (bStocks Tokenized ETF)",
+   "cg": "semicon-bull-3x-etf-bstocks-tokenized-stock",
+   "mcap": 34103280.120513886
+  },
+  "SOXSBUSDT": {
+   "nombre": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
+   "cg": "direxion-semiconductor-bear-3x-etf-bstocks-tokenized-stock",
+   "mcap": 7280508.128084829
+  },
+  "SPCXBUSDT": {
+   "nombre": "SpaceX (bStocks)",
+   "cg": "spacex-bstocks-tokenized-stock",
+   "mcap": 164872581.28833753
+  },
+  "SPELLUSDT": {
+   "nombre": "Spell",
+   "cg": "spell-token",
+   "mcap": 11371090.481713852
+  },
+  "SPKUSDT": {
+   "nombre": "Spark",
+   "cg": "spark-2",
+   "mcap": 51802776.68053863
+  },
+  "SPYBUSDT": {
+   "nombre": "SPY (bStocks)",
+   "cg": "spy-bstocks-tokenized-stock",
+   "mcap": 25392653.452950243
+  },
+  "SQQQBUSDT": {
+   "nombre": "ProShares UltraPro Short QQQ (bStocks)",
+   "cg": "proshares-ultrapro-short-qqq-bstocks-tokenized-stock",
+   "mcap": 672493.3957200614
+  },
+  "SSVUSDT": {
+   "nombre": "SSV Network",
+   "cg": "ssv-network",
+   "mcap": 28617157.432647053
+  },
+  "STEEMUSDT": {
+   "nombre": "Steem",
+   "cg": "steem",
+   "mcap": 25183894.259561695
+  },
+  "STOUSDT": {
+   "nombre": "StakeStone",
+   "cg": "stakestone",
+   "mcap": 5784484.662700172
+  },
+  "STRAXUSDT": {
+   "nombre": "Xertra",
+   "cg": "stratis",
+   "mcap": 19431742.727403987
+  },
+  "STRKUSDT": {
+   "nombre": "Starknet",
+   "cg": "starknet",
+   "mcap": 273328721.4871352
+  },
+  "STXBUSDT": {
+   "nombre": "Seagate (bStocks)",
+   "cg": "seagate-bstocks-tokenized-stock",
+   "mcap": 527816.567346929
+  },
+  "STXUSDT": {
+   "nombre": "Stacks",
+   "cg": "blockstack",
+   "mcap": 522761262.01033163
+  },
+  "SUIUSDT": {
+   "nombre": "Sui",
+   "cg": "sui",
+   "mcap": 3160894531.2979164
+  },
+  "SUNUSDT": {
+   "nombre": "Sun Token",
+   "cg": "sun-token",
+   "mcap": 289323429.7177533
+  },
+  "SUPERUSDT": {
+   "nombre": "SuperVerse",
+   "cg": "superfarm",
+   "mcap": 93428105.64648584
+  },
+  "SUSDT": {
+   "nombre": "Sonic",
+   "cg": "sonic-3",
+   "mcap": 140608428.88133687
+  },
+  "SUSHIUSDT": {
+   "nombre": "Sushi",
+   "cg": "sushi",
+   "mcap": 46086254.906376645
+  },
+  "SXTUSDT": {
+   "nombre": "Space and Time",
+   "cg": "space-and-time",
+   "mcap": 40463317.12054505
+  },
+  "SYNUSDT": {
+   "nombre": "Synapse",
+   "cg": "synapse-2",
+   "mcap": 24938734.139606968
+  },
+  "SYRUPUSDT": {
+   "nombre": "Maple Finance",
+   "cg": "syrup",
+   "mcap": 123501931.7468198
+  },
+  "TAOUSDT": {
+   "nombre": "Bittensor",
+   "cg": "bittensor",
+   "mcap": 2405694424.45899
+  },
+  "TFUELUSDT": {
+   "nombre": "Theta Fuel",
+   "cg": "theta-fuel",
+   "mcap": 52807806.736004576
+  },
+  "THETAUSDT": {
+   "nombre": "Theta Network",
+   "cg": "theta-token",
+   "mcap": 135929178.26114795
+  },
+  "THEUSDT": {
+   "nombre": "Thena",
+   "cg": "thena",
+   "mcap": 4200390.180253287
+  },
+  "TIAUSDT": {
+   "nombre": "Celestia",
+   "cg": "celestia",
+   "mcap": 363539345.4601675
+  },
+  "TKOUSDT": {
+   "nombre": "Tokocrypto",
+   "cg": "tokocrypto",
+   "mcap": 3048494.885896428
+  },
+  "TLMUSDT": {
+   "nombre": "Alien Worlds",
+   "cg": "alien-worlds",
+   "mcap": 6786126.33949898
+  },
+  "TMFBUSDT": {
+   "nombre": "Direxion Daily 20 Year Treasury Bull 3X ETF (bStocks Tokenized ETF)",
+   "cg": "direxion-daily-20-year-treasury-bull-3x-etf-bstocks-tokenized-etf",
+   "mcap": 389581.71417794476
+  },
+  "TNSRUSDT": {
+   "nombre": "Tensor",
+   "cg": "tensor",
+   "mcap": 17568368.182143863
+  },
+  "TOWNSUSDT": {
+   "nombre": "Towns",
+   "cg": "towns",
+   "mcap": 2255889.314827875
+  },
+  "TQQQBUSDT": {
+   "nombre": "ProShares UltraPro QQQ (bStocks)",
+   "cg": "proshares-ultrapro-qqq-bstocks-tokenized-stock",
+   "mcap": 12109290.103596019
+  },
+  "TRBUSDT": {
+   "nombre": "Tellor Tributes",
+   "cg": "tellor",
+   "mcap": 39299277.84908784
+  },
+  "TREEUSDT": {
+   "nombre": "Treehouse",
+   "cg": "treehouse",
+   "mcap": 4595109.02070246
+  },
+  "TRUMPUSDT": {
+   "nombre": "Official Trump",
+   "cg": "official-trump",
+   "mcap": 290351881.2669687
+  },
+  "TRXUSDT": {
+   "nombre": "TRON",
+   "cg": "tron",
+   "mcap": 29671630874.10848
+  },
+  "TSLABUSDT": {
+   "nombre": "Tesla (bStocks)",
+   "cg": "tesla-bstocks-tokenized-stock",
+   "mcap": 18093807.73773233
+  },
+  "TSMBUSDT": {
+   "nombre": "TSMC (bStocks)",
+   "cg": "tsmc-bstocks-tokenized-stock",
+   "mcap": 9115312.183024075
+  },
+  "TSTUSDT": {
+   "nombre": "Test",
+   "cg": "test-3",
+   "mcap": 10664736.638484541
+  },
+  "TURBOUSDT": {
+   "nombre": "Turbo",
+   "cg": "turbo",
+   "mcap": 44193019.62354342
+  },
+  "TURTLEUSDT": {
+   "nombre": "Turtle",
+   "cg": "turtle-4",
+   "mcap": 4735860.744501627
+  },
+  "TUSDT": {
+   "nombre": "Threshold Network",
+   "cg": "threshold-network-token",
+   "mcap": 46604740.907259725
+  },
+  "TUSDUSDT": {
+   "nombre": "TrueUSD",
+   "cg": "true-usd",
+   "mcap": 493996079.627009
+  },
+  "TUTUSDT": {
+   "nombre": "Tutorial",
+   "cg": "tutorial",
+   "mcap": 11929743.405947844
+  },
+  "TWTUSDT": {
+   "nombre": "Trust Wallet",
+   "cg": "trust-wallet-token",
+   "mcap": 152676225.6748721
+  },
+  "UMAUSDT": {
+   "nombre": "UMA",
+   "cg": "uma",
+   "mcap": 26001119.588234816
+  },
+  "UNIUSDT": {
+   "nombre": "Uniswap",
+   "cg": "uniswap",
+   "mcap": 3270313380.934253
+  },
+  "USARBUSDT": {
+   "nombre": "USA Rare Earth (bStocks)",
+   "cg": "usa-rare-earth-bstocks-tokenized-stock",
+   "mcap": 936117.1886816866
+  },
+  "USD1USDT": {
+   "nombre": "USD1",
+   "cg": "usd1-wlfi",
+   "mcap": 3101001773.4536047
+  },
+  "USDCUSDT": {
+   "nombre": "USDC",
+   "cg": "usd-coin",
+   "mcap": 69055373499.9064
+  },
+  "USDEBUSDT": {
+   "nombre": "StablecoinX (bStocks)",
+   "cg": "stablecoinx-bstocks-tokenized-stock",
+   "mcap": 386828.96350779745
+  },
+  "USDEUSDT": {
+   "nombre": "Ethena USDe",
+   "cg": "ethena-usde",
+   "mcap": 4931294297.94032
+  },
+  "USDSUSDT": {
+   "nombre": "USDS",
+   "cg": "usds",
+   "mcap": 8523721425.586752
+  },
+  "USDTUSDT": {
+   "nombre": null,
+   "cg": null,
+   "mcap": null
+  },
+  "USTCUSDT": {
+   "nombre": "TerraClassicUSD",
+   "cg": "terrausd",
+   "mcap": 21849613.015984014
+  },
+  "USUALUSDT": {
+   "nombre": "Usual",
+   "cg": "usual",
+   "mcap": 21919064.868235238
+  },
+  "UUSDT": {
+   "nombre": "United Stables",
+   "cg": "united-stables",
+   "mcap": 1629169009.1065187
+  },
+  "UVXYBUSDT": {
+   "nombre": "ProShares Ultra VIX Short-Term Futures ETF (bStocks Tokenized ETF)",
+   "cg": "proshares-ultra-vix-short-term-futures-etf-bstocks-tokenized-etf",
+   "mcap": 527420.9645383274
+  },
+  "VANAUSDT": {
+   "nombre": "Vana",
+   "cg": "vana",
+   "mcap": 21008682.92648084
+  },
+  "VETUSDT": {
+   "nombre": "VeChain",
+   "cg": "vechain",
+   "mcap": 419135777.20548624
+  },
+  "VIRTUALUSDT": {
+   "nombre": "Virtuals Protocol",
+   "cg": "virtual-protocol",
+   "mcap": 319973011.42877144
+  },
+  "VSTBUSDT": {
+   "nombre": "Vistra Corp (bStocks)",
+   "cg": "vistra-corp-bstocks-tokenized-stock",
+   "mcap": 971316.5824627444
+  },
+  "VTHOUSDT": {
+   "nombre": "VeThor",
+   "cg": "vethor-token",
+   "mcap": 50138951.6164322
+  },
+  "WALUSDT": {
+   "nombre": "Walrus",
+   "cg": "walrus-2",
+   "mcap": 67428092.80248722
+  },
+  "WAXPUSDT": {
+   "nombre": "WAX",
+   "cg": "wax",
+   "mcap": 16735216.402578464
+  },
+  "WBETHUSDT": {
+   "nombre": "Wrapped Beacon ETH",
+   "cg": "wrapped-beacon-eth",
+   "mcap": 7333011508.939953
+  },
+  "WBTCUSDT": {
+   "nombre": "Wrapped Bitcoin",
+   "cg": "wrapped-bitcoin",
+   "mcap": 7756457322.373073
+  },
+  "WCTUSDT": {
+   "nombre": "WalletConnect Token",
+   "cg": "connect-token-wct",
+   "mcap": 13687766.815067746
+  },
+  "WDCBUSDT": {
+   "nombre": "Western Digital (bStocks)",
+   "cg": "western-digital-bstocks-tokenized-stock",
+   "mcap": 1974928.051312732
+  },
+  "WENBUSDT": {
+   "nombre": "Wendy’s (bStocks)",
+   "cg": "wendy-s-bstocks-tokenized-stock",
+   "mcap": 669081.8752298581
+  },
+  "WIFUSDT": {
+   "nombre": "dogwifhat",
+   "cg": "dogwifcoin",
+   "mcap": 142416633.42287254
+  },
+  "WINUSDT": {
+   "nombre": "WINkLink",
+   "cg": "wink",
+   "mcap": 52413556.60266237
+  },
+  "WLDUSDT": {
+   "nombre": "Worldcoin",
+   "cg": "worldcoin-wld",
+   "mcap": 1048843005.9188994
+  },
+  "WLFIUSDT": {
+   "nombre": "World Liberty Financial",
+   "cg": "world-liberty-financial",
+   "mcap": 1522390424.385616
+  },
+  "WOOUSDT": {
+   "nombre": "WOO",
+   "cg": "woo-network",
+   "mcap": 18402227.171312615
+  },
+  "WUSDT": {
+   "nombre": "Wormhole",
+   "cg": "wormhole",
+   "mcap": 63414768.35522278
+  },
+  "XAIUSDT": {
+   "nombre": "Xai",
+   "cg": "xai-blockchain",
+   "mcap": 12518484.31864566
+  },
+  "XAUTUSDT": {
+   "nombre": "Tether Gold",
+   "cg": "tether-gold",
+   "mcap": 3125836690.9557905
+  },
+  "XECUSDT": {
+   "nombre": "eCash",
+   "cg": "ecash",
+   "mcap": 106597746.89673074
+  },
+  "XLMUSDT": {
+   "nombre": "Stellar",
+   "cg": "stellar",
+   "mcap": 5036135453.603711
+  },
+  "XNOUSDT": {
+   "nombre": "Nano",
+   "cg": "nano",
+   "mcap": 42206703.283806786
+  },
+  "XPLUSDT": {
+   "nombre": "Plasma",
+   "cg": "plasma",
+   "mcap": 230555096.67408735
+  },
+  "XRPUSDT": {
+   "nombre": "XRP",
+   "cg": "ripple",
+   "mcap": 63230610237.765945
+  },
+  "XTZUSDT": {
+   "nombre": "Tezos",
+   "cg": "tezos",
+   "mcap": 246515911.29981232
+  },
+  "XUSDUSDT": {
+   "nombre": "StraitsX XUSD",
+   "cg": "straitsx-xusd",
+   "mcap": 41184125.9322484
+  },
+  "XVGUSDT": {
+   "nombre": "Verge",
+   "cg": "verge",
+   "mcap": 30341729.51646878
+  },
+  "XVSUSDT": {
+   "nombre": "Venus",
+   "cg": "venus",
+   "mcap": 40178268.099132024
+  },
+  "YBUSDT": {
+   "nombre": "Yield Basis",
+   "cg": "yield-basis",
+   "mcap": 13724948.127123563
+  },
+  "YFIUSDT": {
+   "nombre": "yearn.finance",
+   "cg": "yearn-finance",
+   "mcap": 62814503.46447545
+  },
+  "YGGUSDT": {
+   "nombre": "Yield Guild Games",
+   "cg": "yield-guild-games",
+   "mcap": 17743152.177881174
+  },
+  "ZAMAUSDT": {
+   "nombre": "Zama",
+   "cg": "zama",
+   "mcap": 147116302.69480363
+  },
+  "ZBTUSDT": {
+   "nombre": "ZEROBASE",
+   "cg": "zerobase",
+   "mcap": 17991788.46374288
+  },
+  "ZECUSDT": {
+   "nombre": "Zcash",
+   "cg": "zcash",
+   "mcap": 15149191031.686264
+  },
+  "ZENUSDT": {
+   "nombre": "Horizen",
+   "cg": "zencash",
+   "mcap": 79156351.15764773
+  },
+  "ZILUSDT": {
+   "nombre": "Zilliqa",
+   "cg": "zilliqa",
+   "mcap": 27614044.343937624
+  },
+  "ZKCUSDT": {
+   "nombre": "Boundless",
+   "cg": "boundless",
+   "mcap": 7329969.259954359
+  },
+  "ZKPUSDT": {
+   "nombre": "zkPass",
+   "cg": "zkpass",
+   "mcap": 6504966.865154327
+  },
+  "ZKUSDT": {
+   "nombre": "ZKsync",
+   "cg": "zksync",
+   "mcap": 94379121.3192809
+  },
+  "ZMBUSDT": {
+   "nombre": "Zoom (bStocks)",
+   "cg": "zoom-bstocks-tokenized-stock",
+   "mcap": 436903.25380424294
+  },
+  "ZROUSDT": {
+   "nombre": "LayerZero",
+   "cg": "layerzero",
+   "mcap": 607330141.104636
+  },
+  "ZRXUSDT": {
+   "nombre": "0x Protocol",
+   "cg": "0x",
+   "mcap": 70593854.30105637
+  },
+  "币安人生USDT": {
+   "nombre": "币安人生 (BinanceLife)",
+   "cg": "bianrensheng",
+   "mcap": 453461870.73371226
+  },
+  "牛来USDT": {
+   "nombre": "牛来 (Niu Lai)",
+   "cg": "niu-lai",
+   "mcap": 56106035.64108832
+  }
+ }
+}
