@@ -341,7 +341,7 @@ function generar() {
 <main>
 <p>${fechaLarga(hoy)}</p>
 <h1>El estado del registro</h1>
-<p>El registro es una bitácora propia que guarda, hora a hora, la variación de 24 horas de cada activo con par en USDT en la casa de cambio Binance. Cada activo tiene su carpeta y dentro un archivo por mes. Esta página es su libro: qué activos hay, qué días están cubiertos, desde cuándo hay historia de cada uno y qué falta por reconstruir. Se actualiza cuando el registro cambia.</p>
+<p>El registro guarda, hora a hora, la variación de 24 horas de cada activo con par en USDT en Binance; esta página es su libro y se actualiza cuando el registro cambia.</p>
 <hr>
 <h2>Lo que hay</h2>
 <ul>
@@ -352,25 +352,18 @@ ${vin.join('\n')}
 ${itemsTop.join('\n')}
 </ul>
 <h2>Los demás</h2>
-<p>Todos tienen ${coberturaCorta} y nada más atrás todavía: su historia anterior está pendiente de reconstrucción. Ordenados por capitalización (M = millones de dólares; «sin dato» cuando la fuente no la ofrece con claridad).</p>
+<p>Todos tienen ${coberturaCorta} y nada más atrás todavía: su historia anterior está pendiente de reconstrucción. Ordenados por capitalización (M = millones; «sin dato» cuando la fuente no la ofrece).</p>
 <div class="tabla"><table>
 <thead><tr><th>N.º</th><th>Activo y capitalización</th></tr></thead>
 <tbody>
 ${filas.join('\n')}
 </tbody>
 </table></div>
-<h2>Cómo se lee</h2>
-<ul>
-<li>Cada fila del registro guarda el cierre de una vela de una hora: «10:59:59.999» es el cierre del intervalo 10:00–11:00. Las horas están en UTC-4.</li>
-<li>«Primera variación 24h» es la entrada más antigua registrada y llega siempre 24 horas después de la primera vela: la variación necesita un día completo previo.</li>
-<li>«Pendiente de reconstrucción» es historia anterior que aún no se ha recuperado de la fuente.</li>
-<li>En las acciones tokenizadas (bStocks), la capitalización mostrada es la del token, no la bursátil de la empresa subyacente.</li>
-</ul>
 <h2>Estado de esta copia</h2>
 <p>Esta página describe la copia pública del registro tal como quedó el ${fechaLarga(hoy, true)}: sus datos llegan al ${fModa.dia} de ${MESES[fModa.mes - 1]}${excTxt}. El registro vivo sigue creciendo hora a hora en otra máquina; esta copia se pone al día en cada sincronización, y esta página, con ella.</p>
 <hr>
 <h2>Fuentes</h2>
-<p>Contenido del registro: la copia pública de los datos, revisada archivo por archivo (${R.archivos} archivos) el ${fechaLarga(hoy)}. Nombre e identidad de cada activo: su par listado en Binance según CoinGecko. Capitalización: CoinGecko. Ambas consultas ${identidad.meta.consulta_identidad}.</p>
+<p>Contenido: la copia pública del registro, revisada archivo por archivo (${R.archivos} archivos) el ${fechaLarga(hoy)}. Identidad y capitalización: CoinGecko, consulta ${identidad.meta.consulta_identidad}. En las acciones tokenizadas (bStocks), la capitalización es la del token.</p>
 <p>Esta página informa; no aconseja comprar ni vender.</p>
 <p>© 2026 Osmancito</p>
 </main>
