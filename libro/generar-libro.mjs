@@ -361,7 +361,7 @@ ${filas.join('\n')}
 </tbody>
 </table></div>
 <h2>Estado de esta copia</h2>
-<p>Esta página describe la copia pública del registro tal como quedó el ${fechaLarga(hoy, true)}: sus datos llegan al ${fModa.dia} de ${MESES[fModa.mes - 1]}${excTxt}. El registro vivo sigue creciendo hora a hora en otra máquina; esta copia se pone al día en cada sincronización, y esta página, con ella.</p>
+<p>Esta página describe la copia pública del registro tal como quedó el ${fechaLarga(hoy, true)}: sus datos llegan al ${fModa.dia} de ${MESES[fModa.mes - 1]}${excTxt}. Esta copia se pone al día en cada sincronización, y esta página, con ella.</p>
 <hr>
 <h2>Fuentes</h2>
 <p>Contenido: la copia pública del registro, revisada archivo por archivo (${R.archivos} archivos) el ${fechaLarga(hoy)}. Identidad y capitalización: CoinGecko, consulta ${identidad.meta.consulta_identidad}. En las acciones tokenizadas (bStocks), la capitalización es la del token.</p>
