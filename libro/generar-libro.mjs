@@ -342,7 +342,7 @@ function generar() {
 <main>
 <p>${fechaLarga(hoy)}</p>
 <h1>El estado del registro</h1>
-<p>El registro guarda, hora a hora, la variación de 24 horas de cada activo con par en USDT en Binance; esta página es su libro y se actualiza cuando el registro cambia.</p>
+<p>El registro guarda, hora a hora, la variación de 24 horas de cada activo con par en USDT en Binance; esta página es su libro.</p>
 <hr>
 <h2>Lo que hay</h2>
 <ul>
