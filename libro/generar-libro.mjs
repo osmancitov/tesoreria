@@ -334,6 +334,7 @@ function generar() {
 <style>
 @media (max-width: 640px) {
   .tabla td, .tabla th { white-space: normal; overflow-wrap: anywhere; }
+  .tabla td:first-child, .tabla th:first-child { white-space: nowrap; width: 1%; }
 }
 </style>
 </head>
