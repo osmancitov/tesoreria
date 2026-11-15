@@ -74,7 +74,7 @@ La comparación exige respetar el orden del tiempo: una simulación solo puede u
 
 La importancia del índice de miedo y codicia está en convertir señales dispersas en una observación que puede registrarse, compararse y discutirse. Ayuda a estudiar cómo se relacionan el ánimo y los precios, y a reconocer la presión emocional que acompaña al dinero. Su valor aumenta cuando la fórmula se entiende y sus resultados se comprueban. La certeza sobre el siguiente movimiento del mercado sigue fuera de esa cifra.
 
-<details>
+<details markdown="1">
 <summary>Consulta del histórico de Alternative.me</summary>
 
 La dirección `https://api.alternative.me/fng/?limit=0` solicita todos los registros disponibles. El parámetro `limit=30` pide los últimos treinta. El parámetro `format=csv` permite recibir una tabla de texto apta para hojas de cálculo. El proveedor exige atribuirle los datos junto a su presentación.
