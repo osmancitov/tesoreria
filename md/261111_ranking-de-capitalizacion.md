@@ -16,7 +16,7 @@ Entre esos activos están las bStocks. Una **ficha** (*token*, en inglés) es un
 
 Es una foto: los precios ya se movieron y la lista no se actualiza.
 
-## Los 518 activos, de mayor a menor capitalización
+## Los activos, de mayor a menor capitalización
 
 | N.º | Activo | Capitalización (USD) |
 |---:|---|---:|
