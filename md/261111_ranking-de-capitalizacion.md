@@ -14,7 +14,7 @@ En el puesto 21 aparece RWUSD: no es una moneda estable, sino un producto de ren
 
 Entre esos activos están las bStocks. Una **ficha** (*token*, en inglés) es un registro en una cadena de bloques que representa otra cosa, y las bStocks representan acciones de empresas y participaciones en fondos que cotizan en bolsa. La capitalización que muestra la tabla es la de las fichas emitidas, no la de la empresa o el fondo que representan. Una tabla aparte las reúne solas, en el mismo orden.
 
-Es una foto: los precios ya se movieron y la lista no se actualiza. Esta página informa; no recomienda comprar ni vender.
+Es una foto: los precios ya se movieron y la lista no se actualiza.
 
 ## Los 518 activos, de mayor a menor capitalización
 
