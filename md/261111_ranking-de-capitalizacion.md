@@ -6,15 +6,15 @@
 
 Un **activo** es un producto que se compra y se vende en un mercado. Una **criptomoneda** es dinero digital registrado en una cadena de bloques, un registro de operaciones que una red de computadoras mantiene según reglas comunes. La **capitalización de mercado** de una criptomoneda es el precio de una unidad multiplicado por las unidades en circulación: mide el tamaño del conjunto, no el de cada moneda. Binance es una casa de cambio, un sitio donde esos activos se compran y se venden, y USDT es una moneda estable, es decir, diseñada para valer un dólar.
 
-A las 3:39 de la mañana (UTC-4) Binance tenía 517 pares al contado con USDT como moneda de cotización. Un **par** es un activo junto con la moneda en que se cotiza, y un mercado **al contado** (*spot*, en inglés) entrega el activo en el momento de la compra. Esta lista ordena por su capitalización de mercado, de mayor a menor, los 517 activos de esos pares y también el propio USDT, que no aparecía entre ellos por ser la moneda de cotización: 518 en total. Las cifras salen de CoinGecko, consultadas hacia las 4:10 de esa madrugada, y de CoinMarketCap, hacia las 4:30, para los activos que CoinGecko no registra; la de USDT salió de CoinGecko hacia las 5:00.
+Un **par** es un activo junto con la moneda en que se cotiza, y un mercado **al contado** (*spot*, en inglés) entrega el activo en el momento de la compra. Esta lista ordena por su capitalización de mercado, de mayor a menor, los activos de los pares al contado con USDT que Binance tenía ese día, y también el propio USDT, que no aparecía entre ellos por ser la moneda de cotización. Las cifras se consultaron ese mismo día en CoinGecko y, para los activos que CoinGecko no registra, en CoinMarketCap.
 
 Juntos suman unos 2,4 billones de dólares. Bitcoin pesa el 61 % del conjunto y los diez primeros reúnen el 93 %. Desde ahí la caída es rápida: el puesto 100 ya está en 200 millones de dólares y el último, en 350 mil.
 
 En el puesto 21 aparece RWUSD: no es una moneda estable, sino un producto de rendimiento de Binance, según la propia casa de cambio.
 
-De los 518 activos, 105 son bStocks. Una **ficha** (*token*, en inglés) es un registro en una cadena de bloques que representa otra cosa, y las bStocks representan acciones de empresas y participaciones en fondos que cotizan en bolsa. La capitalización que muestra la tabla es la de las fichas emitidas, no la de la empresa o el fondo que representan. Una tabla aparte las reúne solas, en el mismo orden.
+Entre esos activos están las bStocks. Una **ficha** (*token*, en inglés) es un registro en una cadena de bloques que representa otra cosa, y las bStocks representan acciones de empresas y participaciones en fondos que cotizan en bolsa. La capitalización que muestra la tabla es la de las fichas emitidas, no la de la empresa o el fondo que representan. Una tabla aparte las reúne solas, en el mismo orden.
 
-Las cifras de las tablas están redondeadas a dos cifras significativas, que son las dos primeras que no son cero; el orden usa el valor completo, así que dos filas con la misma cifra redondeada no empatan necesariamente. Es una foto: los precios ya se movieron y la lista no se actualiza. Esta página informa; no recomienda comprar ni vender.
+Es una foto: los precios ya se movieron y la lista no se actualiza. Esta página informa; no recomienda comprar ni vender.
 
 ## Los 518 activos, de mayor a menor capitalización
 
