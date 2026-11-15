@@ -8,13 +8,11 @@ Una **API** es una puerta por la que un programa pide datos a un servicio y reci
 
 ## Binance
 
-Binance es una casa de cambio, un sitio donde se compran y se venden criptomonedas. Una **criptomoneda** es dinero digital registrado en una cadena de bloques, un registro de operaciones que una red de computadoras mantiene según reglas comunes. La API de Binance se entiende mejor separando tres ideas que los nombres mezclan.
+Binance es una casa de cambio, un sitio donde se compran y se venden criptomonedas. Una **criptomoneda** es dinero digital registrado en una cadena de bloques, un registro de operaciones que una red de computadoras mantiene según reglas comunes. La API de Binance se entiende mejor distinguiendo el producto y los permisos de cada función.
 
 **Producto.** El comienzo de la dirección de una función dice a qué parte de Binance pertenece. `/api` es Spot, el mercado al contado, que entrega el activo en el momento de la compra. `/sapi` reúne servicios de cuenta, como la consulta de comisiones. Los futuros, que son contratos sobre un precio posterior, tienen su propia dirección, `fapi.binance.com`.
 
-**Versión.** `v1`, `v2` o `v3` es la revisión de una función concreta; no dice si el dato es público o privado, y la versión no se elige para todo Binance. Spot usa `/api/v3`; en futuros conviven `/fapi/v2/account` y `/fapi/v3/account`.
-
-**Permiso.** Cada función declara su tipo: pública, sin clave; de datos de cuenta, con clave y firma, que es un código calculado con la clave secreta para probar que la petición es de su dueño; de operar, con una clave que tenga permiso de trading, desactivado de manera predeterminada; y de flujo de eventos de la cuenta. Por eso `/api/v3/klines` y `/api/v3/account` comparten producto y versión, y la primera es pública mientras la segunda es privada.
+**Permiso.** Cada función declara su tipo: pública, sin clave; de datos de cuenta, con clave y firma, que es un código calculado con la clave secreta para probar que la petición es de su dueño; de operar, con una clave que tenga permiso de trading, desactivado de manera predeterminada; y de flujo de eventos de la cuenta. Por eso `klines` y `account` pertenecen a Spot, pero la primera es pública y la segunda es privada.
 
 ## Spot público, sin clave
 
@@ -22,19 +20,19 @@ Una **vela** resume un intervalo de tiempo con cuatro precios, apertura, máximo
 
 | Dato | Función |
 |---|---|
-| Precio actual | `/api/v3/ticker/price` |
-| Cambio, máximo, mínimo y volumen de 24 horas | `/api/v3/ticker/24hr` |
-| Mejor precio de compra y de venta | `/api/v3/ticker/bookTicker` |
-| Libro de órdenes | `/api/v3/depth` |
-| Operaciones recientes | `/api/v3/trades`, `/api/v3/aggTrades` |
-| Velas, hasta 1000 por consulta | `/api/v3/klines`, `/api/v3/uiKlines` |
-| Pares disponibles y sus reglas | `/api/v3/exchangeInfo` |
+| Precio actual | `ticker/price` |
+| Cambio, máximo, mínimo y volumen de 24 horas | `ticker/24hr` |
+| Mejor precio de compra y de venta | `ticker/bookTicker` |
+| Libro de órdenes | `depth` |
+| Operaciones recientes | `trades`, `aggTrades` |
+| Velas, hasta 1000 por consulta | `klines`, `uiKlines` |
+| Pares disponibles y sus reglas | `exchangeInfo` |
 
 Estas funciones también se consultan en `data-api.binance.vision`, un dominio que solo sirve datos públicos. Para historia larga de velas, Binance remite a `data.binance.vision`, donde se descargan archivos.
 
 ## Spot privado y operar
 
-Con clave de solo lectura, Spot entrega los saldos de la cuenta (`/api/v3/account`), el estado de las órdenes y las operaciones propias. Poner o cancelar órdenes, como `/api/v3/order`, exige otro permiso de la clave y es otra decisión.
+Con clave de solo lectura, Spot entrega los saldos de la cuenta (`account`), el estado de las órdenes y las operaciones propias. Poner o cancelar órdenes, como `order`, exige otro permiso de la clave y es otra decisión.
 
 ## Cómo llegan los datos
 

@@ -26,26 +26,25 @@
 <a href="../img/261115_fuentes-de-datos-de-mercado.jpg"><img src="../img/261115_fuentes-de-datos-de-mercado.jpg" alt="Una sala de archivo antigua con ventanillas de madera rotuladas Archivos generales, Mapas de mercados, Libro de cuentas y Reloj de arena y monedas; un visitante de espaldas recibe un pliego de papeles." width="1672" height="941"></a>
 <p>Una <strong>API</strong> es una puerta por la que un programa pide datos a un servicio y recibe la respuesta en un formato ordenado. Una <strong>fuente de datos</strong> es un servicio que ofrece datos por API. Una <strong>clave de API</strong> es un código que identifica a quien consulta: unas fuentes lo exigen y otras no. Esta página reúne qué datos da cada fuente. Informa; no recomienda comprar ni vender.</p>
 <h2>Binance</h2>
-<p>Binance es una casa de cambio, un sitio donde se compran y se venden criptomonedas. Una <strong>criptomoneda</strong> es dinero digital registrado en una cadena de bloques, un registro de operaciones que una red de computadoras mantiene según reglas comunes. La API de Binance se entiende mejor separando tres ideas que los nombres mezclan.</p>
+<p>Binance es una casa de cambio, un sitio donde se compran y se venden criptomonedas. Una <strong>criptomoneda</strong> es dinero digital registrado en una cadena de bloques, un registro de operaciones que una red de computadoras mantiene según reglas comunes. La API de Binance se entiende mejor distinguiendo el producto y los permisos de cada función.</p>
 <p><strong>Producto.</strong> El comienzo de la dirección de una función dice a qué parte de Binance pertenece. <code>/api</code> es Spot, el mercado al contado, que entrega el activo en el momento de la compra. <code>/sapi</code> reúne servicios de cuenta, como la consulta de comisiones. Los futuros, que son contratos sobre un precio posterior, tienen su propia dirección, <code>fapi.binance.com</code>.</p>
-<p><strong>Versión.</strong> <code>v1</code>, <code>v2</code> o <code>v3</code> es la revisión de una función concreta, y cada función lleva la suya. Spot usa <code>/api/v3</code>; en futuros conviven <code>/fapi/v2/account</code> y <code>/fapi/v3/account</code>.</p>
-<p><strong>Permiso.</strong> Cada función declara su tipo: pública, sin clave; de datos de cuenta, con clave y firma, que es un código calculado con la clave secreta para probar que la petición es de su dueño; de operar, con una clave que tenga permiso de trading, desactivado de manera predeterminada; y de flujo de eventos de la cuenta. Por eso <code>/api/v3/klines</code> y <code>/api/v3/account</code> comparten producto y versión, y la primera es pública mientras la segunda es privada.</p>
+<p><strong>Permiso.</strong> Cada función declara su tipo: pública, sin clave; de datos de cuenta, con clave y firma, que es un código calculado con la clave secreta para probar que la petición es de su dueño; de operar, con una clave que tenga permiso de trading, desactivado de manera predeterminada; y de flujo de eventos de la cuenta. Por eso <code>klines</code> y <code>account</code> pertenecen a Spot, pero la primera es pública y la segunda es privada.</p>
 <h2>Spot público, sin clave</h2>
 <p>Una <strong>vela</strong> resume un intervalo de tiempo con cuatro precios, apertura, máximo, mínimo y cierre, más el volumen negociado. El <strong>libro de órdenes</strong> es la lista de ofertas abiertas de compra y de venta.</p>
 <div class="tabla"><table>
 <thead><tr><th>Dato</th><th>Función</th></tr></thead>
 <tbody>
-<tr><td>Precio actual</td><td><code>/api/v3/ticker/price</code></td></tr>
-<tr><td>Cambio, máximo, mínimo y volumen de 24 horas</td><td><code>/api/v3/ticker/24hr</code></td></tr>
-<tr><td>Mejor precio de compra y de venta</td><td><code>/api/v3/ticker/bookTicker</code></td></tr>
-<tr><td>Libro de órdenes</td><td><code>/api/v3/depth</code></td></tr>
-<tr><td>Operaciones recientes</td><td><code>/api/v3/trades</code>, <code>/api/v3/aggTrades</code></td></tr>
-<tr><td>Velas, hasta 1000 por consulta</td><td><code>/api/v3/klines</code>, <code>/api/v3/uiKlines</code></td></tr>
-<tr><td>Pares disponibles y sus reglas</td><td><code>/api/v3/exchangeInfo</code></td></tr>
+<tr><td>Precio actual</td><td><code>ticker/price</code></td></tr>
+<tr><td>Cambio, máximo, mínimo y volumen de 24 horas</td><td><code>ticker/24hr</code></td></tr>
+<tr><td>Mejor precio de compra y de venta</td><td><code>ticker/bookTicker</code></td></tr>
+<tr><td>Libro de órdenes</td><td><code>depth</code></td></tr>
+<tr><td>Operaciones recientes</td><td><code>trades</code>, <code>aggTrades</code></td></tr>
+<tr><td>Velas, hasta 1000 por consulta</td><td><code>klines</code>, <code>uiKlines</code></td></tr>
+<tr><td>Pares disponibles y sus reglas</td><td><code>exchangeInfo</code></td></tr>
 </tbody></table></div>
 <p>Estas funciones también se consultan en <code>data-api.binance.vision</code>, un dominio que solo sirve datos públicos. Para historia larga de velas, Binance remite a <code>data.binance.vision</code>, donde se descargan archivos.</p>
 <h2>Spot privado y operar</h2>
-<p>Con clave de solo lectura, Spot entrega los saldos de la cuenta (<code>/api/v3/account</code>), el estado de las órdenes y las operaciones propias. Poner o cancelar órdenes, como <code>/api/v3/order</code>, exige otro permiso de la clave y es otra decisión.</p>
+<p>Con clave de solo lectura, Spot entrega los saldos de la cuenta (<code>account</code>), el estado de las órdenes y las operaciones propias. Poner o cancelar órdenes, como <code>order</code>, exige otro permiso de la clave y es otra decisión.</p>
 <h2>Cómo llegan los datos</h2>
 <p><strong>REST</strong> es pedir un dato y recibir la respuesta. Un <strong>flujo en vivo</strong>, por WebSocket, que es una conexión que queda abierta, hace que Binance envíe cada actualización sin que se pida, por ejemplo <code>btcusdt@kline_1m</code>. Binance ofrece también un entorno de pruebas, <code>demo-api.binance.com</code>, que no usa dinero real.</p>
 <h2>Futuros</h2>
