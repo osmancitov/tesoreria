@@ -49,7 +49,7 @@
 <h2>Cómo llegan los datos</h2>
 <p><strong>REST</strong> es pedir un dato y recibir la respuesta. Un <strong>flujo en vivo</strong>, por WebSocket, que es una conexión que queda abierta, hace que Binance envíe cada actualización sin que se pida, por ejemplo <code>btcusdt@kline_1m</code>. Binance ofrece también un entorno de pruebas, <code>demo-api.binance.com</code>, que no usa dinero real.</p>
 <h2>Futuros</h2>
-<p>La API de futuros USDS-M añade datos de esos contratos, como el historial del interés abierto, que es el total de contratos que siguen abiertos; ese historial cubre solo el último mes. Consultar esos datos es distinto de operar futuros.</p>
+<p>La API de futuros USDS-M añade datos de esos contratos, como el historial del interés abierto (<code>/futures/data/openInterestHist</code>), que es el total de contratos que siguen abiertos; esa función solo devuelve datos del último mes. Consultar esos datos es distinto de operar futuros.</p>
 <h2>Otras fuentes</h2>
 <div class="tabla"><table>
 <thead><tr><th>Fuente</th><th>Qué da</th><th>Clave</th></tr></thead>
@@ -59,7 +59,7 @@
 <tr><td>Alpha Vantage</td><td>Acciones: cotización y series intradía, diarias, semanales y mensuales; índices, opciones, noticias con sentimiento y datos de las empresas. Algunas funciones son de pago</td><td>Sí, gratuita</td></tr>
 <tr><td>Twelve Data</td><td>Series de precios, cotización, último precio y mayores movimientos de acciones, divisas, criptomonedas, fondos y otros</td><td>Sí; plan Basic gratuito con créditos limitados</td></tr>
 <tr><td>FRED, Banco de la Reserva Federal de San Luis</td><td>Series de datos económicos con su historial y las fechas en que se revisaron sus valores</td><td>Sí, ligada a una cuenta de FRED</td></tr>
-<tr><td>SEC EDGAR</td><td>Historial de presentaciones de cada empresa ante el regulador de Estados Unidos y las cifras de sus estados financieros extraídas de formularios como 10-K, 10-Q y 8-K; no da cotizaciones</td><td>No</td></tr>
+<tr><td>SEC EDGAR</td><td>La API de datos, en JSON, da el historial de presentaciones de cada empresa ante el regulador de Estados Unidos y las cifras de sus estados financieros (XBRL) de formularios como 10-K, 10-Q y 8-K. Los documentos de cada presentación se descargan de los archivos de EDGAR, con índices diarios y trimestrales. No da cotizaciones</td><td>No</td></tr>
 </tbody></table></div>
 <p>El índice de Alternative.me se calcula hoy solo para Bitcoin, con volatilidad, volumen y momentum, redes sociales, encuestas, dominancia y búsquedas en Google. Sus términos piden citar la fuente de forma visible junto a los datos y no usarlos para crear un servicio que se confunda con el suyo. Fuente: Alternative.me.</p>
 <p>Los límites de uso y los planes gratuitos cambian; cada fuente publica los vigentes en su página.</p>

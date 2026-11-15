@@ -42,7 +42,7 @@ Con clave de solo lectura, Spot entrega los saldos de la cuenta (`/api/v3/accoun
 
 ## Futuros
 
-La API de futuros USDS-M añade datos de esos contratos, como el historial del interés abierto, que es el total de contratos que siguen abiertos; ese historial cubre solo el último mes. Consultar esos datos es distinto de operar futuros.
+La API de futuros USDS-M añade datos de esos contratos, como el historial del interés abierto (`/futures/data/openInterestHist`), que es el total de contratos que siguen abiertos; esa función solo devuelve datos del último mes. Consultar esos datos es distinto de operar futuros.
 
 ## Otras fuentes
 
@@ -53,7 +53,7 @@ La API de futuros USDS-M añade datos de esos contratos, como el historial del i
 | Alpha Vantage | Acciones: cotización y series intradía, diarias, semanales y mensuales; índices, opciones, noticias con sentimiento y datos de las empresas. Algunas funciones son de pago | Sí, gratuita |
 | Twelve Data | Series de precios, cotización, último precio y mayores movimientos de acciones, divisas, criptomonedas, fondos y otros | Sí; plan Basic gratuito con créditos limitados |
 | FRED, Banco de la Reserva Federal de San Luis | Series de datos económicos con su historial y las fechas en que se revisaron sus valores | Sí, ligada a una cuenta de FRED |
-| SEC EDGAR | Historial de presentaciones de cada empresa ante el regulador de Estados Unidos y las cifras de sus estados financieros extraídas de formularios como 10-K, 10-Q y 8-K; no da cotizaciones | No |
+| SEC EDGAR | La API de datos, en JSON, da el historial de presentaciones de cada empresa ante el regulador de Estados Unidos y las cifras de sus estados financieros (XBRL) de formularios como 10-K, 10-Q y 8-K. Los documentos de cada presentación se descargan de los archivos de EDGAR, con índices diarios y trimestrales. No da cotizaciones | No |
 
 El índice de Alternative.me se calcula hoy solo para Bitcoin, con volatilidad, volumen y momentum, redes sociales, encuestas, dominancia y búsquedas en Google. Sus términos piden citar la fuente de forma visible junto a los datos y no usarlos para crear un servicio que se confunda con el suyo. Fuente: Alternative.me.
 
