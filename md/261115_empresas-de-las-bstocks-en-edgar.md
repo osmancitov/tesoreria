@@ -1,4 +1,4 @@
-# Las empresas de las bStocks en EDGAR
+# Catálogo de empresas tokenizadas
 
 15 de noviembre de 2026
 
